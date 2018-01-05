@@ -7,6 +7,12 @@ description: > # this means to ignore newlines until "baseurl:"
 twitter_username: kisharrington
 github_username:  kephale
 
+header_pages:
+  - about/
+  - research/
+  - software/
+  - teaching/
+
 google_analytics: true
 
 # Minima date format
