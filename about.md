@@ -19,7 +19,7 @@ permalink: /about/
 
 ## Positions
 - Assistant Professor, 2016 - present,<br />&nbsp;&nbsp;&nbsp;&nbsp;Virtual Technology and Design,<br />&nbsp;&nbsp;&nbsp;&nbsp;University of Idaho, Moscow.<br />
-- Visiting Professor, 2017,<br />&nbsp;&nbsp;&nbsp;&nbsp;Computer Science, University of Toulouse, France.<br />
+- Visiting Professor, 2017,<br />&nbsp;&nbsp;&nbsp;&nbsp;Computer Science,<br /> University of Toulouse, France.<br />
 - Visiting Professor, 2017,<br />&nbsp;&nbsp;&nbsp;&nbsp;Center for Systems Biology Dresden, Germany.<br />
 - Lecturer, 2016,<br />&nbsp;&nbsp;&nbsp;&nbsp;Department of Computer Science,<br />&nbsp;&nbsp;&nbsp;&nbsp;Tufts University.<br />
 - Postdoctoral Fellow, 2014 - 2016,<br />&nbsp;&nbsp;&nbsp;&nbsp;Bentley Group, Beth Israel Deaconess Medical Center,<br />&nbsp;&nbsp;&nbsp;&nbsp;Harvard Medical School.<br />
