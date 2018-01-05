@@ -17,13 +17,11 @@ I completed my PhD in Computer Science at Brandeis University with <a href="http
 
 ## <i><b>News:</b></i>
 
-- Come to my ImageJ tutorial and talk at ImageXD, Seattle, WA on March 29 and 30.
+- Our paper (with Curtis Rueden and Kevin Eliceiri): “FunImageJ: a Lisp framework for scientific image processing” came out in Bioinformatics.
 
-- I'll be giving the talk "Functional Scientific Programming: Bringing Images to Life" at BosLab in Cambridge, MA on March 16 (https://www.meetup.com/BosLab/events/238036604/).
+- I was a visiting professor in computer science at the University of Toulouse in the Fall of 2017.
 
-- "Asymmetric division coordinates collective cell migration in angiogenesis" was accepted at Nature Cell Biology! New ideas about mechanisms driving collective cell behavior in angiogenesis.
-
-- "Configurable NOR Gate Arrays from Belousov-Zhabotinsky Micro-droplets" was accepted at EPJ:ST! Chemical computation from theory (Heymann et al., 2010) to experimental realization (Wang et al., 2016).
+- I was the inaugural visiting professor during the summer of 2017 of the Center for Systems Biology Dresden, a new center created by the Max Planck Insitutes for Cell Biology and Genetics, the Max Planck Insitutes for Physical Complex Systems, and TU-Dresden.
 
 ## <i><b>Selected publications:</b></i>
 
