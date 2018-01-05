@@ -25,7 +25,8 @@ permalink: /about/
 - Postdoctoral Fellow, 2014 - 2016,<br />&nbsp;&nbsp;&nbsp;&nbsp;Bentley Group, Beth Israel Deaconess Medical Center,<br />&nbsp;&nbsp;&nbsp;&nbsp;Harvard Medical School.<br />
 - Visiting Scientist, 2014,<br />&nbsp;&nbsp;&nbsp;&nbsp;Grigorieff Lab, <br />&nbsp;&nbsp;&nbsp;&nbsp;Howard Hughes Medical Institute, Janelia Farm.<br />
 - Graduate Research and Teaching Assistant, 2008 - 2014,<br />&nbsp;&nbsp;&nbsp;&nbsp;DEMO Lab,<br />&nbsp;&nbsp;&nbsp;&nbsp;Computer Science, Brandeis University.<br />
-- Visiting Scholar, 2010 - 2012,<br />&nbsp;&nbsp;&nbsp;&nbsp;BINDS Lab,<br />&nbsp;&nbsp;&nbsp;&nbsp;University of Massachusetts, Amherst.<br />Instructor of Computer Science, 2007 - 2008,<br />&nbsp;&nbsp;&nbsp;&nbsp;Hampshire College.<br />
+- Visiting Scholar, 2010 - 2012,<br />&nbsp;&nbsp;&nbsp;&nbsp;BINDS Lab,<br />&nbsp;&nbsp;&nbsp;&nbsp;University of Massachusetts, Amherst.<br />
+- Instructor of Computer Science, 2007 - 2008,<br />&nbsp;&nbsp;&nbsp;&nbsp;Hampshire College.<br />
 
 ## Awards and Activities
 - Panelist, National Science Foundation - 2017<br />
