@@ -8,10 +8,10 @@ twitter_username: kisharrington
 github_username:  kephale
 
 header_pages:
-  - about
-  - research
-  - software
-  - teaching
+  - about.md
+  - research.md
+  - software.md
+  - teaching.md
 
 google_analytics: true
 
