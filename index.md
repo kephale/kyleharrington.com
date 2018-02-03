@@ -21,7 +21,7 @@ I completed my PhD in Computer Science at Brandeis University with <a href="http
 
 - I was a visiting professor in computer science at the University of Toulouse in the Fall of 2017.
 
-- I was the inaugural visiting professor during the summer of 2017 of the Center for Systems Biology Dresden, a new center created by the Max Planck Insitutes for Cell Biology and Genetics, the Max Planck Insitutes for Physical Complex Systems, and TU-Dresden.
+- I was the inaugural visiting professor during the summer of 2017 of the Center for Systems Biology Dresden, a new center created by the Max Planck Insitute for Cell Biology and Genetics, the Max Planck Insitute for Physical Complex Systems, and TU-Dresden.
 
 ## <i><b>Selected publications:</b></i>
 
