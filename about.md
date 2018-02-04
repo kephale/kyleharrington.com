@@ -39,4 +39,4 @@ permalink: /about/
 
 ## Reviewing
 
-Nature Communications, IEEE Trans. on Neural Networks and Learning Systems, Theoretical Computer Science, Physics Letters A, Neural Networks, BioSystems, Frontiers in Computational Neuroscience, IEEE Trans. on Neural Networks, IEEE Trans. on Autonomous Mental Development, Optimization Letters, Emotion Review, IEEE-RAS Int'l Conf. on Humanoid Robotics, IEEE Int'l Joint Conf. on Neural Networks, IEEE Sym. Series on Computational Intelligence
+Bioinformatics, Nature Communications, IEEE Trans. on Neural Networks and Learning Systems, Theoretical Computer Science, Physics Letters A, Neural Networks, BioSystems, Frontiers in Computational Neuroscience, IEEE Trans. on Neural Networks, IEEE Trans. on Autonomous Mental Development, Optimization Letters, Emotion Review, IEEE-RAS Int'l Conf. on Humanoid Robotics, IEEE Int'l Joint Conf. on Neural Networks, IEEE Sym. Series on Computational Intelligence
