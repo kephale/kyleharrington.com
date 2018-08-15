@@ -36,6 +36,7 @@ permalink: /about/
 - (Co-PI) University of Idaho EPSCoR, 2017 - Moberly, Langman, Wilhelm, Harrington - *$107,914*
 
 ## Awards and Activities
+- Visiting Researcher, Royal Veterinary College (Host: Doube; Sponsor: Royal Soeciety) - 2018
 - Panelist, National Science Foundation - 2017<br />
 - Mentor, ClojureBridge Boston: Programming Workshop for Underrepresented Groups - 2016-2017<br />
 - Selected speaker (Scientific Computing in Clojure), Clojure/Conj - 2015<br />
