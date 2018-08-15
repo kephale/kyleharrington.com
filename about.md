@@ -8,6 +8,7 @@ permalink: /about/
 - Assistant Professor,<br />&nbsp;&nbsp;&nbsp;&nbsp;Virtual Technology and Design,<br />&nbsp;&nbsp;&nbsp;&nbsp;University of Idaho, Moscow.
 - Affiliate Faculty,<br />&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.uidaho.edu/engr/departments/cs">Computer Science</a><br />&nbsp;&nbsp;&nbsp;&nbsp;University of Idaho, Moscow.<br />
 - Affiliate Faculty,<br />&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.uidaho.edu/sci/bcb">Bioinformatics and Computational Biology graduate program</a><br />&nbsp;&nbsp;&nbsp;&nbsp;University of Idaho, Moscow.<br />
+- Affiliate Faculty,<br />&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.uidaho.edu/engr/departments/be">Biological Engineering</a><br />&nbsp;&nbsp;&nbsp;&nbsp;University of Idaho, Moscow.<br />
 - Affiliate Faculty,<br />&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www3.beacon-center.org/">BEACON Center for the Study of Evolution in Action</a>.<br />&nbsp;&nbsp;&nbsp;&nbsp;University of Idaho, Moscow.<br />
 - Affiliate Faculty,<br />&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.ibest.uidaho.edu/">Institute for Bioinformatics and Evolutionary Studies</a><br />&nbsp;&nbsp;&nbsp;&nbsp;University of Idaho, Moscow.<br />
 
@@ -27,6 +28,12 @@ permalink: /about/
 - Graduate Research and Teaching Assistant, 2008 - 2014,<br />&nbsp;&nbsp;&nbsp;&nbsp;DEMO Lab,<br />&nbsp;&nbsp;&nbsp;&nbsp;Computer Science, Brandeis University.<br />
 - Visiting Scholar, 2010 - 2012,<br />&nbsp;&nbsp;&nbsp;&nbsp;BINDS Lab,<br />&nbsp;&nbsp;&nbsp;&nbsp;University of Massachusetts, Amherst.<br />
 - Instructor of Computer Science, 2007 - 2008,<br />&nbsp;&nbsp;&nbsp;&nbsp;Hampshire College.<br />
+
+## Grants and Funding
+- (PI) University of Idaho Seed Grant, 2018 - Harrington - *$12,000*
+- (Co-PI) Royal Society International Exchange, 2018 - Doube, Harrington - *£3,000*
+- (PI) Tufts University (subcontract), 2018-2019 - Harrington - *$60,000*
+- (Co-PI) University of Idaho EPSCoR, 2017 - Moberly, Langman, Wilhelm, Harrington - *$107,914*
 
 ## Awards and Activities
 - Panelist, National Science Foundation - 2017<br />
