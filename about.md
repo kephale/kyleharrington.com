@@ -29,13 +29,8 @@ permalink: /about/
 - Visiting Scholar, 2010 - 2012,<br />&nbsp;&nbsp;&nbsp;&nbsp;BINDS Lab,<br />&nbsp;&nbsp;&nbsp;&nbsp;University of Massachusetts, Amherst.<br />
 - Instructor of Computer Science, 2007 - 2008,<br />&nbsp;&nbsp;&nbsp;&nbsp;Hampshire College.<br />
 
-## Grants and Funding
-- (PI) University of Idaho Seed Grant, 2018 - Harrington - *$12,000*
-- (Co-PI) Royal Society International Exchange, 2018 - Doube, Harrington - *£3,000*
-- (PI) Tufts University (subcontract), 2018-2019 - Harrington - *$60,000*
-- (Co-PI) University of Idaho EPSCoR, 2017 - Moberly, Langman, Wilhelm, Harrington - *$107,914*
-
 ## Awards and Activities
+- Visiting Researcher, Royal Veterinary College (Host: Doube; Sponsor: Royal Soeciety) - 2018
 - Panelist, National Science Foundation - 2017<br />
 - Mentor, ClojureBridge Boston: Programming Workshop for Underrepresented Groups - 2016-2017<br />
 - Selected speaker (Scientific Computing in Clojure), Clojure/Conj - 2015<br />
