@@ -1,0 +1,32 @@
+<section>
+  {% include cv/section_header.html text='Experience &amp; Amazing Feats'%}
+
+  {% for job in cv.jobs %}
+    <div>
+      <h3>
+        <a href={{ job.company.website }} target="_blank">{{ job.company.name }}</a>
+      </h3>
+
+      {% for position in job.positions %}
+        <div>
+          <span><strong>{{ position.title }}</strong></span>
+          <span><small>({{ position.duration }})</small></span>
+        </div>
+      {% endfor %}
+
+      <p>{{ job.description }}</p>
+
+      <ul class="hide" id="accomplishments-{{ forloop.index }}">
+        {% for accomplishment in job.accomplishments %}
+          <li>{{ accomplishment }}</li>
+        {% endfor %}
+      </ul>
+
+      <div class="center">
+        <a class="button button-outline" data-toggle="collapse" data-target="#accomplishments-{{ forloop.index }}">
+          <i class="fa fa-angle-double-down"></i>
+        </a>
+      </div>
+    </div>
+  {% endfor %}
+</section>

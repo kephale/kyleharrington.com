@@ -3,6 +3,8 @@
 $(document).ready(function() {
   var generateResume = function() {
     var resumeContent = $.parseJSON($('#cvJson').text());
+    
+    console.log($('#cvJson').text());
 
     var docDefinition = {
       content: [],
@@ -61,18 +63,18 @@ $(document).ready(function() {
     };
 
     // Header
-    //content.push({ text: resumeContent['name'], style: 'name'});
-    content.push({ text: 'kyle iscool', style: 'name'});
+    content.push({ text: resumeContent['name'], style: 'name'});
+    //content.push({ text: 'kyle iscool', style: 'name'});
 
-    // content.push({
-    //   stack: [
-    //     { text: resumeContent['title'], italics: true },
-    //     { text: [{ text: 'Email: ', bold: true, italics: true }, resumeContent['contact_email']] },
-    //     { text: [{ text: 'GitHub: ', bold: true, italics: true }, resumeContent['github_handle']] }
-    //   ],
-    //   alignment: 'right',
-    //   margin: [0, -45, 0, 0]
-    // });
+    content.push({
+      stack: [
+        { text: 'resumeContent[title]', italics: true },
+        { text: [{ text: 'Email: ', bold: true, italics: true }, resumeContent['contact_email']] },
+        { text: [{ text: 'GitHub: ', bold: true, italics: true }, resumeContent['github_handle']] }
+      ],
+      alignment: 'right',
+      margin: [0, -45, 0, 0]
+    });
     // 
     // headerLine();
     // 
@@ -163,7 +165,7 @@ $(document).ready(function() {
     // 
     // // Education
     // content.push(sectionHeading('Education'));
-    // 
+    
     // content.push({
     //   stack: [
     //     { text: resumeContent['education']['school'], style: 'project_heading' },

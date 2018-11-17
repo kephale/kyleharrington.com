@@ -1,22 +1,18 @@
 ---
 layout: page
-title: Kyle Harrington's CV
+title: Curriculum Vitae
 permalink: /cv/
 pdf: true
 ---
 
-Kyle Harrington's CV
-
 <a class="button button-sidebar" title="Download my CV" data-toggle="download-pdf">
-      <i class="fas fa-download"></i>
-      Resume PDF
-    </a>
+  <i class="fas fa-download"></i>
+  Download PDF
+</a>
 
-Job: Testing CV generators
+## Education
 
-Awards: Excellence!
 
-Generated content:
 
 {% for job in cv.jobs %}
   <div>
