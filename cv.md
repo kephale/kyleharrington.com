@@ -11,10 +11,8 @@ Job: Testing CV generators
 
 Awards: Excellence!
 
-Testing:
+Testingg:
 
 {% for page in site.pages %}
-  {% if page.url != '/path/to/page.html' %}
-[{{ page.title }}]({{ page.url }})
-  {% endif %}
+  [{{ page.title }}]({{ page.url }})
 {% endfor %}
