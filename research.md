@@ -4,9 +4,9 @@ title: Research
 permalink: /research/
 ---
 
-
 ## Indices and Databases
-<p><a href="http://orcid.org/0000-0002-7237-1973">ORCID</a><br /><a href="https://scholar.google.com/citations?user=InE-jdsAAAAJ">Google Scholar</a></p>
+[My ORCID](http://orcid.org/0000-0002-7237-1973)  
+[My Google Scholar](https://scholar.google.com/citations?user=InE-jdsAAAAJ)  
 
 ## Journal Articles
 <b>under review.</b>&nbsp;&nbsp;Harrington, K., and Pollack, J., (under review) "Escalation of Memory Length in Finite Populations". In <i>preprint bioRxiv</i>, Vol. , pp. 130583.&nbsp;&nbsp;<a href="http://www.biorxiv.org/content/early/2017/04/25/130583">pdf</a><br> <br>
