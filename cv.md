@@ -15,5 +15,5 @@ Testinggg:
 
 {% for page in site.pages %}
   [{{ page.title }}]({{ page.url }})  
-  page.url
+  {{ page.url }}
 {% endfor %}
