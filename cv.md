@@ -14,6 +14,7 @@ Awards: Excellence!
 Testinggg:
 
 {% for page in site.pages %}
-  [{{ page.title }}]({{ page.url }})  
-  {{ page.url }}
+  {% if page.url == '/cv/' %}
+[{{ page.title }}]({{ page.pdf_url }})
+  {% endif %}
 {% endfor %}
