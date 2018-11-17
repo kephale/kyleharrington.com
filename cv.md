@@ -7,7 +7,7 @@ pdf: true
 
 Kyle Harrington's CV
 
-<a class="button button-sidebar" title="Download my resume" data-toggle="download-pdf">
+<a class="button button-sidebar" title="Download my CV" data-toggle="download-pdf">
       <i class="fas fa-download"></i>
       Resume PDF
     </a>

@@ -2,7 +2,7 @@
 
 $(document).ready(function() {
   var generateResume = function() {
-    var resumeContent = $.parseJSON($('#resumeJson').text());
+    var resumeContent = $.parseJSON($('#cvJson').text());
 
     var docDefinition = {
       content: [],
@@ -173,11 +173,12 @@ $(document).ready(function() {
     //   margin: [0, 15, 0, 0]
     // });
 
-    return pdfMake.createPdf(docDefinition).download('Jason_Taylor_resume.pdf');
+    return pdfMake.createPdf(docDefinition).download('HarringtonKyle_CV.pdf');
   };
 
   $('[data-toggle=download-pdf]').on('click', function(e) {
     e.preventDefault();
+    //console.log($('#cvJson').text());
     generateResume();
   });
 });

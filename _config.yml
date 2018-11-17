@@ -32,4 +32,5 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
-exclude: [vendor]
+#exclude: [vendor]
+exclude: ["CNAME", "Rakefile", "README.md", "public", "Gemfile", "Gemfile.lock"]
