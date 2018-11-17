@@ -14,7 +14,7 @@ Awards: Excellence!
 Testing:
 
 {% for page in site.pages %}
-  {% if page.url == '/path/to/page.html' %}
+  {% if page.url != '/path/to/page.html' %}
 [{{ page.title }}]({{ page.url }})
   {% endif %}
 {% endfor %}
