@@ -33,6 +33,3 @@ exclude:
   - Gemfile.lock
 
 exclude: [vendor]
-
-gems:
-  - jekyll-pdf
