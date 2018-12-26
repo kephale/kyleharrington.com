@@ -9,8 +9,10 @@ permalink: /research/
 [My Google Scholar](https://scholar.google.com/citations?user=InE-jdsAAAAJ)  
 
 ## Journal Articles
-<b>under review.</b>&nbsp;&nbsp;Harrington, K., and Pollack, J., (under review) "Escalation of Memory Length in Finite Populations". In <i>preprint bioRxiv</i>, Vol. , pp. 130583.&nbsp;&nbsp;<a href="http://www.biorxiv.org/content/early/2017/04/25/130583">pdf</a><br> <br>
-<b>13.</b>&nbsp;&nbsp;Crawford-Young, S., Dittapongpitch, S., Gordon, R., Harrington, K., (2019) "Acquisition and reconstruction of 4D surfaces of axolotl embryos with the flipping stage robotic microscope". In <i>Biosystems</i>, in press.<br> <br>
+<b>under review.</b>&nbsp;&nbsp;Daetwyler, S., Günther, U., Modes, C.D., Harrington, K. and Huisken, J., (2018). Multi-sample SPIM image acquisition, processing and analysis of vascular growth in zebrafish. bioRxiv, p.478149. <a href="https://www.biorxiv.org/content/biorxiv/early/2018/11/24/478149.full.pdf">pdf</a> <br> <br>
+<b>under review.</b>&nbsp;&nbsp;Wilson, D.G., Cussat-Blanc, S., Luga, H. and Harrington, K., (2018) "Neuromodulated Learning in Deep Neural Networks". arXiv preprint arXiv:1812.03365. <a href="https://arxiv.org/pdf/1812.03365">pdf</a><br> <br>
+<b>14.</b>&nbsp;&nbsp;Harrington, K., and Pollack, J., (2019) "Escalation of Memory Length in Finite Populations". In Artificial Life, in press. (<i>preprint bioRxiv</i> 130583, <a href="http://www.biorxiv.org/content/early/2017/04/25/130583">pdf</a>)<br> <br>
+<b>13.</b>&nbsp;&nbsp;Crawford-Young, S., Dittapongpitch, S., Gordon, R., Harrington, K., (2019) "Acquisition and reconstruction of 4D surfaces of axolotl embryos with the flipping stage robotic microscope". In <i>Biosystems</i>, Vol. 173, pp. 214-220.<br> <br>
 <b>12.</b>&nbsp;&nbsp;Cussat-Blanc, S., Harrington, K., and Banzhaf, W., (2018) "Artificial Gene Regulatory Networks—A Review". In <i>Artificial Life</i>, in press.<br> <br>
 <b>11.</b>&nbsp;&nbsp;Harrington, K., C. Rueden and K. Eliceiri, (2017) "FunImageJ: a Lisp framework for scientific image processing". In <i>Bioinformatics</i>, btx710.&nbsp;&nbsp;<a href="https://academic.oup.com/bioinformatics/advance-article-pdf/doi/10.1093/bioinformatics/btx710/21835152/btx710.pdf">pdf</a><br> <br>
 <b>10.</b>&nbsp;&nbsp;Harrington, K. I. S, (2016) "Wolfgang Banzhaf and Lidia Yamamoto: Artificial Chemistries". In <i>Genetic Programming and Evolvable Machines</i>, Vol. 17, pp. 317-319.&nbsp;&nbsp;<a href="http://rdcu.be/npkK">pdf</a><br> <br>

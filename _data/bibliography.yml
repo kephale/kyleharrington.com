@@ -1,0 +1,740 @@
+references:
+  - id: spector2011tag
+    type: paper-conference
+    title: Tag-based modules in genetic programming
+    container-title: >-
+      Proceedings of the 13th annual conference on Genetic and evolutionary
+      computation
+    page: 1419-1426
+    author:
+      - family: Spector
+        given: Lee
+      - family: Martin
+        given: Brian
+      - family: Harrington
+        given: Kyle
+      - family: Helmuth
+        given: Thomas
+    issued:
+      - year: 2011
+
+  - id: olsen2008emotions
+    type: paper-conference
+    title: Emotions for Strategic Real-Time Systems.
+    container-title: 'AAAI Spring Symposium: Emotion, Personality, and Social Behavior'
+    page: 104-110
+    author:
+      - family: Olsen
+        given: Megan M
+      - family: Harrington
+        given: Kyle Ira
+      - family: Siegelmann
+        given: Hava T
+    issued:
+      - year: 2008
+
+  - id: spector2005teaching
+    type: paper-conference
+    title: Teaching the evolution of behavior with SuperDuperWalker.
+    container-title: AIED
+    page: 923-925
+    author:
+      - family: Spector
+        given: Lee
+      - family: Klein
+        given: Jon
+      - family: Harrington
+        given: Kyle Ira
+      - family: Coppinger
+        given: Raymond
+    issued:
+      - year: 2005
+
+  - id: olsen2010conspecific
+    type: article-journal
+    title: >-
+      Conspecific emotional cooperation biases population dynamics: a cellular
+      automata approach
+    container-title: International Journal of Natural Computing Research (IJNCR)
+    page: 51-65
+    volume: '1'
+    issue: '3'
+    author:
+      - family: Olsen
+        given: Megan M
+      - family: Harrington
+        given: Kyle I
+      - family: Siegelmann
+        given: Hava T
+    issued:
+      - year: 2010
+
+  - id: olsen2011computational
+    type: paper-conference
+    title: Computational Emotions Encourage Collective Behavior in Population Dynamics
+    container-title: Proc. of 8th International Conf. on Complex Systems
+    page: 196-210
+    author:
+      - family: Olsen
+        given: Megan M
+      - family: Harrington
+        given: Kyle I
+      - family: Siegelmann
+        given: Hava T
+    issued:
+      - year: 2011
+
+  - id: shang2011imaging
+    type: article-journal
+    title: >-
+      Imaging analysis of clock neurons reveals light buffers the wake-promoting
+      effect of dopamine
+    container-title: Nature neuroscience
+    page: '889'
+    volume: '14'
+    issue: '7'
+    author:
+      - family: Shang
+        given: Yuhua
+      - family: Haynes
+        given: Paula
+      - family: Pírez
+        given: Nicolás
+      - family: Harrington
+        given: Kyle I
+      - family: Guo
+        given: Fang
+      - family: Pollack
+        given: Jordan
+      - family: Hong
+        given: Pengyu
+      - family: Griffith
+        given: Leslie C
+      - family: Rosbash
+        given: Michael
+    issued:
+      - year: 2011
+
+  - id: harrington2011zipper
+    type: article-journal
+    title: Zipper-based Meta-Genetic Programming
+    container-title: Brandeis University Computer Science Technical Report 11
+    page: '275'
+    author:
+      - family: Harrington
+        given: Kyle I
+      - family: Pollack
+        given: Jordan B
+    issued:
+      - year: 2011
+
+  - id: olsen2008utilizing
+    type: article-journal
+    title: Utilizing Emotions in Strategic Real-Time Artificial Intelligence
+    author:
+      - family: Olsen
+        given: Megan
+      - family: Harrington
+        given: Kyle
+      - family: Siegelmann
+        given: Hava
+    issued:
+      - year: 2008
+
+  - id: harrington2011communicated
+    type: paper-conference
+    title: Communicated somatic markers benefit both the individual and the species
+    container-title: 'Neural Networks (IJCNN), The 2011 International Joint Conference on'
+    page: 3272-3278
+    author:
+      - family: Harrington
+        given: Kyle I
+      - family: Olsen
+        given: Megan M
+      - family: Siegelmann
+        given: Hava T
+    issued:
+      - year: 2011
+
+  - id: spector2011s
+    type: chapter
+    title: >-
+      What’s in an evolved name? the evolution of modularity via tag-based
+      reference
+    container-title: Genetic Programming Theory and Practice IX
+    publisher: Springer New York
+    page: 1-16
+    author:
+      - family: Spector
+        given: Lee
+      - family: Harrington
+        given: Kyle
+      - family: Martin
+        given: Brian
+      - family: Helmuth
+        given: Thomas
+    issued:
+      - year: 2011
+
+  - id: heymann2010route
+    type: paper-conference
+    title: En Route to Signal Inversion in Chemical Computing
+    container-title: Proceedings of Artificial Life XII
+    page: 166-167
+    author:
+      - family: Heymann
+        given: Michael
+      - family: Harrington
+        given: Kyle I
+      - family: Pollack
+        given: Jordan
+      - family: Fraden
+        given: Seth
+    issued:
+      - year: 2010
+
+  - id: spector2005selection
+    type: article-journal
+    title: 'Selection songs: Evolutionary music computation'
+    container-title: YLEM Journal (Artists Using Science and Technology)
+    page: 24-26
+    volume: '25'
+    issue: '6'
+    author:
+      - family: Spector
+        given: Lee
+      - family: Klein
+        given: Jon
+      - family: Harrington
+        given: Kyle
+    issued:
+      - year: 2005
+
+  - id: harrington2010robot
+    type: paper-conference
+    title: Robot phylogenetics
+    container-title: >-
+      Proceedings of the 12th annual conference companion on Genetic and
+      evolutionary computation
+    page: 2077-2078
+    author:
+      - family: Harrington
+        given: Kyle I
+      - family: Pollack
+        given: Jordan B
+    issued:
+      - year: 2010
+
+  - id: harrington2007adaptive
+    type: chapter
+    title: Adaptive multi-modal sensors
+    container-title: 50 years of artificial intelligence
+    publisher: 'Springer, Berlin, Heidelberg'
+    page: 164-173
+    author:
+      - family: Harrington
+        given: Kyle I
+      - family: Siegelmann
+        given: Hava T
+    issued:
+      - year: 2007
+
+  - id: harrington2011compositional
+    type: paper-conference
+    title: Compositional Autoconstructive Dynamics
+    container-title: >-
+      Unifying Themes in Complex Systems Volume VIII: Proceedings of the Eighth
+      International Conference on Complex Systems
+    page: 856-870
+    author:
+      - family: Harrington
+        given: Kyle
+      - family: Tosch
+        given: Emma
+      - family: Spector
+        given: Lee
+      - family: Pollack
+        given: Jordan
+    issued:
+      - year: 2011
+
+  - id: spector2011fecundity
+    type: paper-conference
+    title: Fecundity and selectivity in evolutionary computation
+    container-title: >-
+      Proceedings of the 13th annual conference companion on Genetic and
+      evolutionary computation
+    page: 129-130
+    author:
+      - family: Spector
+        given: Lee
+      - family: Helmuth
+        given: Thomas
+      - family: Harrington
+        given: Kyle
+    issued:
+      - year: 2011
+
+  - id: harrington2007predicting
+    type: paper-conference
+    title: >-
+      Predicting reactions from amino acid sequences in S. cerevisiae: an
+      evolutionary computation approach
+    container-title: >-
+      Proceedings of the 9th annual conference companion on Genetic and
+      evolutionary computation
+    page: 2725-2728
+    author:
+      - family: Harrington
+        given: Kyle Ira
+    issued:
+      - year: 2007
+
+  - id: harrington2012autoconstructive
+    type: paper-conference
+    title: Autoconstructive evolution for structural problems
+    container-title: >-
+      Proceedings of the 14th annual conference companion on Genetic and
+      evolutionary computation
+    page: 75-82
+    author:
+      - family: Harrington
+        given: Kyle I
+      - family: Spector
+        given: Lee
+      - family: Pollack
+        given: Jordan B
+      - family: O'Reilly
+        given: Una-May
+    issued:
+      - year: 2012
+
+  - id: ozisik2012effects
+    type: paper-conference
+    title: The effects of tags on the evolution of honest signaling
+    container-title: >-
+      Proceedings of the 14th annual conference companion on Genetic and
+      evolutionary computation
+    page: 345-352
+    author:
+      - family: Ozisik
+        given: A Pinar
+      - family: Harrington
+        given: Kyle I
+    issued:
+      - year: 2012
+
+  - id: harrington2012effects
+    type: paper-conference
+    title: >-
+      The Effects of Finite Populations and Selection on the Emergence of
+      Signaling
+    container-title: Proceedings of Artificial Life
+    page: 194-201
+    author:
+      - family: Harrington
+        given: Kyle I
+      - family: Ozisik
+        given: A Pinar
+      - family: Pollack
+        given: Jordan B
+    issued:
+      - year: 2012
+
+  - id: harrington2012computational
+    type: paper-conference
+    title: Computational Neuroecology of Communicated Somatic Markers
+    container-title: Proceedings of Artificial Life XIII
+    page: 555-556
+    author:
+      - family: Harrington
+        given: Kyle I
+      - family: Olsen
+        given: Megan M
+      - family: Siegelmann
+        given: Hava T
+    issued:
+      - year: 2012
+
+  - id: spector2012tag
+    type: paper-conference
+    title: Tag-based modularity in tree-based genetic programming
+    container-title: >-
+      Proceedings of the 14th annual conference on Genetic and evolutionary
+      computation
+    page: 815-822
+    author:
+      - family: Spector
+        given: Lee
+      - family: Harrington
+        given: Kyle
+      - family: Helmuth
+        given: Thomas
+    issued:
+      - year: 2012
+
+  - id: harrington2013robot
+    type: paper-conference
+    title: Robot Coverage Control by Evolved Neuromodulation
+    container-title: Proceedings of the International Joint Conference on Neural Networks
+    page: 543-550
+    author:
+      - family: Harrington
+        given: Kyle I
+      - family: Awa
+        given: Emmanuel
+      - family: Cussat-Blanc
+        given: Sylvain
+      - family: Pollack
+        given: Jordan
+    issued:
+      - year: 2013
+
+  - id: harrington2014eco
+    type: article-journal
+    title: >-
+      Eco-evolutionary dynamics of complex social strategies in microbial
+      communities
+    container-title: Communicative & integrative biology
+    page: e28230
+    volume: '7'
+    issue: '1'
+    author:
+      - family: Harrington
+        given: Kyle I
+      - family: Sanchez
+        given: Alvaro
+    issued:
+      - year: 2014
+
+  - id: gold2014modelling
+    type: paper-conference
+    title: Modelling Nonlinear Chemical Oscillators with Inhibitory Coupling
+    container-title: Proceedings of the Northeast Bioengineering Conference
+    page: 1-2
+    author:
+      - family: Gold
+        given: Jacob
+      - family: Wang
+        given: Adam
+      - family: Girabawe
+        given: Camille
+      - family: Harrington
+        given: Kyle
+      - family: Fraden
+        given: Seth
+    issued:
+      - year: 2014
+
+  - id: gold2014feedback
+    type: paper-conference
+    title: Feedback Control of Evolving Swarms
+    container-title: Proceedings of Artificial Life XIV
+    page: 884-891
+    author:
+      - family: Gold
+        given: Jacob
+      - family: Wang
+        given: Adam
+      - family: Harrington
+        given: Kyle I
+    issued:
+      - year: 2014
+
+  - id: harrington2014coevolution
+    type: paper-conference
+    title: 'Coevolution in Hide and Seek: Camouflage and Vision'
+    container-title: Proceedings of Artificial Life XIV
+    page: 25-32
+    author:
+      - family: Harrington
+        given: Kyle I
+      - family: Freeman
+        given: Jesse
+      - family: Pollack
+        given: Jordan
+    issued:
+      - year: 2014
+
+  - id: bentley2014can
+    type: paper-conference
+    title: >-
+      Can active perception generate bistability? Heterogeneous collective
+      dynamics and vascular patterning
+    container-title: Proceedings of Artificial Life XIV
+    page: 328-335
+    author:
+      - family: Bentley
+        given: Katie
+      - family: Harrington
+        given: Kyle I
+      - family: Regan
+        given: Erzsébet Ravasz
+    issued:
+      - year: 2014
+
+  - id: lowell2014resilience
+    type: paper-conference
+    title: The Resilience of a Swarm Ecosystem Under Environmental Variation
+    container-title: Proceedings of Artificial Life XIV
+    page: 827-834
+    author:
+      - family: Lowell
+        given: Jessica
+      - family: Harrington
+        given: Kyle
+      - family: Pollack
+        given: Jordan
+    issued:
+      - year: 2014
+
+  - id: cussat2015gene
+    type: article-journal
+    title: Gene Regulatory Network Evolution Through Augmenting Topologies
+    container-title: IEEE Transactions on Evolutionary Computation
+    page: 823-837
+    volume: '19'
+    issue: '6'
+    author:
+      - family: Cussat-Blanc
+        given: S
+      - family: Harrington
+        given: K
+      - family: Pollack
+        given: J
+    issued:
+      - year: 2015
+
+  - id: cussat2015genetically
+    type: paper-conference
+    title: >-
+      Genetically-regulated neuromodulation facilitates multi-task reinforcement
+      learning
+    container-title: >-
+      Proceedings of the 2015 Annual Conference on Genetic and Evolutionary
+      Computation
+    page: 551-558
+    author:
+      - family: Cussat-Blanc
+        given: Sylvain
+      - family: Harrington
+        given: Kyle
+    issued:
+      - year: 2015
+
+  - id: harrington2014brevis
+    type: article-journal
+    title: Brevis
+    author:
+      - family: Harrington
+        given: K. I.
+    issued:
+      - year: 2014
+
+  - id: harrington2016circuit
+    type: article-journal
+    title: A circuit basis for morphogenesis
+    container-title: Theoretical Computer Science
+    page: 28-36
+    volume: '633'
+    author:
+      - family: Harrington
+        given: Kyle I.S.
+    issued:
+      - year: 2016
+
+  - id: harrington2015functional
+    type: paper-conference
+    title: Functional Image Processing with ImageJ/FIJI
+    container-title: BioImage Informatics Conference 2015
+    author:
+      - family: Harrington
+        given: Kyle IS
+      - family: Stiles
+        given: Timothy S
+      - family: Venkatraman
+        given: Lakshmi
+      - family: Prahst
+        given: Claudia
+      - family: Bentley
+        given: Katie
+    issued:
+      - year: 2015
+
+  - id: kur2016temporal
+    type: article-journal
+    title: >-
+      Temporal modulation of collective cell behavior controls vascular network
+      topology
+    container-title: Elife
+    page: e13212
+    volume: '5'
+    author:
+      - family: Kur
+        given: Esther
+      - family: Kim
+        given: Jiha
+      - family: Tata
+        given: Aleksandra
+      - family: Comin
+        given: Cesar H
+      - family: Harrington
+        given: Kyle I
+      - family: F Costa
+        given: Luciano
+        non-dropping-particle: da
+      - family: Bentley
+        given: Katie
+      - family: Gu
+        given: Chenghua
+    issued:
+      - year: 2016
+
+  - id: wang2016configurable
+    type: article-journal
+    title: Configurable NOR gate arrays from Belousov-Zhabotinsky micro-droplets
+    container-title: The European Physical Journal Special Topics
+    page: 211-227
+    volume: '225'
+    issue: '1'
+    author:
+      - family: Wang
+        given: AL
+      - family: Gold
+        given: JM
+      - family: Tompkins
+        given: 'N'
+      - family: Heymann
+        given: M
+      - family: Harrington
+        given: KI
+      - family: Fraden
+        given: S
+    issued:
+      - year: 2016
+
+  - id: costa2016asymmetric
+    type: article-journal
+    title: Asymmetric division coordinates collective cell migration in angiogenesis
+    container-title: Nature cell biology
+    page: '1292'
+    volume: '18'
+    issue: '12'
+    author:
+      - family: Costa
+        given: Guilherme
+      - family: Harrington
+        given: Kyle I
+      - family: Lovegrove
+        given: Holly E
+      - family: Page
+        given: Donna J
+      - family: Chakravartula
+        given: Shilpa
+      - family: Bentley
+        given: Katie
+      - family: Herbert
+        given: Shane P
+    issued:
+      - year: 2016
+
+  - id: harrington2014escalation
+    type: thesis
+    title: Escalation of Coevolutionary Arms Races
+    publisher: Brandeis University
+    author:
+      - family: Harrington
+        given: Kyle I S
+    issued:
+      - year: 2014
+
+  - id: harrington2017escalation
+    type: article-journal
+    title: Escalation of Memory Length in Finite Populations
+    container-title: bioRxiv
+    page: '130583'
+    author:
+      - family: Harrington
+        given: Kyle
+      - family: Pollack
+        given: Jordan
+    issued:
+      - year: 2017
+
+  - id: harrington2016wolfgang
+    type: article-journal
+    title: 'Wolfgang Banzhaf and Lidia Yamamoto: Artificial Chemistries, MIT Press, 2015'
+    container-title: Genetic Programming and Evolvable Machines
+    page: 317-319
+    volume: '17'
+    issue: '3'
+    author:
+      - family: Harrington
+        given: Kyle IS
+    issued:
+      - year: 2016
+
+  - id: harrington2017funimagej
+    type: article-journal
+    title: 'FunImageJ: a Lisp framework for scientific image processing'
+    container-title: Bioinformatics
+    page: 899-900
+    volume: '34'
+    issue: '5'
+    author:
+      - family: Harrington
+        given: Kyle IS
+      - family: Rueden
+        given: Curtis T
+      - family: Eliceiri
+        given: Kevin W
+    issued:
+      - year: 2017
+
+  - id: harrington2017competitive
+    type: paper-conference
+    title: Competitive dynamics in eco-evolutionary genetically-regulated swarms
+    container-title: Proceedings of the European Conference on Artificial Life 14
+    page: 190-197
+    volume: '14'
+    author:
+      - family: Harrington
+        given: Kyle
+      - family: Magbunduku
+        given: Louise
+    issued:
+      - year: 2017
+
+  - id: wilson2018evolving
+    type: article-journal
+    title: Evolving Differentiable Gene Regulatory Networks
+    container-title: 'arXiv preprint arXiv:1807.05948'
+    author:
+      - family: Wilson
+        given: Dennis G
+      - family: Harrington
+        given: Kyle
+      - family: Cussat-Blanc
+        given: Sylvain
+      - family: Luga
+        given: Hervé
+    issued:
+      - year: 2018
+
+  - id: crawford2018acquisition
+    type: article-journal
+    title: >-
+      Acquisition and reconstruction of 4D surfaces of axolotl embryos with the
+      flipping stage robotic microscope
+    container-title: Biosystems
+    author:
+      - family: Crawford-Young
+        given: Susan J
+      - family: Dittapongpitch
+        given: Smat
+      - family: Gordon
+        given: Richard
+      - family: Harrington
+        given: Kyle IS
+    issued:
+      - year: 2018

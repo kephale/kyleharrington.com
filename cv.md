@@ -18,7 +18,7 @@ pdf: true
   <div>
     <b> {{ school.school }} </b> 
     {{ school.graduated }} <br>    
-    {{ school.degree }} <br>
+    &nbsp;&nbsp;&nbsp;&nbsp;{{ school.degree }} <br>
   </div>
 {% endfor %}
 <br>
@@ -30,11 +30,12 @@ pdf: true
   <div>
     {{ position.title }}, {{ position.time }},<br>
     &nbsp;&nbsp;&nbsp;&nbsp;<b>{{ position.unit }}</b>,<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;{{ position.organization }},<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;{{ position.location }}<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;{{ position.organization }},
+    {{ position.location }}<br>
   </div>
   {% endif %}
 {% endfor %}
+<br>
 
 ## Positions
 
@@ -43,13 +44,51 @@ pdf: true
   <div>
     {{ position.title }}, {{ position.time }},<br>
     &nbsp;&nbsp;&nbsp;&nbsp;{{ position.unit }},<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;<b>{{ position.organization }}</b>,<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;{{ position.location }}<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;<b>{{ position.organization }}</b>,
+    {{ position.location }}<br>
   </div>
   {% endunless %}
 {% endfor %}
+<br>
 
 ## Awards and Activities
+
+{% for aa in cv.awards_activities %}
+  <div>
+    {{ aa.time }}, {{ aa.title }}<br>
+  </div>
+{% endfor %}
+<br>
+
+## Reviewing
+
+**Journals:**
+{% for journal in cv.reviewing.publications %}
+  <div>
+    {{ journal }}<br>
+  </div>
+{% endfor %}
+<br>
+
+**Grants:**
+{% for agency in cv.reviewing.grants %}
+  <div>
+    {{ agency }}<br>
+  </div>
+{% endfor %}
+<br>
+
+## Publications
+
+{% assign pubs = site.data.bibliography.references  %}
+
+{% for pub in pubs %}
+  <div>
+    {% assign issued = pub.issued %}
+    {{ issued }}, {{ pub.title }}<br>
+  </div>
+{% endfor %}
+<br>
 
 
 <div hidden id="cvJson">

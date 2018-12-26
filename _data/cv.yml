@@ -98,15 +98,24 @@ positions:
     current: false
     
 awards_activities:
-  - Visiting Researcher, Royal Veterinary College - 2018
-  - Panelist, National Science Foundation - 2017
-  - Mentor, ClojureBridge Boston Programming Workshop for Underrepresented Groups - 2016-2017
-  - Selected speaker (Scientific Computing in Clojure), Clojure/Conj - 2015
-  - Discussion Leader, Gordon Research Seminar on Angiogenesis - 2015
-  - BMC Ecology Competition Winner for Best Image from Theoretical Model - 2014
-  - HHMI Interfaces Scholar Award - 2014
-  - SIGEVO / ACM travel grant for GECCO-2012 - 2012
-  - NSF travel grant for IJCNN-2011 - 2011
+  - title: Visiting Researcher, Royal Veterinary College
+    time: 2018
+  - title: Panelist, National Science Foundation
+    time: 2017
+  - title: Mentor, ClojureBridge Boston Programming Workshop for Underrepresented Groups
+    time: 2016-2017
+  - title: Selected speaker (Scientific Computing in Clojure), Clojure/Conj
+    time: 2015
+  - title: Discussion Leader, Gordon Research Seminar on Angiogenesis
+    time: 2015
+  - title: BMC Ecology Competition Winner for Best Image from Theoretical Model
+    time: 2014
+  - title: HHMI Interfaces Scholar Award
+    time: 2014
+  - title: SIGEVO / ACM travel grant for GECCO-2012
+    time: 2012
+  - title: NSF travel grant for IJCNN-2011
+    time: 2011
 
 reviewing:
   publications:
