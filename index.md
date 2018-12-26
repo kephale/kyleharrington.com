@@ -18,7 +18,6 @@ I completed my PhD in Computer Science at Brandeis University with <a href="http
 ## <i><b>News:</b></i>
 
 - I am a visiting scientist at Howard Hughes Medical Institute, Janelia Research Campus
-
 - Two fresh preprints are out:
   - `Multi-sample SPIM image acquisition, processing and analysis of vascular growth in zebrafish`: a complete method (from embedding zebrafish embryos to quantitative analysis) for studying vascular development zebrafish; come for the technique, stay for the [videos](https://twitter.com/Daetwyler_St/status/1066863930960740352)
   - `Neuromodulated Learning in Deep Neural Networks`: translates ideas from biological neuromodulation to deep neural network optimization and outperforms the current best optimizers
