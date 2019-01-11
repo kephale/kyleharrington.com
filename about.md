@@ -6,6 +6,7 @@ permalink: /about/
 
 ## Current
 - Assistant Professor,<br />&nbsp;&nbsp;&nbsp;&nbsp;Virtual Technology and Design,<br />&nbsp;&nbsp;&nbsp;&nbsp;University of Idaho, Moscow.
+- Visiting Scientist,<br />&nbsp;&nbsp;&nbsp;&nbsp;Janelia Research Campus,<br />&nbsp;&nbsp;&nbsp;&nbsp;Howard Hughes Medical Institute.
 - Affiliate Faculty,<br />&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.uidaho.edu/engr/departments/cs">Computer Science</a><br />&nbsp;&nbsp;&nbsp;&nbsp;University of Idaho, Moscow.<br />
 - Affiliate Faculty,<br />&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.uidaho.edu/sci/bcb">Bioinformatics and Computational Biology graduate program</a><br />&nbsp;&nbsp;&nbsp;&nbsp;University of Idaho, Moscow.<br />
 - Affiliate Faculty,<br />&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.uidaho.edu/engr/departments/be">Biological Engineering</a><br />&nbsp;&nbsp;&nbsp;&nbsp;University of Idaho, Moscow.<br />
