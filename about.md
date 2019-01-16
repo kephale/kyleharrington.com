@@ -12,7 +12,7 @@ permalink: /about/
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://cmciuidaho.org/">Center for Modeling Complex Interactions</a><br />
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.uidaho.edu/engr/departments/be">Biological Engineering</a><br />
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.ibest.uidaho.edu/">Institute for Bioinformatics and Evolutionary Studies</a><br />
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www3.beacon-center.org/">BEACON Center for the Study of Evolution in Action</a>.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www3.beacon-center.org/">BEACON Center for the Study of Evolution in Action</a><br />
 
 ## Education
 - Postdoctoral Fellow, Pathology,<br />&nbsp;&nbsp;&nbsp;&nbsp;Harvard Medical School (2014-2016)<br />
