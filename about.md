@@ -23,7 +23,7 @@ permalink: /about/
 - Assistant Professor, 2016 - present,<br />&nbsp;&nbsp;&nbsp;&nbsp;Virtual Technology and Design,<br />&nbsp;&nbsp;&nbsp;&nbsp;University of Idaho, Moscow.<br />
 - Visiting Scientist, 2018 - present,<br />&nbsp;&nbsp;&nbsp;&nbsp;Janelia Research Campus,<br />&nbsp;&nbsp;&nbsp;&nbsp;Howard Hughes Medical Institute.<br />
 - Visiting Professor, 2017,<br />&nbsp;&nbsp;&nbsp;&nbsp;Computer Science,<br />&nbsp;&nbsp;&nbsp;&nbsp;University of Toulouse, France.<br />
-- Visiting Professor, 2017,<br />&nbsp;&nbsp;&nbsp;&nbsp;Center for Systems Biology Dresden, Germany.<br />
+- Visiting Professor, 2017,<br />&nbsp;&nbsp;&nbsp;&nbsp;Center for Systems Biology Dresden at<br />&nbsp;&nbsp;&nbsp;&nbsp;Max Planck Institute for Cell Biology and Genetics,<br />&nbsp;&nbsp;&nbsp;&nbsp;Max Planck Institute for Physical Complex Systems,<br />&nbsp;&nbsp;&nbsp;&nbsp;Technical University of Dresden<br />
 - Lecturer, 2016,<br />&nbsp;&nbsp;&nbsp;&nbsp;Department of Computer Science,<br />&nbsp;&nbsp;&nbsp;&nbsp;Tufts University.<br />
 - Postdoctoral Fellow, 2014 - 2016,<br />&nbsp;&nbsp;&nbsp;&nbsp;Bentley Group, Beth Israel Deaconess Medical Center,<br />&nbsp;&nbsp;&nbsp;&nbsp;Harvard Medical School.<br />
 - Visiting Scientist, 2014,<br />&nbsp;&nbsp;&nbsp;&nbsp;Grigorieff Lab, <br />&nbsp;&nbsp;&nbsp;&nbsp;Howard Hughes Medical Institute, Janelia Farm.<br />
@@ -37,7 +37,8 @@ permalink: /about/
 - Mentor, ClojureBridge Boston: Programming Workshop for Underrepresented Groups - 2016-2017<br />
 - Selected speaker (Scientific Computing in Clojure), Clojure/Conj - 2015<br />
 - Discussion Leader, Gordon Research Seminar on Angiogenesis - 2015<br />
-- BMC Ecology Competition Winner for Best Image from Theoretical Model - 2014<br />HHMI Interfaces Scholar Award - 2014<br />
+- BMC Ecology Competition Winner for Best Image from Theoretical Model - 2014<br />
+- HHMI Interfaces Scholar Award - 2014<br />
 - SIGEVO / ACM travel grant for GECCO-2012 - 2012<br />
 - NSF travel grant for IJCNN-2011 - 2011<br />
 
