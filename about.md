@@ -7,11 +7,12 @@ permalink: /about/
 ## Current
 - Assistant Professor,<br />&nbsp;&nbsp;&nbsp;&nbsp;Virtual Technology and Design,<br />&nbsp;&nbsp;&nbsp;&nbsp;University of Idaho, Moscow.
 - Visiting Scientist,<br />&nbsp;&nbsp;&nbsp;&nbsp;Janelia Research Campus,<br />&nbsp;&nbsp;&nbsp;&nbsp;Howard Hughes Medical Institute.
-- Affiliate Faculty,<br />&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.uidaho.edu/engr/departments/cs">Computer Science</a><br />&nbsp;&nbsp;&nbsp;&nbsp;University of Idaho, Moscow.<br />
-- Affiliate Faculty,<br />&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.uidaho.edu/sci/bcb">Bioinformatics and Computational Biology graduate program</a><br />&nbsp;&nbsp;&nbsp;&nbsp;University of Idaho, Moscow.<br />
-- Affiliate Faculty,<br />&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.uidaho.edu/engr/departments/be">Biological Engineering</a><br />&nbsp;&nbsp;&nbsp;&nbsp;University of Idaho, Moscow.<br />
-- Affiliate Faculty,<br />&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www3.beacon-center.org/">BEACON Center for the Study of Evolution in Action</a>.<br />&nbsp;&nbsp;&nbsp;&nbsp;University of Idaho, Moscow.<br />
-- Affiliate Faculty,<br />&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.ibest.uidaho.edu/">Institute for Bioinformatics and Evolutionary Studies</a><br />&nbsp;&nbsp;&nbsp;&nbsp;University of Idaho, Moscow.<br />
+- Affiliate Faculty, University of Idaho<br />&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.uidaho.edu/engr/departments/cs">Computer Science</a><br />
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.uidaho.edu/sci/bcb">Bioinformatics and Computational Biology graduate program</a><br />
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://cmciuidaho.org/">Center for Modeling Complex Interactions</a><br />
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.uidaho.edu/engr/departments/be">Biological Engineering</a><br />
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.ibest.uidaho.edu/">Institute for Bioinformatics and Evolutionary Studies</a><br />
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www3.beacon-center.org/">BEACON Center for the Study of Evolution in Action</a>.<br />
 
 ## Education
 - Postdoctoral Fellow, Pathology,<br />&nbsp;&nbsp;&nbsp;&nbsp;Harvard Medical School (2014-2016)<br />
