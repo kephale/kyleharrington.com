@@ -4,6 +4,8 @@ title: Software
 permalink: /software/
 ---
 
+- [SciView](http://sc.iview.sc): SciView is an ImageJ/FIJI plugin for visualization and interaction with 3D data
+- [scenery](http://scenery.graphics): Realtime rendering with Virtual Reality, powered by Kotlin, OpenGL and Vulkan
 - [brevis](http://brevis.us): A functional artificial life simulator
 - [FunImageJ](https://github.com/kephale/fun.imagej): Functional programming for scientific image processing
 - [Clojush](https://github.com/lspector/Clojush): Contributor to Clojure implementation of the Push programming language.
