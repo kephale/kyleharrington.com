@@ -7,7 +7,7 @@
 layout: default
 ---
 
-I am an assistant professor at the University of Idaho, Moscow.
+I am an assistant professor at the University of Idaho, Moscow, and a visiting scientist at Howard Hughes Medical Institute, Janelia Research Campus.
 
 I completed my PhD in Computer Science at Brandeis University with <a href="http://www.jordanpollack.com">Jordan Pollack</a>, and postdoctoral fellowship in the Computational Biology Laboratory, Beth Israel Deaconess Medical Center, Harvard Medical School with <a href="http://cvbr.hms.harvard.edu/researchers/bentley.html">Katie Bentley</a>.
 
@@ -17,16 +17,8 @@ I completed my PhD in Computer Science at Brandeis University with <a href="http
 
 ## <i><b>News:</b></i>
 
-- I am a visiting scientist at Howard Hughes Medical Institute, Janelia Research Campus
-- Two fresh preprints are out:
-  - `Multi-sample SPIM image acquisition, processing and analysis of vascular growth in zebrafish`: a complete method (from embedding zebrafish embryos to quantitative analysis) for studying vascular development zebrafish; come for the technique, stay for the [videos](https://twitter.com/Daetwyler_St/status/1066863930960740352)
-  - `Neuromodulated Learning in Deep Neural Networks`: translates ideas from biological neuromodulation to deep neural network optimization and outperforms the current best optimizers
-
-- Two new papers will be coming out in Artificial Life (in different issues): 
-  - `Escalation of Memory Length in Finite Populations`: computational evidence of sustained coevolutionary arms races for >1,000,000 generations
-  - `Artificial Gene Regulatory Networks—A Review`: extensive review of the simulation and computational evolution of artificial gene regulatory networks
-
-- I was a visiting scientist at the Royal Veterinary College, sponsored by the Royal Society in the summer of 2018.
+- `A large pool of actively cycling progenitors orchestrates self-renewal and injury repair of an ectodermal appendage` has been accepted at Nature Cell Biology
+- `Mouse retinal cell behaviour in space and time using light sheet fluorescence microscopy` is on bioRxiv and has been submitted https://doi.org/10.1101/686626
 
 ## <i><b>Selected publications:</b></i>
 

@@ -23,6 +23,7 @@ permalink: /about/
 ## Positions
 - Assistant Professor, 2016 - present,<br />&nbsp;&nbsp;&nbsp;&nbsp;Virtual Technology and Design,<br />&nbsp;&nbsp;&nbsp;&nbsp;University of Idaho, Moscow.<br />
 - Visiting Scientist, 2018 - present,<br />&nbsp;&nbsp;&nbsp;&nbsp;Janelia Research Campus,<br />&nbsp;&nbsp;&nbsp;&nbsp;Howard Hughes Medical Institute.<br />
+- Machine Learning Scientist, 2018 - 2019,<br />&nbsp;&nbsp;&nbsp;&nbsp;DARPA/MTO \& DARPA/I2O,<br />&nbsp;&nbsp;&nbsp;&nbsp;ECS Federal, Arlington VA.<br />
 - Visiting Professor, 2017,<br />&nbsp;&nbsp;&nbsp;&nbsp;Computer Science,<br />&nbsp;&nbsp;&nbsp;&nbsp;University of Toulouse, France.<br />
 - Visiting Professor, 2017,<br />&nbsp;&nbsp;&nbsp;&nbsp;Center for Systems Biology Dresden at<br />&nbsp;&nbsp;&nbsp;&nbsp;Max Planck Institute for Cell Biology and Genetics,<br />&nbsp;&nbsp;&nbsp;&nbsp;Max Planck Institute for Physical Complex Systems,<br />&nbsp;&nbsp;&nbsp;&nbsp;Technical University of Dresden<br />
 - Lecturer, 2016,<br />&nbsp;&nbsp;&nbsp;&nbsp;Department of Computer Science,<br />&nbsp;&nbsp;&nbsp;&nbsp;Tufts University.<br />
