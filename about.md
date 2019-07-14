@@ -34,6 +34,8 @@ permalink: /about/
 - Instructor of Computer Science, 2007 - 2008,<br />&nbsp;&nbsp;&nbsp;&nbsp;Hampshire College.<br />
 
 ## Awards and Activities
+- Panelist, National Institutes of Health - 2019<br />
+- Panelist, National Science Foundation - 2019<br />
 - Visiting Researcher, Royal Veterinary College (Host: Doube; Sponsor: Royal Society) - 2018
 - Panelist, National Science Foundation - 2017<br />
 - Mentor, ClojureBridge Boston: Programming Workshop for Underrepresented Groups - 2016-2017<br />
