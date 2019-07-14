@@ -59,6 +59,7 @@ permalink: /research/
 <b>2.</b>&nbsp;&nbsp;Harrington, K. I. S, (2014) "Escalation of Coevolutionary Arms Races". In <i>Department of Computer Science, Brandeis University</i>.&nbsp;&nbsp;<a href="https://ndownloader.figshare.com/files/6944900">pdf</a><br> <br><b>1.</b>&nbsp;&nbsp;Harrington, K., and J. Pollack, (2011) "Zipper-based Meta-Genetic Programming". In <i>Technical Report Brandeis University CS-11-275</i>.&nbsp;&nbsp;<a href="http://pages.cs.brandeis.edu/~kyleh/ZipperMetaGP.pdf">pdf</a>
 
 ## Talks
+<b>34.</b>&nbsp;&nbsp;Harrington, K I S, (2019) "The Artificial Life of Image-based Modeling for Morphogenesis". <i>Image-based Modeling and Simulation 2019</i>&nbsp;&nbsp;<br>
 <b>33.</b>&nbsp;&nbsp;Harrington, K I S, (2018) "Bringing biological images to life: modeling and visualization". <i>Wisconsin Institute for Discovery</i>&nbsp;&nbsp;<br>
 <br><b>32.</b>&nbsp;&nbsp;Harrington, K I S, (2018) "Evolution of genetically-regulated swarming strategies". <i>HHMI Collective Computation Conference</i>&nbsp;&nbsp;<br>
 <br><b>31.</b>&nbsp;&nbsp;Harrington, K I S, (2017) "Image-based Modeling". <i>Data Science Day, Washington State University, Pullman, WA</i>&nbsp;&nbsp;<br>
