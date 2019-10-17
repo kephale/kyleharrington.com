@@ -6,8 +6,8 @@ permalink: /about/
 
 ## Current
 - Assistant Professor,<br />&nbsp;&nbsp;&nbsp;&nbsp;Virtual Technology and Design,<br />&nbsp;&nbsp;&nbsp;&nbsp;University of Idaho, Moscow.
-- Visiting Scientist,<br />&nbsp;&nbsp;&nbsp;&nbsp;Janelia Research Campus,<br />&nbsp;&nbsp;&nbsp;&nbsp;Howard Hughes Medical Institute.
-- Affiliate Faculty, University of Idaho<br />&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.uidaho.edu/engr/departments/cs">Computer Science</a><br />
+- Affiliate Faculty at University of Idaho in the following departments:<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.uidaho.edu/engr/departments/cs">Computer Science</a><br />
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.uidaho.edu/sci/bcb">Bioinformatics and Computational Biology graduate program</a><br />
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://cmciuidaho.org/">Center for Modeling Complex Interactions</a><br />
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.uidaho.edu/engr/departments/be">Biological Engineering</a><br />
@@ -22,7 +22,7 @@ permalink: /about/
 
 ## Positions
 - Assistant Professor, 2016 - present,<br />&nbsp;&nbsp;&nbsp;&nbsp;Virtual Technology and Design,<br />&nbsp;&nbsp;&nbsp;&nbsp;University of Idaho, Moscow.<br />
-- Visiting Scientist, 2018 - present,<br />&nbsp;&nbsp;&nbsp;&nbsp;Janelia Research Campus,<br />&nbsp;&nbsp;&nbsp;&nbsp;Howard Hughes Medical Institute.<br />
+- Visiting Scientist, 2018 - 2019,<br />&nbsp;&nbsp;&nbsp;&nbsp;Janelia Research Campus,<br />&nbsp;&nbsp;&nbsp;&nbsp;Howard Hughes Medical Institute.<br />
 - Machine Learning Scientist, 2018 - 2019,<br />&nbsp;&nbsp;&nbsp;&nbsp;DARPA/MTO & DARPA/I2O,<br />&nbsp;&nbsp;&nbsp;&nbsp;ECS Federal, Arlington VA.<br />
 - Visiting Professor, 2017,<br />&nbsp;&nbsp;&nbsp;&nbsp;Computer Science,<br />&nbsp;&nbsp;&nbsp;&nbsp;University of Toulouse, France.<br />
 - Visiting Professor, 2017,<br />&nbsp;&nbsp;&nbsp;&nbsp;Center for Systems Biology Dresden at<br />&nbsp;&nbsp;&nbsp;&nbsp;Max Planck Institute for Cell Biology and Genetics,<br />&nbsp;&nbsp;&nbsp;&nbsp;Max Planck Institute for Physical Complex Systems,<br />&nbsp;&nbsp;&nbsp;&nbsp;Technical University of Dresden<br />
@@ -48,4 +48,4 @@ permalink: /about/
 
 ## Reviewing
 
-Bioinformatics, Nature Communications, BMC Biotechnology, ACS Synthetic Biology, EEE Trans. on Neural Networks and Learning Systems, Theoretical Computer Science, Physics Letters A, Neural Networks, BioSystems, Frontiers in Computational Neuroscience, IEEE Trans. on Neural Networks, IEEE Trans. on Autonomous Mental Development, Optimization Letters, Emotion Review, IEEE-RAS Int'l Conf. on Humanoid Robotics, IEEE Int'l Joint Conf. on Neural Networks, IEEE Sym. Series on Computational Intelligence, Genetic and Evolutionary Computation Conference
+Bioinformatics, Nature Communications, BMC Biotechnology, ACS Synthetic Biology, IEEE Trans. on Neural Networks and Learning Systems, Theoretical Computer Science, Physics Letters A, Sensors, Neural Networks, BioSystems, Frontiers in Computational Neuroscience, IEEE Trans. on Neural Networks, IEEE Trans. on Autonomous Mental Development, Optimization Letters, Emotion Review, IEEE-RAS Int'l Conf. on Humanoid Robotics, IEEE Int'l Joint Conf. on Neural Networks, IEEE Sym. Series on Computational Intelligence, Genetic and Evolutionary Computation Conference
