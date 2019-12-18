@@ -34,6 +34,8 @@ permalink: /about/
 - Instructor of Computer Science, 2007 - 2008,<br />&nbsp;&nbsp;&nbsp;&nbsp;Hampshire College.<br />
 
 ## Awards and Activities
+- Member, Program Committee, Conference on Artificial Life, 2020
+- Member, Program Committee for Evolutionary Machine Learning, GECCO, 2018-2020
 - Panelist, National Institutes of Health - 2019<br />
 - Panelist, National Science Foundation - 2019<br />
 - Visiting Researcher, Royal Veterinary College (Host: Doube; Sponsor: Royal Society) - 2018
@@ -48,4 +50,4 @@ permalink: /about/
 
 ## Reviewing
 
-Bioinformatics, Nature Communications, BMC Biotechnology, ACS Synthetic Biology, IEEE Trans. on Neural Networks and Learning Systems, Theoretical Computer Science, Physics Letters A, Sensors, Neural Networks, BioSystems, Frontiers in Computational Neuroscience, IEEE Trans. on Neural Networks, IEEE Trans. on Autonomous Mental Development, Optimization Letters, Emotion Review, IEEE-RAS Int'l Conf. on Humanoid Robotics, IEEE Int'l Joint Conf. on Neural Networks, IEEE Sym. Series on Computational Intelligence, Genetic and Evolutionary Computation Conference
+Bioinformatics, Nature Communications, BMC Biotechnology, ACS Synthetic Biology, IEEE Trans. on Neural Networks and Learning Systems, Theoretical Computer Science, Physics Letters A, Sensors, Neural Networks, BioSystems, Biotechniques, Frontiers in Computational Neuroscience, IEEE Trans. on Neural Networks, IEEE Trans. on Autonomous Mental Development, Optimization Letters, Emotion Review, IEEE-RAS Int'l Conf. on Humanoid Robotics, IEEE Int'l Joint Conf. on Neural Networks, IEEE Sym. Series on Computational Intelligence, Genetic and Evolutionary Computation Conference
