@@ -7,18 +7,14 @@
 layout: default
 ---
 
-I am an assistant professor at the University of Idaho, Moscow, and a visiting scientist at Howard Hughes Medical Institute, Janelia Research Campus.
-
-I completed my PhD in Computer Science at Brandeis University with <a href="http://www.jordanpollack.com">Jordan Pollack</a>, and postdoctoral fellowship in the Computational Biology Laboratory, Beth Israel Deaconess Medical Center, Harvard Medical School with <a href="http://cvbr.hms.harvard.edu/researchers/bentley.html">Katie Bentley</a>.
+I am an assistant professor at the University of Idaho, Moscow.
 
 <b>Research:</b> computational methods in the study of biological and physical processes<br>
 <b>Context: </b>scientific computing, artificial life, and computational/theoretical biology<br>
 <b>Tools: </b>machine learning, functional programming, image analysis, and simulation<br>
 
-## <i><b>News:</b></i>
-
-- `A large pool of actively cycling progenitors orchestrates self-renewal and injury repair of an ectodermal appendage` has been accepted at Nature Cell Biology
-- `Mouse retinal cell behaviour in space and time using light sheet fluorescence microscopy` is on bioRxiv and has been submitted https://doi.org/10.1101/686626
+You may know me from from my time at:
+HHMI Janelia Research Campus, DARPA, Center for Systems Biology Dresden, Max Planck Institute for Cell Biology and Genetics, University of Toulouse, Tufts University, Harvard Medical School, Brandeis University, University of Massachusetts Amherst,  Hampshire College, or perhaps somewhere else
 
 ## <i><b>Selected publications:</b></i>
 

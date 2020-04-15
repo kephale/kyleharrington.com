@@ -9,6 +9,7 @@ permalink: /research/
 [My Google Scholar](https://scholar.google.com/citations?user=InE-jdsAAAAJ)  
 
 ## Journal Articles
+<b>17.</b>&nbsp;&nbsp;Claudia Prahst, Parham Ashrafzadeh, Kyle Harrington, Lakshmi Venkatraman, Mark Richards, Ana Martins Russo, Kin-Sang Cho, Karen Chang, Thomas Mead, Dong Feng Chen, Douglas Richardson, Lena Claesson-Welsh, Claudio Franco, Katie Bentley, "Mouse retinal cell behaviour in space and time using light sheet fluorescence microscopy." eLife 2020;9:e49779; doi: 10.7554/eLife.49779.<br> <br>
 <b>16.</b>&nbsp;&nbsp;Sharir, A., Marangoni, P., Wan, M., Zilionis, R., Wald, T., Hu, J., Kawaguchi, K., Epstein, L., Harrington, K., Pagella, P., Mitsiadis, T., Siebel, C., Klein, A. M. and Klein, O, D., (2019) “A large pool of actively cycling progenitors orchestrates self-renewal and injury repair of an ectodermal appendage.” In Nature Cell Biology. <br> <br>
 <b>15.</b>&nbsp;&nbsp;Daetwyler, S., Günther, U., Modes, C.D., Harrington, K.\* and Huisken, J.\*, (2019). Multi-sample SPIM image acquisition, processing and analysis of vascular growth in zebrafish. In Development 146: dev173757. <a href="http://dev.biologists.org/content/develop/146/6/dev173757.full.pdf">pdf</a> <br>
 \* Co-corresponding authors <br> <br>
@@ -29,7 +30,8 @@ permalink: /research/
 <b>1.</b>&nbsp;&nbsp; Spector, L., J. Klein, and K. Harrington, (2005) "Selection Songs: Evolutionary Music Computation". In <i>YLEM Journal</i>, Vol. 25, no. 6 & 8, pp. 24-26.&nbsp;&nbsp;<a href="http://hampshire.edu/lspector/pubs/selection-songs.pdf">pdf</a>
 
 ## Peer-reviewed conference and workshop papers
-<b>18.</b>&nbsp;&nbsp;Günther, U., Pietzsch, T., Gupta, A., Harrington, K.I., Tomancak, P., Gumhold, S. and Sbalzarini, I.F., 2019. scenery--Flexible Virtual Reality Visualisation on the Java VM. 2019 IEEE Visualization Conference (VIS), Vancouver, BC, Canada, 2019, pp. 1-5.<br>
+<b>19.</b>&nbsp;&nbsp;Günther, U., and Harrington, K.I., 2020. Tales from the Trenches: Developing a new 3D viewer for the ImageJ community. Accepted in VisGap/Eurographics and Eurovis.<br>
+<br><b>18.</b>&nbsp;&nbsp;Günther, U., Pietzsch, T., Gupta, A., Harrington, K.I., Tomancak, P., Gumhold, S. and Sbalzarini, I.F., 2019. scenery--Flexible Virtual Reality Visualisation on the Java VM. 2019 IEEE Visualization Conference (VIS), Vancouver, BC, Canada, 2019, pp. 1-5.<br>
 <br><b>17.</b>&nbsp;&nbsp;Wilson, D. G., Harrington, K., Cussat-Blanc, S., and Luga, H. (2018). "Evolving Differentiable Gene Regulatory Networks". In <i>Parallel Problem Solving from Nature: PPSN XV, Evolutionary Machine Learning workshop</i>, arxiv.org/abs/1807.05948. <a href="https://arxiv.org/pdf/1807.05948.pdf">pdf</a><br>
 <br><b>16.</b>&nbsp;&nbsp;Harrington, K., and L. Magbunduku, (2017) "Competitive dynamics in eco-evolutionary genetically-regulated swarms". In <i>Proceedings of the 14th European Conference on Artificial Life ECAL 2017</i>, pp. 190-197.&nbsp;&nbsp;<a href="https://www.researchgate.net/profile/Kyle_Harrington/publication/319639610_Competitive_dynamics_in_eco-evolutionary_genetically-regulated_swarms/links/59b7c188a6fdcc7415bfde9c/Competitive-dynamics-in-eco-evolutionary-genetically-regulated-swarms.pdf?_iepl%5BhomeFeedViewId%5D=qKjhnfCC0ICe3JQZBCVECF0JyKT0amSVBrND&amp;_iepl%5Bcontexts%5D%5B0%5D=pcfhf&amp;_iepl%5BinteractionType%5D=publicationDownload&amp;origin=publication_detail&amp;ev=pub_int_prw_xdl&amp;msrp=eyDxZbIxD-i5ldwmr4o6R94VCM6T29vK53evHmRUt5cTXI5BV-jNcj5v8pyGpidoWmvOtjztSVivKz-n1lGhitj5J80YhqOlhKKUAlfEc-yJdQH0tm3oVrrH.3h5ReRtlW3RsSX9PDb194N4qyRDZ1Y3LNrwofJrt7jcr-sYHMiHuWrW5_7qj8tCYMaJQrLu7yO-Bo2L1Eq7lC6VYt6Z1_2AQr2BqFA.wTcS1AuVkab6BZLQe0VjMIVAENpFGr3v8Q0NW5llBEuPmOmhpDwd7o4h5SbO5_0ZREZ7uUI3wj7sLy-aC-Cdh2UmfNbz71YUlYl9PA.KjRo3yaobvZZmGUShX17nZ9thiDVdWw-4HYO9GBLzcittyoLMbAkubmKulq_5X6SAfUX5d10l4RWYCzuonTtJYXj0TmHeOUDZHdXqw">pdf</a><br>
 <br><b>15.</b>&nbsp;&nbsp;Cussat-Blanc, S. and K. Harrington, (2015) "Genetically-regulated Neuromodulation Facilitates Multi-Task Reinforcement Learning". In <i>Proceedings of the Genetic and Evolutionary Computation Conference</i>, pp. 551-558.&nbsp;&nbsp;<br> <br>
@@ -45,7 +47,6 @@ permalink: /research/
 
 ## Preprints
 
-<b>2.</b>&nbsp;&nbsp;Claudia Prahst, Parham Ashrafzadeh, Kyle Harrington, Lakshmi Venkatraman, Mark Richards, Ana Martins Russo, Kin-Sang Cho, Karen Chang, Thomas Mead, Dong Feng Chen, Douglas Richardson, Lena Claesson-Welsh, Claudio Franco, Katie Bentley, "Mouse retinal cell behaviour in space and time using light sheet fluorescence microscopy." bioRxiv 686626; doi: https://doi.org/10.1101/686626.<br> <br>
 <b>1.</b>&nbsp;&nbsp;Wilson, D.G., Cussat-Blanc, S., Luga, H. and Harrington, K., "Neuromodulated Learning in Deep Neural Networks." arXiv preprint arXiv:1812.03365. <a href="https://arxiv.org/pdf/1812.03365">pdf</a><br> <br>
 
 ## Book chapters
@@ -62,7 +63,8 @@ permalink: /research/
 <b>2.</b>&nbsp;&nbsp;Harrington, K. I. S, (2014) "Escalation of Coevolutionary Arms Races". In <i>Department of Computer Science, Brandeis University</i>.&nbsp;&nbsp;<a href="https://ndownloader.figshare.com/files/6944900">pdf</a><br> <br><b>1.</b>&nbsp;&nbsp;Harrington, K., and J. Pollack, (2011) "Zipper-based Meta-Genetic Programming". In <i>Technical Report Brandeis University CS-11-275</i>.&nbsp;&nbsp;<a href="http://pages.cs.brandeis.edu/~kyleh/ZipperMetaGP.pdf">pdf</a>
 
 ## Talks
-<b>36.</b>&nbsp;&nbsp;Harrington, K I S, (2019) "Multiscale modeling and visualization with biological images". <i>Center for Cell Analysis and Modeling Seminar, UConn, Farmington, CT</i>&nbsp;&nbsp;<br>
+<b>37.</b>&nbsp;&nbsp;Harrington, K I S, (2020) "Emergence of animal conflict from neurodevelopmental wiring: an artificial life model". <i>J-theory, Janelia Research Campus, Howard Hughes Medical Institute</i>&nbsp;&nbsp;<br>
+<br><b>36.</b>&nbsp;&nbsp;Harrington, K I S, (2019) "Multiscale modeling and visualization with biological images". <i>Center for Cell Analysis and Modeling Seminar, UConn, Farmington, CT</i>&nbsp;&nbsp;<br>
 <br><b>35.</b>&nbsp;&nbsp;Harrington, K I S, (2019) "Modeling from Morphology to Molecules: Blood Vessels to Synaptic Plasticity". <i>J-theory, Janelia Research Campus, Howard Hughes Medical Institute</i>&nbsp;&nbsp;<br>
 <br><b>34.</b>&nbsp;&nbsp;Harrington, K I S, (2019) "The Artificial Life of Image-based Modeling for Morphogenesis". <i>Image-based Modeling and Simulation 2019</i>&nbsp;&nbsp;<br>
 <br><b>33.</b>&nbsp;&nbsp;Harrington, K I S, (2018) "Bringing biological images to life: modeling and visualization". <i>Wisconsin Institute for Discovery</i>&nbsp;&nbsp;<br>
