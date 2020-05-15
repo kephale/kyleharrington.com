@@ -16,7 +16,7 @@ I am an assistant professor at the University of Idaho, Moscow.
 My work has included:
 
 - design and development of, sciview, a modern 3D visualization tool for scientific image analysis (Guenther and Harrington, 2020)
-- 3D whole organism vascular image segmentation of zebrafish development (Daetwyler et al, 2019)
+- 3D whole organism image segmentation of zebrafish vascular development (Daetwyler et al, 2019)
 - machine learning with differentiable gene-regulatory networks (Wilson et al, 2018)
 - predictive computational modeling of cellular mechanisms of vascular development (Costa et al, 2016)
 - simulation-driven design and experimental validation of microdroplet-based chemical computing elements (Wang et al, 2016)
