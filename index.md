@@ -7,11 +7,11 @@
 layout: default
 ---
 
-I am an assistant professor at the University of Idaho, Moscow.
+I am the Team Leader for the [Helmholtz Imaging Platform](https://www.helmholtz-imaging.de/) at the [Max Delbrueck Center for Molecular Medicine](https://www.mdc-berlin.de/) in Berlin, Germany, and am on leave from the University of Idaho, Moscow, ID, USA.
 
 <b>Research:</b> computational methods in the study of biological and physical processes<br>
 <b>Context: </b>scientific computing, artificial life, and computational/theoretical biology<br>
-<b>Tools: </b>machine learning, functional programming, image analysis, and simulation<br>
+<b>Tools: </b>image analysis, machine learning, functional programming, and simulation<br>
 
 My work has included:
 
@@ -20,9 +20,6 @@ My work has included:
 - machine learning with differentiable gene-regulatory networks (Wilson et al, 2018)
 - predictive computational modeling of cellular mechanisms of vascular development (Costa et al, 2016)
 - simulation-driven design and experimental validation of microdroplet-based chemical computing elements (Wang et al, 2016)
-
-You may know me from from my time at:
-HHMI Janelia Research Campus, DARPA, Center for Systems Biology Dresden, Max Planck Institute for Cell Biology and Genetics, University of Toulouse, Tufts University, Harvard Medical School, Brandeis University, University of Massachusetts Amherst,  Hampshire College, or perhaps somewhere else
 
 ## <i><b>Selected publications:</b></i>
 
