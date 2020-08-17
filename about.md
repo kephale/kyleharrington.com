@@ -36,6 +36,7 @@ permalink: /about/
 - Instructor of Computer Science, 2007 - 2008,<br />&nbsp;&nbsp;&nbsp;&nbsp;Hampshire College.<br />
 
 ## Awards and Activities
+- Associate Editor, Frontiers in Bioinformatics, Computational Bioimaging (2020 - present)
 - Member, Program Committee, Conference on Artificial Life, 2020
 - Member, Program Committee for Evolutionary Machine Learning, GECCO, 2018-2019
 - Panelist, National Institutes of Health - 2019<br />
