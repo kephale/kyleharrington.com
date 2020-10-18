@@ -25,6 +25,9 @@ minima:
 #header_pages:
 # - about.html
 
+after_footer_scripts     :
+  - /assets/js/cookie-consent.js
+
 # Build settings
 markdown: kramdown
 theme: minima

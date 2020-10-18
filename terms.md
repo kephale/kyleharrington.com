@@ -25,6 +25,8 @@ All of this information is not linked to anything that is personally identifiabl
 
 ### Cookies and Web Beacons
 
+When you visit this site cookies are stored on your computer to identify trusted traffic, which are used by the content network, Cloudflare. This prevents attacks and enables secure access to the website. For more information you can read Cloudflare's [privacy policy](https://www.cloudflare.com/privacypolicy) and [terms of service](https://www.cloudflare.com/terms/).
+
 ### Google Analytics
 
 Google Analytics is a web analytics tool I use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. For more information you can read the [Google Analytics Privacy Policy](http://www.google.com/analytics/learn/privacy.html).
