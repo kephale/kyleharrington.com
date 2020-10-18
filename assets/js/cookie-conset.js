@@ -12,9 +12,8 @@ window.cookieconsent.initialise({
   "content": {
     "message": "This website uses cookies to ensure you get the best experience.",
     "href": "https://kyleharrington.com/terms"
-  }
-},
-onInitialise: function (status) {
+  },
+  onInitialise: function (status) {
     var type = this.options.type;
     var didConsent = this.hasConsented();
     if (type == 'opt-in' && didConsent) {
@@ -45,4 +44,4 @@ onInitialise: function (status) {
       // enable cookies
       loadGAonConsent();
     }
-  });
+  }});
