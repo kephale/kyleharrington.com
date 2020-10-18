@@ -4,8 +4,6 @@ title: Impressum
 permalink: /impressum/
 ---
 
-### Impressum
-
 Kyle I. Harrington  
 Max Delbrück Center for Molecular Medicine in the Helmholtz Association  
 Robert-Rössle-Straße 10  
