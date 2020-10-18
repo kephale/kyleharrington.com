@@ -5,6 +5,7 @@ permalink: /about/
 ---
 
 ## Current
+- Group Leader,<br />&nbsp;&nbsp;&nbsp;&nbsp;Image Data Analysis,<br />&nbsp;&nbsp;&nbsp;&nbsp;Max Delbrueck Center for Molecular Medicine.
 - Team Leader,<br />&nbsp;&nbsp;&nbsp;&nbsp;Helmholtz Imaging Platform,<br />&nbsp;&nbsp;&nbsp;&nbsp;Max Delbrueck Center for Molecular Medicine.
 - Assistant Professor (on leave as of August 2020),<br />&nbsp;&nbsp;&nbsp;&nbsp;Virtual Technology and Design,<br />&nbsp;&nbsp;&nbsp;&nbsp;University of Idaho, Moscow.
 - Affiliate Faculty at University of Idaho in the following departments:<br />
@@ -21,6 +22,7 @@ permalink: /about/
 - B.A., Artificial Life,<br />&nbsp;&nbsp;&nbsp;&nbsp;Hampshire College (2007)<br />
 
 ## Positions
+- Group Leader, 2020 - present,<br />&nbsp;&nbsp;&nbsp;&nbsp;Image Data Analysis,<br />&nbsp;&nbsp;&nbsp;&nbsp;Max Delbrueck Center for Molecular Medicine.
 - Team Leader, 2020 - present,<br />&nbsp;&nbsp;&nbsp;&nbsp;Helmholtz Imaging Platform,<br />&nbsp;&nbsp;&nbsp;&nbsp;Max Delbrueck Center for Molecular Medicine.
 - Assistant Professor, 2016 - present (on leave as of August 2020),<br />&nbsp;&nbsp;&nbsp;&nbsp;Virtual Technology and Design,<br />&nbsp;&nbsp;&nbsp;&nbsp;University of Idaho, Moscow.<br />
 - Visiting Scientist, 2018 - 2019,<br />&nbsp;&nbsp;&nbsp;&nbsp;Janelia Research Campus,<br />&nbsp;&nbsp;&nbsp;&nbsp;Howard Hughes Medical Institute.<br />
