@@ -24,6 +24,8 @@
     <script defer src="/vendor/pdfmake/vfs_fonts.js"></script>
     <script defer src="/assets/js/resume.js"></script>
 
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
+
   </head>
 
   <body>
@@ -140,6 +142,26 @@
       </div>
 
     </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
+    <script>
+    window.cookieconsent.initialise({
+      "palette": {
+        "popup": {
+          "background": "#000",
+          "text": "#0f0"
+        },
+        "button": {
+          "background": "#0f0"
+        }
+      },
+      "type": "opt-in",
+      "content": {
+        "message": "This website uses cookies to ensure you get the best experience.",
+        "href": "kyleharrington.com/terms"
+      }
+    });
+    </script>
 
   </body>
 
