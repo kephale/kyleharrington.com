@@ -17,34 +17,34 @@ The privacy policy of the Max Delbrück Center for Molecular Medicine is based o
 In this privacy policy we use the following terms, among others:
 
 personal data  
-    Personal data is all information relating to an identified or identifiable natural person (hereinafter referred to as "data subject"). Identifiable is a natural person who can be identified directly or indirectly, in particular by assignment to an identifier such as a name, an identification number, location data, an online identifier or one or more special characteristics that express the physical, physiological, genetic, psychological, economic, cultural or social identity of that natural person.  
+&nbsp;&nbsp;Personal data is all information relating to an identified or identifiable natural person (hereinafter referred to as "data subject"). Identifiable is a natural person who can be identified directly or indirectly, in particular by assignment to an identifier such as a name, an identification number, location data, an online identifier or one or more special characteristics that express the physical, physiological, genetic, psychological, economic, cultural or social identity of that natural person.  
 person affected  
-    Data subject is any identified or identifiable natural person whose personal data are processed by the controller.  
+&nbsp;&nbsp;    Data subject is any identified or identifiable natural person whose personal data are processed by the controller.  
 Processing  
-    Processing means any operation or series of operations carried out with or without the aid of automated procedures relating to personal data, such as the collection, collection, organization, filing, storage, adaptation or modification, retrieval, querying, use, disclosure by transmission, dissemination or any other form of provision, reconciliation or linking, restriction, deletion or destruction.  
+&nbsp;&nbsp;    Processing means any operation or series of operations carried out with or without the aid of automated procedures relating to personal data, such as the collection, collection, organization, filing, storage, adaptation or modification, retrieval, querying, use, disclosure by transmission, dissemination or any other form of provision, reconciliation or linking, restriction, deletion or destruction.  
 Restricting processing  
-    Restriction on processing is the marking of stored personal data with the aim of restricting their future processing.  
+&nbsp;&nbsp;    Restriction on processing is the marking of stored personal data with the aim of restricting their future processing.  
 Pseudonymization  
-    Pseudonymization is the processing of personal data in such a way that the personal data can no longer be assigned to a specific data subject without additional information, provided that this additional information is kept separately and is subject to technical and organizational measures that ensure that the personal data is not assigned to an identified or identifiable natural person.  
+&nbsp;&nbsp;    Pseudonymization is the processing of personal data in such a way that the personal data can no longer be assigned to a specific data subject without additional information, provided that this additional information is kept separately and is subject to technical and organizational measures that ensure that the personal data is not assigned to an identified or identifiable natural person.  
 person in charge or person responsible for processing  
-    The controller or controller shall be the natural or legal person, authority, body, office or other body which alone or jointly with others decides on the purposes and means of processing personal data. Where the purposes and means of such processing are laid down by Union law or by the law of the Member States, the controller or the specific criteria for his appointment may be laid down in accordance with Union law or the law of the Member States.  
+&nbsp;&nbsp;    The controller or controller shall be the natural or legal person, authority, body, office or other body which alone or jointly with others decides on the purposes and means of processing personal data. Where the purposes and means of such processing are laid down by Union law or by the law of the Member States, the controller or the specific criteria for his appointment may be laid down in accordance with Union law or the law of the Member States.  
 Order processor  
-    Processor is a natural or legal person, authority, institution or other body that processes personal data on behalf of the data controller.  
+&nbsp;&nbsp;    Processor is a natural or legal person, authority, institution or other body that processes personal data on behalf of the data controller.  
 receiver  
-    The recipient is a natural or legal person, authority, institution or other body to which personal data is disclosed, whether or not it is a third party. However, authorities which may receive personal data under Union law or the law of the Member States within the framework of a particular investigation mandate shall not be regarded as recipients.  
+&nbsp;&nbsp;    The recipient is a natural or legal person, authority, institution or other body to which personal data is disclosed, whether or not it is a third party. However, authorities which may receive personal data under Union law or the law of the Member States within the framework of a particular investigation mandate shall not be regarded as recipients.  
 Thirds  
-    Third party is a natural or legal person, authority, institution or other body other than the data subject, the data processor, the data processor and the persons authorised to process the personal data under the direct responsibility of the data processor or the data processor.  
+&nbsp;&nbsp;    Third party is a natural or legal person, authority, institution or other body other than the data subject, the data processor, the data processor and the persons authorised to process the personal data under the direct responsibility of the data processor or the data processor.  
 agreement  
-    Acceptance is any informed and unequivocal statement of intent, in the form of a statement or other clear affirmative act, voluntarily given by the data subject for the particular case, that the data subject indicates his or her consent to the processing of personal data concerning him or her.  
+&nbsp;&nbsp;    Acceptance is any informed and unequivocal statement of intent, in the form of a statement or other clear affirmative act, voluntarily given by the data subject for the particular case, that the data subject indicates his or her consent to the processing of personal data concerning him or her.  
 
 II. Name and address of the person responsible
 
 The person responsible within the meaning of the Basic Data Protection Regulation and other national data protection laws of the member states and other data protection regulations is:
 
-Kyle Harrington
-Robert Rössle St. 10
-13125 Berlin
-Germany
+Kyle Harrington  
+Robert Rössle St. 10  
+13125 Berlin  
+Germany  
 
 Tel.: 030-94062195
 
@@ -54,9 +54,9 @@ III. Name and address of the data protection officer
 
 The data protection officer of the person responsible is:
 
-Kyle Harrington
-Email: Datenschutz@kyleharrington.com
-Website: www.kyleharrington.com
+Kyle Harrington  
+Email: Datenschutz@kyleharrington.com  
+Website: www.kyleharrington.com  
 
 IV. General information about data processing
 
@@ -75,13 +75,13 @@ In the event that the vital interests of the data subject or another natural per
 
 If processing is necessary to safeguard a legitimate interest of our company or a third party and if the interests, fundamental rights and freedoms of the data subject do not outweigh the former interest, Article 6(1)(f) DSGVO serves as the legal basis for processing.
 
-3. data erasure and storage time
+3 -- data erasure and storage time
 
 The personal data of the person concerned will be deleted or blocked as soon as the purpose of storage ceases to apply. Furthermore, data may be stored if this has been provided for by the European or national legislator in EU regulations, laws or other provisions to which the person responsible is subject. The data will also be blocked or deleted if a storage period prescribed by the aforementioned standards expires, unless there is a need for further storage of the data for the conclusion or fulfilment of a contract.
 
 V. Provision of the website and creation of log files
 
-1. description and scope of data processing
+1 -- description and scope of data processing
 
 Every time you visit our website, our system automatically collects data and information from the computer system of the calling computer.
 
@@ -96,11 +96,11 @@ The following data are collected:
 
 The data is also stored in the log files of our system. This data is not stored together with other personal data of the user.
 
-2. legal basis for data processing
+2 -- legal basis for data processing
 
 The legal basis for the temporary storage of data and log files is Art. 6 para.1 lit. f DSGVO.
 
-3. purpose of data processing
+3 -- purpose of data processing
 
 The temporary storage of the IP address by the system is necessary to enable the website to be delivered to the user's computer. For this the IP address of the user must remain stored for the duration of the session.
 
@@ -108,7 +108,7 @@ The data is stored in log files to ensure the functionality of the website. In a
 
 In these purposes is also our legitimate interest in data processing according to Art. 6 para.1 lit. f DSGVO.
 
-4. storage time
+4 -- storage time
 
 The data will be deleted as soon as it is no longer necessary to achieve the purpose of its collection. In the case of the collection of data for the provision of the website, this is the case when the respective session has ended.
 
@@ -116,23 +116,23 @@ The controller shall process and store the personal data of the data subject onl
 
 If the storage purpose is not fulfilled or if a storage period prescribed by the European Directive and Regulation Giver or another competent legislator expires, the personal data will be blocked or deleted routinely and in accordance with the statutory provisions.
 
-5. possibility of objection and elimination
+5 -- possibility of objection and elimination
 
 The collection of data to provide the website and the storage of data in log files is mandatory for the operation of the website. Consequently, there is no possibility of objection on the part of the user.
 
 VI. Use of Cookies
 
-1. description and scope of data processing
+1 -- description and scope of data processing
 
 Our website uses cookies. Cookies are text files that are stored in the Internet browser or by the Internet browser on the user's computer system. If a user visits a website, a cookie may be stored on the user's operating system. This cookie contains a characteristic character string that enables a unique identification of the browser when the website is called up again.
 
 When you visit this site cookies are stored on your computer to identify trusted traffic, which are used by the content network, Cloudflare. This prevents attacks and enables secure access to the website. For more information you can read Cloudflare's [privacy policy](https://www.cloudflare.com/privacypolicy) and [terms of service](https://www.cloudflare.com/terms/).
 
-2. legal basis for data processing
+2 --  legal basis for data processing
 
 The legal basis for the processing of personal data using cookies is Article 6(1)(f) DSGVO.
 
-3. purpose of data processing
+3 -- purpose of data processing
 
 The purpose of using technically necessary cookies is to simplify the use of websites for users. Some functions of our website cannot be offered without the use of cookies. For this it is necessary that the browser is recognized even after a page change.
 
@@ -140,7 +140,7 @@ The user data collected by technically necessary cookies are not used to create 
 
 For these purposes, our legitimate interest also lies in the processing of personal data in accordance with Article 6(1)(f) DSGVO.
 
-4. Duration of storage, objection and elimination option
+4 -- Duration of storage, objection and elimination option
 
 Cookies are stored on the user's computer and transmitted to our site by the user. Therefore, you as a user also have full control over the use of cookies. You can deactivate or restrict the transmission of cookies by changing the settings in your Internet browser. Cookies that have already been saved can be deleted at any time. This can also be done automatically. If cookies are deactivated for our website, it may no longer be possible to use all functions of the website in full.
 
