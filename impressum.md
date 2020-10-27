@@ -4,6 +4,8 @@ title: Impressum
 permalink: /impressum/
 ---
 
+Angaben gemäß § 5 TMG  
+
 Redaktionsverantwortlicher für www.kyleharrington.com  
 Dr. Kyle I. Harrington  
 Group Leader
@@ -12,9 +14,10 @@ Robert-Rössle-Straße 10
 13125 Berlin, Germany  
 Office tel.: +49 030 94062195  
 Email: kyle.harrington at mdc-berlin dot de  
+Redaktionsverantwortlicher nach § 55 Abs. 2 RStV für www.kyleharrington.com  
 
 **Haftungshinweis**  
-Diese Website beinhaltet Informationen aus dem Dr. Kyle Harrington. Unser Ziel ist es, zeitgemäße und genaue Informationen bereitzustellen. Wenn wir über Fehler in Kenntnis gesetzt werden, werden wir versuchen, diese zu korrigieren.  
+Diese Website beinhaltet Informationen von Dr. Kyle Harrington. Unser Ziel ist es, zeitgemäße und genaue Informationen bereitzustellen. Wenn wir über Fehler in Kenntnis gesetzt werden, werden wir versuchen, diese zu korrigieren.  
 Kyle Harrington übernimmt jedoch keinerlei Verantwortung oder Haftung für die Angaben auf dieser Website. Insbesondere sind die Angaben:  
 - Informationen allgemeiner Art, die nicht auf die besonderen Bedürfnisse bestimmter Personen oder Einrichtungen abgestimmt sind;  
 - nicht notwendigerweise umfassend, komplett, genau oder aktuell  
