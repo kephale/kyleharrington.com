@@ -6,7 +6,6 @@ permalink: /impressum/
 
 Angaben gemäß § 5 TMG  
 
-Redaktionsverantwortlicher für www.kyleharrington.com  
 Dr. Kyle I. Harrington  
 Group Leader
 MAX-DELBRÜCK-CENTRUM FÜR MOLEKULARE MEDIZIN in der Helmholtz-Gemeinschaft
