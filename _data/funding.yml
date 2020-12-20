@@ -145,6 +145,36 @@ proposals:
     PI: coPI
     duration:
     agency: NIH
+  - title: Evaluation of Metal Mobility and Microbial Dynamics in Lake Coeur d’Alene Sediments with Alteration of Oxidation-Reduction Conditions from a Simulated Algal Bloom
+    year: 2017
+    awarded: true
+    direct: 107914
+    total: 107914
+    currency: USD
+    role: coPI
+    PI: Langman, Jeffery
+    duration: 9
+    agency: Idaho EPSCoR
+  - title: Cross-site, agent-based modeling for game theoretic dynamics of public goods managementand governance
+    year: 2017
+    awarded: true
+    direct: 11000
+    total: 11000
+    currency: USD
+    role: PI
+    PI: Harrington, Kyle I.
+    duration: 3
+    agency: Idaho EPSCoR
+  - title: Cross-site, integrated modeling and experiments to examine ecosystem services that involve cooperative dilemmas
+    year: 2017
+    awarded: true
+    direct: 11000
+    total: 11000
+    currency: USD
+    role: coPI
+    PI: Hillis, Vicken
+    duration: 9
+    agency: Idaho EPSCoR
   - title: Improving the accessibility of ImgLib2
     year: 2020
     awarded: false
@@ -165,8 +195,7 @@ proposals:
     PI: Harrington, Kyle I.
     duration: 24
     agency: Helmholtz Artificial Intelligence Cooperation Unit
-  - title: Image Visualization and Annotation across Modalities and
-Applications
+  - title: Image Visualization and Annotation across Modalities and Applications
     year: 2020
     awarded: pending
     direct: 200000
