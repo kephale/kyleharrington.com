@@ -1,0 +1,189 @@
+proposals:
+  - title: Experimental and Bioinformatic Methods for Generating, Characterizing and Applying DNA Biosensors
+    year: 2018
+    awarded: false
+    direct: 210709.00
+    total: 294966.88
+    currency: USD
+    role: coPI
+    PI: Allen, Peter B.
+    duration: 36
+    agency: NSF
+  - title: Computational Analysis and Quantification of Morphogenetic Processes
+    year: 2018
+    awarded: true
+    direct: 60000
+    total: 60000
+    currency: USD
+    role: PI
+    PI: Harrington, Kyle I.
+    duration: 12
+    agency: Tufts University
+  - title: Synchronization	Engineering	of	Physarum	polycephalum
+    year: 2018
+    awarded: true
+    direct: 11843
+    total: 11843
+    currency: USD
+    role: PI
+    PI: Harrington, Kyle I.
+    duration: 6
+    agency: University of Idaho
+  - title: Continuation: Computational Analysis and Quantification of Morphogenetic Processes
+    year: 2019
+    awarded: true
+    direct: 60000
+    total: 60000
+    currency: USD
+    role: PI
+    PI: Harrington, Kyle I.
+    duration: 12
+    agency: Tufts University
+  - title: The Virtuatron: an Environment for the Emergence of Artificial Neurodevelopment
+    year: 2018
+    awarded: false
+    direct: 9480.00
+    total: 9480.00
+    currency: USD
+    role: PI
+    PI: Harrington, Kyle I.
+    duration: 24
+    agency: 	FACE Foundation
+  - title: R21 NIBIB Trailblazer Award: Predictive modeling of stem cell behavior for tendon tissue engineering
+    year: 2018
+    awarded: false
+    direct: 400000
+    total: 556709.15
+    currency: USD
+    role: PI
+    PI: Harrington, Kyle I.
+    duration: 36
+    agency: NIH
+  - title: Circuit Complexity and the Limits of Morphogenesis
+    year: 2018
+    awarded: false
+    direct: 125951.00
+    total: 174719.25
+    currency: USD
+    role: PI
+    PI: Harrington, Kyle I.
+    duration: 24
+    agency: NSF
+  - title: Circuit Complexity and the Limits of Morphogenesis
+    year: 2017
+    awarded: false
+    direct: 117410.00
+    total: 161876.00
+    currency: USD
+    role: PI
+    PI: Harrington, Kyle I.
+    duration: 24
+    agency: NSF
+  - title: Quantification and Control of Cell Signaling in Heterogeneous Populations of Synthetic Cells
+    year: 2017
+    awarded: false
+    role: PI
+    PI: Harrington, Kyle I.
+    agency: Arnold and Mabel Beckman Foundation
+  - title: Artificial intelligence for accelerating wound healing
+    year: 2019
+    awarded: true
+    direct: 146502.00
+    total: 146502.00
+    currency: USD
+    role: PI
+    PI: Harrington, Kyle I.
+    duration: 12
+    agency: Center for Modeling Complex Interactions, University of Idaho
+  - title: Image-based Automated Design of Computational Models for Systems Biology
+    year: 2018
+    awarded: false
+    direct: 1000000
+    total: 1000000
+    currency: USD
+    role: PI
+    PI: Harrington, Kyle I.
+    duration: 36
+    agency: Keck Foundation
+  - title: Use of wearable technology to improve productivity, safety, and wellness in forestry: consequences of Type I and Type II error in cyber-physical systems
+    year: 2019
+    awarded: false
+    direct: 986708.00
+    total: 1386072.80
+    currency: USD
+    role: coPI
+    PI: Keefe, Robert F.
+    duration: 36
+    agency: NSF
+  - title: Gaming Social and Ecological Legacy Effects in a Perturbed Lake System
+    year: 2017
+    awarded: false
+    direct: 1505691.00
+    total: 1799953.00
+    currency: USD
+    role: coPI
+    PI: Wilhelm, Frank M.
+    duration: 36
+    agency: NSF
+  - title: Acquisition of a High-Resolution and Mixed-Material 3D Printer for Physical Analysis of Complex Structures
+    year: 2018
+    awarded: false
+    direct: 218359.01
+    total: 218359.01
+    currency: USD
+    role: coPI
+    PI: Xing, Tao
+    duration: 36
+    agency: NSF
+  - title: Predictive modeling of stem cell behavior for tendon tissue engineering
+    year: 2019
+    awarded: false
+    direct: 400000
+    total: 555050
+    currency: USD
+    role: Schiele, Nathan
+    PI: coPI
+    duration:
+    agency: NIH
+  - title: Improving the accessibility of ImgLib2
+    year: 2020
+    awarded: false
+    direct: 152729.40
+    total: 175638.81
+    currency: EUR
+    role: PI
+    PI: Harrington, Kyle I.
+    duration: 12
+    agency: Chan Zuckerberg Initiative
+  - title: Generative Lung Architecture Modeling
+    year: 2020
+    awarded: pending
+    direct: 200000
+    total: 200000
+    currency: EUR
+    role: PI
+    PI: Harrington, Kyle I.
+    duration: 24
+    agency: Helmholtz Artificial Intelligence Cooperation Unit
+  - title: Image Visualization and Annotation across Modalities and
+Applications
+    year: 2020
+    awarded: pending
+    direct: 200000
+    total: 200000
+    currency: EUR
+    role: coPI
+    PI: Hänsch, Ronny
+    duration: 24
+    agency: Helmholtz Artificial Intelligence Cooperation Unit
+
+  # - title:
+  #   year:
+  #   awarded:
+  #   direct:
+  #   total:
+  #   currency:
+  #   role:
+  #   PI:
+  #   duration:
+  #   agency:
