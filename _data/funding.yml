@@ -9,6 +9,7 @@ proposals:
     PI: Allen, Peter B.
     duration: 36
     agency: NSF
+    institute: University of Idaho
   - title: Computational Analysis and Quantification of Morphogenetic Processes
     year: 2018
     awarded: true
@@ -19,7 +20,8 @@ proposals:
     PI: Harrington, Kyle I.
     duration: 12
     agency: Tufts University
-  - title: Synchronization	Engineering	of	Physarum	polycephalum
+    institute: University of Idaho    
+  - title: Synchronization Engineering of Physarum polycephalum
     year: 2018
     awarded: true
     direct: 11843
@@ -29,7 +31,8 @@ proposals:
     PI: Harrington, Kyle I.
     duration: 6
     agency: University of Idaho
-  - title: Continuation: Computational Analysis and Quantification of Morphogenetic Processes
+    institute: University of Idaho    
+  - title: Continuation, Computational Analysis and Quantification of Morphogenetic Processes
     year: 2019
     awarded: true
     direct: 60000
@@ -39,7 +42,8 @@ proposals:
     PI: Harrington, Kyle I.
     duration: 12
     agency: Tufts University
-  - title: The Virtuatron: an Environment for the Emergence of Artificial Neurodevelopment
+    institute: University of Idaho    
+  - title: The Virtuatron, an Environment for the Emergence of Artificial Neurodevelopment
     year: 2018
     awarded: false
     direct: 9480.00
@@ -49,7 +53,8 @@ proposals:
     PI: Harrington, Kyle I.
     duration: 24
     agency: 	FACE Foundation
-  - title: R21 NIBIB Trailblazer Award: Predictive modeling of stem cell behavior for tendon tissue engineering
+    institute: University of Idaho    
+  - title: R21 NIBIB Trailblazer Award, Predictive modeling of stem cell behavior for tendon tissue engineering
     year: 2018
     awarded: false
     direct: 400000
@@ -59,6 +64,7 @@ proposals:
     PI: Harrington, Kyle I.
     duration: 36
     agency: NIH
+    institute: University of Idaho    
   - title: Circuit Complexity and the Limits of Morphogenesis
     year: 2018
     awarded: false
@@ -69,6 +75,7 @@ proposals:
     PI: Harrington, Kyle I.
     duration: 24
     agency: NSF
+    institute: University of Idaho    
   - title: Circuit Complexity and the Limits of Morphogenesis
     year: 2017
     awarded: false
@@ -79,12 +86,14 @@ proposals:
     PI: Harrington, Kyle I.
     duration: 24
     agency: NSF
+    institute: University of Idaho    
   - title: Quantification and Control of Cell Signaling in Heterogeneous Populations of Synthetic Cells
     year: 2017
     awarded: false
     role: PI
     PI: Harrington, Kyle I.
     agency: Arnold and Mabel Beckman Foundation
+    institute: University of Idaho    
   - title: Artificial intelligence for accelerating wound healing
     year: 2019
     awarded: true
@@ -95,6 +104,7 @@ proposals:
     PI: Harrington, Kyle I.
     duration: 12
     agency: Center for Modeling Complex Interactions, University of Idaho
+    institute: University of Idaho    
   - title: Image-based Automated Design of Computational Models for Systems Biology
     year: 2018
     awarded: false
@@ -105,6 +115,7 @@ proposals:
     PI: Harrington, Kyle I.
     duration: 36
     agency: Keck Foundation
+    institute: University of Idaho    
   - title: Use of wearable technology to improve productivity, safety, and wellness in forestry: consequences of Type I and Type II error in cyber-physical systems
     year: 2019
     awarded: false
@@ -115,6 +126,7 @@ proposals:
     PI: Keefe, Robert F.
     duration: 36
     agency: NSF
+    institute: University of Idaho    
   - title: Gaming Social and Ecological Legacy Effects in a Perturbed Lake System
     year: 2017
     awarded: false
@@ -125,6 +137,7 @@ proposals:
     PI: Wilhelm, Frank M.
     duration: 36
     agency: NSF
+    institute: University of Idaho    
   - title: Acquisition of a High-Resolution and Mixed-Material 3D Printer for Physical Analysis of Complex Structures
     year: 2018
     awarded: false
@@ -135,6 +148,7 @@ proposals:
     PI: Xing, Tao
     duration: 36
     agency: NSF
+    institute: University of Idaho    
   - title: Predictive modeling of stem cell behavior for tendon tissue engineering
     year: 2019
     awarded: false
@@ -145,6 +159,7 @@ proposals:
     PI: coPI
     duration:
     agency: NIH
+    institute: University of Idaho    
   - title: Evaluation of Metal Mobility and Microbial Dynamics in Lake Coeur d’Alene Sediments with Alteration of Oxidation-Reduction Conditions from a Simulated Algal Bloom
     year: 2017
     awarded: true
@@ -155,6 +170,7 @@ proposals:
     PI: Langman, Jeffery
     duration: 9
     agency: Idaho EPSCoR
+    institute: University of Idaho    
   - title: Cross-site, agent-based modeling for game theoretic dynamics of public goods managementand governance
     year: 2017
     awarded: true
@@ -165,6 +181,7 @@ proposals:
     PI: Harrington, Kyle I.
     duration: 3
     agency: Idaho EPSCoR
+    institute: University of Idaho    
   - title: Cross-site, integrated modeling and experiments to examine ecosystem services that involve cooperative dilemmas
     year: 2017
     awarded: true
@@ -175,6 +192,7 @@ proposals:
     PI: Hillis, Vicken
     duration: 9
     agency: Idaho EPSCoR
+    institute: University of Idaho    
   - title: Improving the accessibility of ImgLib2
     year: 2020
     awarded: false
@@ -185,6 +203,7 @@ proposals:
     PI: Harrington, Kyle I.
     duration: 12
     agency: Chan Zuckerberg Initiative
+    institute: MDC
   - title: Generative Lung Architecture Modeling
     year: 2020
     awarded: pending
@@ -195,6 +214,7 @@ proposals:
     PI: Harrington, Kyle I.
     duration: 24
     agency: Helmholtz Artificial Intelligence Cooperation Unit
+    institute: MDC    
   - title: Image Visualization and Annotation across Modalities and Applications
     year: 2020
     awarded: pending
@@ -205,7 +225,7 @@ proposals:
     PI: Hänsch, Ronny
     duration: 24
     agency: Helmholtz Artificial Intelligence Cooperation Unit
-
+    institute: MDC
   # - title:
   #   year:
   #   awarded:
