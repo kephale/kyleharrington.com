@@ -9,7 +9,15 @@ permalink: /research/
 [My Google Scholar](https://scholar.google.com/citations?user=InE-jdsAAAAJ)  
 
 ## Journal Articles
-<b>17.</b>&nbsp;&nbsp;Claudia Prahst, Parham Ashrafzadeh, Kyle Harrington, Lakshmi Venkatraman, Mark Richards, Ana Martins Russo, Kin-Sang Cho, Karen Chang, Thomas Mead, Dong Feng Chen, Douglas Richardson, Lena Claesson-Welsh, Claudio Franco, Katie Bentley, "Mouse retinal cell behaviour in space and time using light sheet fluorescence microscopy." eLife 2020;9:e49779; doi: 10.7554/eLife.49779.<br> <br>
+<b>20.</b>&nbsp;&nbsp;Bahry, E., Breimann, L., Epstein, L., Kolyvanov, K., Harrington, K. I., Lionnet, T., & Preibisch, S. (2021). RS-FISH: Precise, interactive and scalable smFISH spot detection using Radial Symmetry. bioRxiv.<br> <br>
+<b>19.</b>&nbsp;&nbsp;Arshadi, C., Günther, U., Eddison, M.,
+Harrington, K. I., & Ferreira, T. A. (2021). SNT: a unifying toolbox
+for quantification of neuronal anatomy. Nature Methods, 1-4.<br> <br>
+<b>18.</b>&nbsp;&nbsp;Zakirov, B., Charalambous, G., Thuret, R., Aspalter, I. M., Van-Vuuren, K., Mead, T., ... & Bentley, K. (2021). Active perception during angiogenesis: filopodia speed up Notch selection of tip cells in silico and in vivo. Philosophical Transactions of the Royal Society B, 376(1821), 20190753.<br> <br>
+<b>17.</b>&nbsp;&nbsp;Claudia Prahst, Parham Ashrafzadeh, Kyle
+Harrington, Lakshmi Venkatraman, Mark Richards, Ana Martins Russo,
+Kin-Sang Cho, Karen Chang, Thomas Mead, Dong Feng Chen, Douglas
+Richardson, Lena Claesson-Welsh, Claudio Franco, Katie Bentley, (2020) "Mouse retinal cell behaviour in space and time using light sheet fluorescence microscopy." eLife 2020;9:e49779; doi: 10.7554/eLife.49779.<br> <br>
 <b>16.</b>&nbsp;&nbsp;Sharir, A., Marangoni, P., Wan, M., Zilionis, R., Wald, T., Hu, J., Kawaguchi, K., Epstein, L., Harrington, K., Pagella, P., Mitsiadis, T., Siebel, C., Klein, A. M. and Klein, O, D., (2019) “A large pool of actively cycling progenitors orchestrates self-renewal and injury repair of an ectodermal appendage.” In Nature Cell Biology. <br> <br>
 <b>15.</b>&nbsp;&nbsp;Daetwyler, S., Günther, U., Modes, C.D., Harrington, K.\* and Huisken, J.\*, (2019). Multi-sample SPIM image acquisition, processing and analysis of vascular growth in zebrafish. In Development 146: dev173757. <a href="http://dev.biologists.org/content/develop/146/6/dev173757.full.pdf">pdf</a> <br>
 \* Co-corresponding authors <br> <br>
@@ -30,6 +38,10 @@ permalink: /research/
 <b>1.</b>&nbsp;&nbsp; Spector, L., J. Klein, and K. Harrington, (2005) "Selection Songs: Evolutionary Music Computation". In <i>YLEM Journal</i>, Vol. 25, no. 6 & 8, pp. 24-26.&nbsp;&nbsp;<a href="http://hampshire.edu/lspector/pubs/selection-songs.pdf">pdf</a>
 
 ## Peer-reviewed conference and workshop papers
+<b>21.</b>&nbsp;&nbsp;Epstein, L., Dubois, Z., Smith, J., Lee, Y., &
+Harrington, K. (2021). Complex population dynamics in a spatial
+microbial ecosystem with Physarum polycephalum. bioRxiv.<br>
+<b>20.</b>&nbsp;&nbsp;Günther, U., Harrington, K. I., Dachselt, R., & Sbalzarini, I. F. (2020, August). Bionic Tracking: Using Eye Tracking to Track Biological Cells in Virtual Reality. In European Conference on Computer Vision (pp. 280-297). Springer, Cham.<br>
 <b>19.</b>&nbsp;&nbsp;Günther, U., and Harrington, K.I., 2020. Tales from the Trenches: Developing a new 3D viewer for the ImageJ community. In VisGap/Eurographics and Eurovis.<br>
 <br><b>18.</b>&nbsp;&nbsp;Günther, U., Pietzsch, T., Gupta, A., Harrington, K.I., Tomancak, P., Gumhold, S. and Sbalzarini, I.F., 2019. scenery--Flexible Virtual Reality Visualisation on the Java VM. 2019 IEEE Visualization Conference (VIS), Vancouver, BC, Canada, 2019, pp. 1-5.<br>
 <br><b>17.</b>&nbsp;&nbsp;Wilson, D. G., Harrington, K., Cussat-Blanc, S., and Luga, H. (2018). "Evolving Differentiable Gene Regulatory Networks". In <i>Parallel Problem Solving from Nature: PPSN XV, Evolutionary Machine Learning workshop</i>, arxiv.org/abs/1807.05948. <a href="https://arxiv.org/pdf/1807.05948.pdf">pdf</a><br>
