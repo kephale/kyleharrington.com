@@ -9,15 +9,21 @@ permalink: /research/
 [My Google Scholar](https://scholar.google.com/citations?user=InE-jdsAAAAJ)  
 
 ## Journal Articles
-<b>20.</b>&nbsp;&nbsp;Bahry, E., Breimann, L., Epstein, L., Kolyvanov, K., Harrington, K. I., Lionnet, T., & Preibisch, S. (2021). RS-FISH: Precise, interactive and scalable smFISH spot detection using Radial Symmetry. bioRxiv.<br> <br>
+<b>20.</b>&nbsp;&nbsp;Bahry, E., Breimann, L., Epstein, L., Kolyvanov,
+K., Harrington, K. I.*, Lionnet, T.*, and Preibisch, S.*
+(2021). RS-FISH: Precise, interactive and scalable smFISH spot
+detection using Radial Symmetry. bioRxiv.<br> 
+\* Co-corresponding authors<br><br>
 <b>19.</b>&nbsp;&nbsp;Arshadi, C., Günther, U., Eddison, M.,
-Harrington, K. I., & Ferreira, T. A. (2021). SNT: a unifying toolbox
+Harrington, K. I., and Ferreira, T. A. (2021). SNT: a unifying toolbox
 for quantification of neuronal anatomy. Nature Methods, 1-4.<br> <br>
-<b>18.</b>&nbsp;&nbsp;Zakirov, B., Charalambous, G., Thuret, R., Aspalter, I. M., Van-Vuuren, K., Mead, T., ... & Bentley, K. (2021). Active perception during angiogenesis: filopodia speed up Notch selection of tip cells in silico and in vivo. Philosophical Transactions of the Royal Society B, 376(1821), 20190753.<br> <br>
-<b>17.</b>&nbsp;&nbsp;Claudia Prahst, Parham Ashrafzadeh, Kyle
-Harrington, Lakshmi Venkatraman, Mark Richards, Ana Martins Russo,
-Kin-Sang Cho, Karen Chang, Thomas Mead, Dong Feng Chen, Douglas
-Richardson, Lena Claesson-Welsh, Claudio Franco, Katie Bentley, (2020) "Mouse retinal cell behaviour in space and time using light sheet fluorescence microscopy." eLife 2020;9:e49779; doi: 10.7554/eLife.49779.<br> <br>
+<b>18.</b>&nbsp;&nbsp;Zakirov, B., Charalambous, G., Thuret, R.,
+Aspalter, I. M., Van-Vuuren, K., Mead, T., Harrington, K., Regan, E.,
+Herbert, S., and Bentley, K. (2021). Active perception during angiogenesis: filopodia speed up Notch selection of tip cells in silico and in vivo. Philosophical Transactions of the Royal Society B, 376(1821), 20190753.<br> <br>
+<b>17.</b>&nbsp;&nbsp;Prahst, C., Ashrafzadeh, P., Mead, T.,
+Figueiredo, A., Chang, K., Richardson, D., Venkaraman, L., Richards,
+M., Russo, A., Harrington, K., Ouarne, M., Pena, A., Chen, D.,
+Claesson-Welsh, L., Cho, K., Franco, C., and Bentley, K. (2020). Mouse retinal cell behaviour in space and time using light sheet fluorescence microscopy. Elife, 9, e49779..<br> <br>
 <b>16.</b>&nbsp;&nbsp;Sharir, A., Marangoni, P., Wan, M., Zilionis, R., Wald, T., Hu, J., Kawaguchi, K., Epstein, L., Harrington, K., Pagella, P., Mitsiadis, T., Siebel, C., Klein, A. M. and Klein, O, D., (2019) “A large pool of actively cycling progenitors orchestrates self-renewal and injury repair of an ectodermal appendage.” In Nature Cell Biology. <br> <br>
 <b>15.</b>&nbsp;&nbsp;Daetwyler, S., Günther, U., Modes, C.D., Harrington, K.\* and Huisken, J.\*, (2019). Multi-sample SPIM image acquisition, processing and analysis of vascular growth in zebrafish. In Development 146: dev173757. <a href="http://dev.biologists.org/content/develop/146/6/dev173757.full.pdf">pdf</a> <br>
 \* Co-corresponding authors <br> <br>
