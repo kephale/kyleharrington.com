@@ -16,7 +16,7 @@ detection using Radial Symmetry. bioRxiv.<br>
 \* Co-corresponding authors<br><br>
 <b>19.</b>&nbsp;&nbsp;Arshadi, C., Günther, U., Eddison, M.,
 Harrington, K. I., and Ferreira, T. A. (2021). SNT: a unifying toolbox
-for quantification of neuronal anatomy. Nature Methods, 1-4.<br> <br>
+for quantification of neuronal anatomy. Nature Methods, 18, 374–377.<br> <br>
 <b>18.</b>&nbsp;&nbsp;Zakirov, B., Charalambous, G., Thuret, R.,
 Aspalter, I. M., Van-Vuuren, K., Mead, T., Harrington, K., Regan, E.,
 Herbert, S., and Bentley, K. (2021). Active perception during angiogenesis: filopodia speed up Notch selection of tip cells in silico and in vivo. Philosophical Transactions of the Royal Society B, 376(1821), 20190753.<br> <br>
