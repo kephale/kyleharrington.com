@@ -10,7 +10,7 @@ permalink: /research/
 
 ## Journal Articles
 <b>20.</b>&nbsp;&nbsp;Bahry, E., Breimann, L., Epstein, L., Kolyvanov,
-K., Harrington, K. I.*, Lionnet, T.*, and Preibisch, S.*
+K., Harrington, K. I.\*, Lionnet, T.\*, and Preibisch, S.\*
 (2021). RS-FISH: Precise, interactive and scalable smFISH spot
 detection using Radial Symmetry. bioRxiv.<br> 
 \* Co-corresponding authors<br><br>
