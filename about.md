@@ -25,8 +25,8 @@ permalink: /about/
 - Machine Learning Scientist, 2018 - 2019,<br />&nbsp;&nbsp;&nbsp;&nbsp;DARPA/MTO & DARPA/I2O,<br />&nbsp;&nbsp;&nbsp;&nbsp;ECS Federal, Arlington VA.<br />
 - Visiting Professor, 2017,<br />&nbsp;&nbsp;&nbsp;&nbsp;Computer Science,<br />&nbsp;&nbsp;&nbsp;&nbsp;University of Toulouse, France.<br />
 - Visiting Professor, 2017,<br />&nbsp;&nbsp;&nbsp;&nbsp;Center for Systems Biology Dresden at<br />&nbsp;&nbsp;&nbsp;&nbsp;Max Planck Institute for Cell Biology and Genetics,<br />&nbsp;&nbsp;&nbsp;&nbsp;Max Planck Institute for Physical Complex Systems,<br />&nbsp;&nbsp;&nbsp;&nbsp;Technical University of Dresden<br />
-- Lecturer, 2016,<br />&nbsp;&nbsp;&nbsp;&nbsp;Department of Computer Science,<br />&nbsp;&nbsp;&nbsp;&nbsp;Tufts University.<br />
 - Postdoctoral Fellow, 2014 - 2016,<br />&nbsp;&nbsp;&nbsp;&nbsp;Bentley Group, Beth Israel Deaconess Medical Center,<br />&nbsp;&nbsp;&nbsp;&nbsp;Harvard Medical School.<br />
+- Lecturer, 2016,<br />&nbsp;&nbsp;&nbsp;&nbsp;Department of Computer Science,<br />&nbsp;&nbsp;&nbsp;&nbsp;Tufts University.<br />
 - Visiting Scientist, 2014,<br />&nbsp;&nbsp;&nbsp;&nbsp;Grigorieff Lab, <br />&nbsp;&nbsp;&nbsp;&nbsp;Howard Hughes Medical Institute, Janelia Farm.<br />
 - Graduate Research and Teaching Assistant, 2008 - 2014,<br />&nbsp;&nbsp;&nbsp;&nbsp;DEMO Lab,<br />&nbsp;&nbsp;&nbsp;&nbsp;Computer Science, Brandeis University.<br />
 - Visiting Scholar, 2010 - 2012,<br />&nbsp;&nbsp;&nbsp;&nbsp;BINDS Lab,<br />&nbsp;&nbsp;&nbsp;&nbsp;University of Massachusetts, Amherst.<br />
