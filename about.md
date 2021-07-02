@@ -7,13 +7,6 @@ permalink: /about/
 ## Current
 - Group Leader,<br />&nbsp;&nbsp;&nbsp;&nbsp;Image Data Analysis,<br />&nbsp;&nbsp;&nbsp;&nbsp;Max Delbrueck Center for Molecular Medicine.
 - Team Leader,<br />&nbsp;&nbsp;&nbsp;&nbsp;Helmholtz Imaging Platform,<br />&nbsp;&nbsp;&nbsp;&nbsp;Max Delbrueck Center for Molecular Medicine.
-- Assistant Professor (on leave as of August 2020),<br />&nbsp;&nbsp;&nbsp;&nbsp;Virtual Technology and Design,<br />&nbsp;&nbsp;&nbsp;&nbsp;University of Idaho, Moscow.
-- Affiliate Faculty at University of Idaho in the following departments:<br />
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.uidaho.edu/engr/departments/cs">Computer Science</a><br />
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.uidaho.edu/sci/bcb">Bioinformatics and Computational Biology graduate program</a><br />
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://cmciuidaho.org/">Center for Modeling Complex Interactions</a><br />
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.ibest.uidaho.edu/">Institute for Bioinformatics and Evolutionary Studies</a><br />
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www3.beacon-center.org/">BEACON Center for the Study of Evolution in Action</a><br />
 
 ## Education
 - Postdoctoral Fellow, Pathology,<br />&nbsp;&nbsp;&nbsp;&nbsp;Harvard Medical School (2014-2016)<br />
@@ -24,7 +17,7 @@ permalink: /about/
 ## Positions
 - Group Leader, 2020 - present,<br />&nbsp;&nbsp;&nbsp;&nbsp;Image Data Analysis,<br />&nbsp;&nbsp;&nbsp;&nbsp;Max Delbrueck Center for Molecular Medicine.
 - Team Leader, 2020 - present,<br />&nbsp;&nbsp;&nbsp;&nbsp;Helmholtz Imaging Platform,<br />&nbsp;&nbsp;&nbsp;&nbsp;Max Delbrueck Center for Molecular Medicine.
-- Assistant Professor, 2016 - present (on leave as of August 2020),<br />&nbsp;&nbsp;&nbsp;&nbsp;Virtual Technology and Design,<br />&nbsp;&nbsp;&nbsp;&nbsp;University of Idaho, Moscow.<br />&nbsp;&nbsp;&nbsp;&nbsp;<br />
+- Assistant Professor, 2016 - 2021,<br />&nbsp;&nbsp;&nbsp;&nbsp;Virtual Technology and Design,<br />&nbsp;&nbsp;&nbsp;&nbsp;University of Idaho, Moscow.<br />&nbsp;&nbsp;&nbsp;&nbsp;<br />
 - Visiting Scientist, 2018 - 2019,<br />&nbsp;&nbsp;&nbsp;&nbsp;Janelia Research Campus,<br />&nbsp;&nbsp;&nbsp;&nbsp;Howard Hughes Medical Institute.<br />
 - Machine Learning Scientist, 2018 - 2019,<br />&nbsp;&nbsp;&nbsp;&nbsp;DARPA/MTO & DARPA/I2O,<br />&nbsp;&nbsp;&nbsp;&nbsp;ECS Federal, Arlington VA.<br />
 - Visiting Professor, 2017,<br />&nbsp;&nbsp;&nbsp;&nbsp;Computer Science,<br />&nbsp;&nbsp;&nbsp;&nbsp;University of Toulouse, France.<br />
