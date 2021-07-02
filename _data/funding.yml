@@ -226,7 +226,7 @@ proposals:
     duration: 24
     agency: Helmholtz Artificial Intelligence Cooperation Unit
     institute: MDC
-  - title: VascuShare: a vascular imaging data repository
+  - title: VascuShare, a vascular imaging data repository
     year: 2020
     awarded: false
     direct: 75600
