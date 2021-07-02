@@ -31,7 +31,7 @@ permalink: /about/
 
 ## Funding
 
-- University of Idaho (2016-2020),<br />&nbsp;&nbsp;&nbsp;&nbsp;Funding awarded: $289,345.00 (PI) $118,914.00 (co-PI)<br />&nbsp;&nbsp;&nbsp;&nbsp;Funding applied: $2,192,129.4 (PI) $4,373,315.69 (co-PI)<br />
+- University of Idaho (2016-2021),<br />&nbsp;&nbsp;&nbsp;&nbsp;Funding awarded: $289,345.00 (PI) $118,914.00 (co-PI)<br />&nbsp;&nbsp;&nbsp;&nbsp;Funding applied: $2,192,129.4 (PI) $4,373,315.69 (co-PI)<br />
 
 ## Awards and Activities
 - Associate Editor, Frontiers in Bioinformatics, Computational Bioimaging (2020 - present)

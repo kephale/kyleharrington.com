@@ -217,7 +217,7 @@ proposals:
     institute: MDC    
   - title: Image Visualization and Annotation across Modalities and Applications
     year: 2020
-    awarded: pending
+    awarded: false
     direct: 200000
     total: 200000
     currency: EUR
@@ -238,7 +238,7 @@ proposals:
     agency: EOSC-Life
   - title: A strategy for improved diagnosis and risk prediction for microvascular Dysfunction after preeclampsia:  role of dysregulation of the immune system and vascular-metabolic risk factors
     year: 2021
-    awarded: pending
+    awarded: true
     direct: 47900
     total: 47900
     currency: EUR
