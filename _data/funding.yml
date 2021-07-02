@@ -171,7 +171,7 @@ proposals:
     duration: 9
     agency: Idaho EPSCoR
     institute: University of Idaho    
-  - title: Cross-site, agent-based modeling for game theoretic dynamics of public goods managementand governance
+  - title: Cross-site, agent-based modeling for game theoretic dynamics of public goods management and governance
     year: 2017
     awarded: true
     direct: 11000
@@ -206,7 +206,7 @@ proposals:
     institute: MDC
   - title: Generative Lung Architecture Modeling
     year: 2020
-    awarded: pending
+    awarded: true
     direct: 200000
     total: 200000
     currency: EUR
@@ -226,6 +226,27 @@ proposals:
     duration: 24
     agency: Helmholtz Artificial Intelligence Cooperation Unit
     institute: MDC
+  - title: VascuShare: a vascular imaging data repository
+    year: 2020
+    awarded: false
+    direct: 75600
+    total: 75600
+    currency: EUR
+    role: PI
+    PI: Harrington, Kyle I.
+    duration: 12
+    agency: EOSC-Life
+  - title: A strategy for improved diagnosis and risk prediction for microvascular Dysfunction after preeclampsia:  role of dysregulation of the immune system and vascular-metabolic risk factors
+    year: 2021
+    awarded: pending
+    direct: 47900
+    total: 47900
+    currency: EUR
+    role: coPI
+    PI: Dechend, Ralf
+    duration: 12
+    agency: Experimental and Clinical Research Center (ECRC) of the MDC and Charité Berlin
+    
   # - title:
   #   year:
   #   awarded:
