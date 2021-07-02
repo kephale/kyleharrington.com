@@ -35,7 +35,7 @@ permalink: /about/
 
 ## Awards and Activities
 - Associate Editor, Frontiers in Bioinformatics, Computational Bioimaging (2020 - present)
-- Member, Program Committee, Conference on Artificial Life, 2020
+- Member, Program Committee, Conference on Artificial Life, 2020-2021
 - Member, Program Committee for Evolutionary Machine Learning, GECCO, 2018-2019
 - Panelist, National Institutes of Health - 2019<br />
 - Panelist, National Science Foundation - 2019<br />
