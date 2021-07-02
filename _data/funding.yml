@@ -207,8 +207,8 @@ proposals:
   - title: Generative Lung Architecture Modeling
     year: 2020
     awarded: true
-    direct: 200000
-    total: 200000
+    direct: 400000
+    total: 400000
     currency: EUR
     role: PI
     PI: Harrington, Kyle I.
@@ -218,8 +218,8 @@ proposals:
   - title: Image Visualization and Annotation across Modalities and Applications
     year: 2020
     awarded: false
-    direct: 200000
-    total: 200000
+    direct: 400000
+    total: 400000
     currency: EUR
     role: coPI
     PI: Hänsch, Ronny
