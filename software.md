@@ -9,6 +9,8 @@ permalink: /software/
 - [sciview](http://sc.iview.sc): SciView is an ImageJ/FIJI plugin for visualization and interaction with 3D data
 - [scenery](http://scenery.graphics): Realtime rendering with Virtual
   Reality, powered by Kotlin, OpenGL and Vulkan
+- [atom-imagej-mode](https://atom.io/packages/atom-imagej-mode):
+  Editing ImageJ scripts using the Atom editor
 - [pyGRN](https://github.com/d9w/pyGRN): A Python library for modeling
   and evolving artificial gene-regulatory networks (GRNs)
 - [GRNEAT](https://github.com/morphonets/grneat): An evolutionary
