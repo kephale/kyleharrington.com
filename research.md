@@ -9,6 +9,9 @@ permalink: /research/
 [My Google Scholar](https://scholar.google.com/citations?user=InE-jdsAAAAJ)  
 
 ## Journal Articles
+<b>21.</b>&nbsp;&nbsp;Epstein, L., Dubois, Z., Smith, J., Lee, Y., &
+Harrington, K. (2021). Complex population dynamics in a spatial
+microbial ecosystem with Physarum polycephalum. BioSystems, 208, 104483.<br>
 <b>20.</b>&nbsp;&nbsp;Bahry, E., Breimann, L., Epstein, L., Kolyvanov,
 K., Harrington, K. I.\*, Lionnet, T.\*, and Preibisch, S.\*
 (2021). RS-FISH: Precise, interactive and scalable smFISH spot
@@ -44,9 +47,6 @@ Claesson-Welsh, L., Cho, K., Franco, C., and Bentley, K. (2020). Mouse retinal c
 <b>1.</b>&nbsp;&nbsp; Spector, L., J. Klein, and K. Harrington, (2005) "Selection Songs: Evolutionary Music Computation". In <i>YLEM Journal</i>, Vol. 25, no. 6 & 8, pp. 24-26.&nbsp;&nbsp;<a href="http://hampshire.edu/lspector/pubs/selection-songs.pdf">pdf</a>
 
 ## Peer-reviewed conference and workshop papers
-<b>21.</b>&nbsp;&nbsp;Epstein, L., Dubois, Z., Smith, J., Lee, Y., &
-Harrington, K. (2021). Complex population dynamics in a spatial
-microbial ecosystem with Physarum polycephalum. bioRxiv.<br>
 <br><b>20.</b>&nbsp;&nbsp;Günther, U., Harrington, K. I., Dachselt, R., & Sbalzarini, I. F. (2020, August). Bionic Tracking: Using Eye Tracking to Track Biological Cells in Virtual Reality. In European Conference on Computer Vision (pp. 280-297). Springer, Cham.<br>
 <br><b>19.</b>&nbsp;&nbsp;Günther, U., and Harrington, K.I., 2020. Tales from the Trenches: Developing a new 3D viewer for the ImageJ community. In VisGap/Eurographics and Eurovis.<br>
 <br><b>18.</b>&nbsp;&nbsp;Günther, U., Pietzsch, T., Gupta, A., Harrington, K.I., Tomancak, P., Gumhold, S. and Sbalzarini, I.F., 2019. scenery--Flexible Virtual Reality Visualisation on the Java VM. 2019 IEEE Visualization Conference (VIS), Vancouver, BC, Canada, 2019, pp. 1-5.<br>
