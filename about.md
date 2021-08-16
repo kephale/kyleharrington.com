@@ -34,6 +34,7 @@ permalink: /about/
 
 ## Funding
 
+- Max Delbrueck Center for Molecular Medicine (2020-present), <br />&nbsp;&nbsp;&nbsp;&nbsp;Funding awarded: €400,000.00 (PI) €47,900.00 (co-PI)<br />&nbsp;&nbsp;&nbsp;&nbsp;Funding applied: €651,238.81 (PI) €447,900 (co-PI)<br />
 - University of Idaho (2016-2021),<br />&nbsp;&nbsp;&nbsp;&nbsp;Funding awarded: $289,345.00 (PI) $118,914.00 (co-PI)<br />&nbsp;&nbsp;&nbsp;&nbsp;Funding applied: $2,192,129.4 (PI) $4,373,315.69 (co-PI)<br />
 
 ## Awards and Activities
