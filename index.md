@@ -7,7 +7,7 @@
 layout: default
 ---
 
-I am the Team Leader for the [Helmholtz Imaging Platform](https://www.helmholtz-imaging.de/) at the [Max Delbrueck Center for Molecular Medicine](https://www.mdc-berlin.de/) in Berlin, Germany, and am on leave from the University of Idaho, Moscow, ID, USA.
+I am the Group Leader of Image Data Analysis and Team Leader for the [Helmholtz Imaging Platform](https://www.helmholtz-imaging.de/) at the [Max Delbrueck Center for Molecular Medicine](https://www.mdc-berlin.de/) in Berlin, Germany.
 
 <b>Research:</b> computational methods in the study of biological and physical processes<br>
 <b>Context: </b>scientific computing, artificial life, and computational/theoretical biology<br>

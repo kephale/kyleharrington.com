@@ -11,7 +11,7 @@ permalink: /research/
 ## Journal Articles
 <b>21.</b>&nbsp;&nbsp;Epstein, L., Dubois, Z., Smith, J., Lee, Y., &
 Harrington, K. (2021). Complex population dynamics in a spatial
-microbial ecosystem with Physarum polycephalum. BioSystems, 208, 104483.<br>
+microbial ecosystem with Physarum polycephalum. BioSystems, 208, 104483.<br><br>
 <b>20.</b>&nbsp;&nbsp;Bahry, E., Breimann, L., Epstein, L., Kolyvanov,
 K., Harrington, K. I.\*, Lionnet, T.\*, and Preibisch, S.\*
 (2021). RS-FISH: Precise, interactive and scalable smFISH spot
