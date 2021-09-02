@@ -81,6 +81,14 @@ Claesson-Welsh, L., Cho, K., Franco, C., and Bentley, K. (2020). Mouse retinal c
 <b>2.</b>&nbsp;&nbsp;Harrington, K. I. S, (2014) "Escalation of Coevolutionary Arms Races". In <i>Department of Computer Science, Brandeis University</i>.&nbsp;&nbsp;<a href="https://ndownloader.figshare.com/files/6944900">pdf</a><br> <br><b>1.</b>&nbsp;&nbsp;Harrington, K., and J. Pollack, (2011) "Zipper-based Meta-Genetic Programming". In <i>Technical Report Brandeis University CS-11-275</i>.&nbsp;&nbsp;<a href="http://pages.cs.brandeis.edu/~kyleh/ZipperMetaGP.pdf">pdf</a>
 
 ## Talks
+<b>40.</b>&nbsp;&nbsp;Harrington, K I S, (2021) "Algorithms and
+computational tools for image data analysis across
+scales (keynote)". <i>Ultrahigh Field Magnetic Resonance Symposium, Berlin, Germany</i>&nbsp;&nbsp;<br>
+<b>39.</b>&nbsp;&nbsp;Harrington, K I S, (2021) "Image data solutions
+across biological scales". <i>Max Delbrueck Center for Molecular Medicine, Berlin, Germany</i>&nbsp;&nbsp;<br>
+<b>38.</b>&nbsp;&nbsp;Harrington, K I S, (2021) "Image Data Solutions
+for Systems Biology and Beyond (invited)". <i>Center for Advanced Systems
+Understanding (CASUS), Goerliz, Germany</i>&nbsp;&nbsp;<br>
 <b>37.</b>&nbsp;&nbsp;Harrington, K I S, (2020) "Emergence of animal conflict from neurodevelopmental wiring: an artificial life model". <i>J-theory, Janelia Research Campus, Howard Hughes Medical Institute</i>&nbsp;&nbsp;<br>
 <br><b>36.</b>&nbsp;&nbsp;Harrington, K I S, (2019) "Multiscale modeling and visualization with biological images". <i>Center for Cell Analysis and Modeling Seminar, UConn, Farmington, CT</i>&nbsp;&nbsp;<br>
 <br><b>35.</b>&nbsp;&nbsp;Harrington, K I S, (2019) "Modeling from Morphology to Molecules: Blood Vessels to Synaptic Plasticity". <i>J-theory, Janelia Research Campus, Howard Hughes Medical Institute</i>&nbsp;&nbsp;<br>
