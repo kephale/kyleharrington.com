@@ -4,6 +4,8 @@ title: Software
 permalink: /software/
 ---
 
+- [album](https://album.solutions): album is a tool for sharing and
+  creating polyglot, multi-tool scientific software solutions
 - [SNT](https://github.com/morphonets/SNT): SNT is a semi-automated
   tracing, visualization, analysis, and modeling tool for neuronal analysis
 - [sciview](http://sc.iview.sc): SciView is an ImageJ/FIJI plugin for visualization and interaction with 3D data
