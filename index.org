@@ -1,0 +1,32 @@
+#+SETUPFILE: theme/theme-bigblow-local.setup
+#+INCLUDE: "header.org"
+
+I am the Group Leader of Image Data Analysis and Team Leader for the [[https://www.helmholtz-imaging.de/][Helmholtz Imaging Platform]] at the [[https://www.mdc-berlin.de/][Max Delbrueck Center for Molecular Medicine]] in Berlin, Germany.
+
+*Research:* computational methods in the study of biological and physical
+processes  
+*Context:* scientific computing, artificial life, and
+computational/theoretical biology  
+*Tools:* image analysis, machine
+learning, functional programming, and simulation
+
+My work has included:
+
+- design and development of, sciview, a modern 3D visualization tool for scientific image analysis (Guenther and Harrington, 2020)
+- 3D whole organism image segmentation of zebrafish vascular development (Daetwyler et al, 2019)
+- machine learning with differentiable gene-regulatory networks (Wilson et al, 2018)
+- predictive computational modeling of cellular mechanisms of vascular development (Costa et al, 2016)
+- simulation-driven design and experimental validation of microdroplet-based chemical computing elements (Wang et al, 2016)
+
+* Selected publications:
+
+- Harrington, K., and Pollack, J., (2019) "Escalation of Memory Length in Finite Populations". In Artificial Life, in press. (preprint bioRxiv 130583, [[https://www.biorxiv.org/content/early/2017/04/25/130583][pdf]])
+
+- Costa G.*, K. Harrington*, H. Lovegrove*, D. Page, S. Chakravartula, K. Bentley, S. Herbert (2016) "Asymmetric division coordinates collective cell migration in angiogenesis". In Nature Cell Biology, Vol. 18, pp. 1292--1301.  [[https://europepmc.org/articles/pmc5548250/bin/nihms73535-supplement-supplementary_figure_3.pdf][link]] * Joint primary author
+
+- Wang, A. L., J. M. Gold, N. Tompkins, M. Heymann, K. I. Harrington, and S. Fraden, (2016) "Configurable NOR Gate Arrays from Belousov-Zhabotinsky Micro-droplets". In European Physics Journal: Special Topics, Vol. 225, no. 1, pp. 211-227.  [[https://link.springer.com/article/10.1140/epjst/e2016-02622-y][pdf]]
+
+- Harrington, K. I. S., (2016) "A Circuit Basis for Morphogenesis". In Theoretical Computer Science, Vol. 633, pp. 28-36.  [[https://www.researchgate.net/profile/Kyle_Harrington/publication/282626334_A_circuit_basis_for_morphogenesis/links/57a4a4ff08aefe6167aee512.pdf?origin=publication_detail&ev=pub_int_prw_xdl&msrp=OKNteOV602r-QlWov12hqoa2H6ezb4Uo2Vyio4xR8RSvOVKIO-9Vea3JiGG-xr4frwVJsPk0u-I_IUHJsH4beg.VdqCqjQytVn8tx5jRI-Yvc72T6TkR4Cs6D2QSqvlOouqYOBfU0Uqy7qFPQ8w1FDVFEZMquSUZypuvOME39UiKg.dd2DtqXfSCz4zViOzRY4JCzZQrhxGa5xHBIOdcXimwQj1t0RrGsSyt6EeNlTnRRJ-ZX53qAdoB0qrMRegzSYiw][pdf]]
+
+
+#+INCLUDE: "footer.org"

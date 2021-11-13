@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2021-11-13 Sat 17:00 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>&lrm;</title>
+<meta name="author" content="Kyle IS Harrington" />
+<meta name="generator" content="Org Mode" />
+<style>
+  #content { max-width: 60em; margin: auto; }
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #e6e6e6;
+    border-radius: 3px;
+    background-color: #f2f2f2;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: auto;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    top: -8px;
+    right: 12px;
+    padding: 3px;
+    color: #555;
+    background-color: #f2f2f299;
+  }
+  pre.src:hover:before { display: inline; margin-top: 14px;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-authinfo::before { content: 'Authinfo'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+</style>
+<link rel="stylesheet" type="text/css" href="theme/bigblow_theme/css/htmlize.css"/>
+<link rel="stylesheet" type="text/css" href="theme/bigblow_theme/css/bigblow.css"/>
+<link rel="stylesheet" type="text/css" href="theme/bigblow_theme/css/hideshow.css"/>
+<script type="text/javascript" src="theme/bigblow_theme/js/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="theme/bigblow_theme/js/jquery-ui-1.10.2.min.js"></script>
+<script type="text/javascript" src="theme/bigblow_theme/js/jquery.localscroll-min.js"></script>
+<script type="text/javascript" src="theme/bigblow_theme/js/jquery.scrollTo-1.4.3.1-min.js"></script>
+<script type="text/javascript" src="theme/bigblow_theme/js/jquery.zclip.min.js"></script>
+<script type="text/javascript" src="theme/bigblow_theme/js/bigblow.js"></script>
+<script type="text/javascript" src="theme/bigblow_theme/js/hideshow.js"></script>
+<script type="text/javascript" src="theme/lib/js/jquery.stickytableheaders.min.js"></script>
+</head>
+<body>
+<div id="content" class="content">
+<table>
+<tr>
+<td><a href="https://kyleharrington.com" \><img src="./assets/header_logo_100.jpg"></a></td>
+<td style="vertical-align:bottom"><a href="./about.html">about</a></td>
+<td style="vertical-align:bottom"><a href="./research.html">research</a></td>
+<td style="vertical-align:bottom"><a href="./software.html">software</a></td>
+<td style="vertical-align:bottom"><a href="./teaching.html">teaching</a></td>
+<td style="vertical-align:bottom"><tiny>Kyle I. S. Harrington, Ph.D.,</br>
+Group Leader,</br>
+Image Data Analysis,</br>
+Max Delbrueck Center for Molecular Medicine in the Helmholtz Association,</br>
+Berlin, Germany</tiny></td>
+</tr>
+</table>
+
+<div id="outline-container-indices-and-databases" class="outline-2">
+<h2 id="indices-and-databases"><span class="section-number-2">1.</span> Indices and Databases</h2>
+<div class="outline-text-2" id="text-indices-and-databases">
+<p>
+<a href="http://orcid.org/0000-0002-7237-1973">My ORCID</a><br />
+<a href="https://scholar.google.com/citations?user=InE-jdsAAAAJ">My Google<br />
+Scholar</a><br />
+</p>
+</div>
+</div>
+
+<div id="outline-container-journal-articles" class="outline-2">
+<h2 id="journal-articles"><span class="section-number-2">2.</span> Journal Articles</h2>
+<div class="outline-text-2" id="text-journal-articles">
+<p>
+21.  Epstein, L., Dubois, Z., Smith, J., Lee, Y., &amp; Harrington, K. (2021). Complex population dynamics in a spatial microbial ecosystem with Physarum polycephalum. BioSystems, 208, 104483.<br />
+20.  Bahry, E., Breimann, L., Epstein, L., Kolyvanov, K., Harrington, K. I.*, Lionnet, T.*, and Preibisch, S.* (2021). RS-FISH: Precise, interactive and scalable smFISH spot detection using Radial Symmetry. bioRxiv.<br />
+​* Co-corresponding authors<br />
+19.  Arshadi, C., Günther, U., Eddison, M., Harrington, K. I., and Ferreira, T. A. (2021). SNT: a unifying toolbox for quantification of neuronal anatomy. Nature Methods, 18, 374&#x2013;377.<br />
+18.  Zakirov, B., Charalambous, G., Thuret, R., Aspalter, I. M., Van-Vuuren, K., Mead, T., Harrington, K., Regan, E., Herbert, S., and Bentley, K. (2021). Active perception during angiogenesis: filopodia speed up Notch selection of tip cells in silico and in vivo. Philosophical Transactions of the Royal Society B, 376(1821), 20190753.<br />
+17.  Prahst, C., Ashrafzadeh, P., Mead, T., Figueiredo, A., Chang, K., Richardson, D., Venkaraman, L., Richards, M., Russo, A., Harrington, K., Ouarne, M., Pena, A., Chen, D., Claesson-Welsh, L., Cho, K., Franco, C., and Bentley, K. (2020). Mouse retinal cell behaviour in space and time using light sheet fluorescence microscopy. Elife, 9, e49779..<br />
+16.  Sharir, A., Marangoni, P., Wan, M., Zilionis, R., Wald, T., Hu, J., Kawaguchi, K., Epstein, L., Harrington, K., Pagella, P., Mitsiadis, T., Siebel, C., Klein, A. M. and Klein, O, D., (2019) "A large pool of actively cycling progenitors orchestrates self-renewal and injury repair<br />
+of an ectodermal appendage." In Nature Cell Biology.<br />
+15.  Daetwyler, S., Günther, U., Modes, C.D., Harrington, K.* and Huisken, J.*, (2019). Multi-sample SPIM image acquisition, processing and analysis of vascular growth in zebrafish. In Development 146: dev173757. pdf<br />
+​* Co-corresponding authors<br />
+14.  Harrington, K., and Pollack, J., (2019) "Escalation of Memory Length in Finite Populations". In Artificial Life 25(1), pp. 22-32. (preprint bioRxiv 130583, pdf)<br />
+13.  Crawford-Young, S., Dittapongpitch, S., Gordon, R., Harrington, K., (2018) "Acquisition<br />
+and reconstruction of 4D surfaces of axolotl embryos with the flipping stage robotic microscope". In Biosystems, Vol. 173, pp. 214-220.<br />
+12.  Cussat-Blanc, S., Harrington, K., and Banzhaf, W., (2018) "Artificial Gene Regulatory Networks&#x2014;A Review". In Artificial Life 24(4), pp. 296-328.<br />
+11.  Harrington, K., C. Rueden and K. Eliceiri, (2017) "FunImageJ: a Lisp framework for scientific image processing". In Bioinformatics, btx710.  pdf<br />
+10.  Harrington, K. I. S, (2016) "Wolfgang Banzhaf and Lidia Yamamoto: Artificial Chemistries". In Genetic Programming and Evolvable Machines, Vol. 17, pp. 317-319.  pdf<br />
+9.  Wang, A. L., J. M. Gold, N. Tompkins, M. Heymann, K. I. Harrington, and S. Fraden, (2016) "Configurable NOR Gate Arrays from Belousov-Zhabotinsky Micro-droplets". In European Physics Journal: Special Topics, Vol. 225, no. 1, pp. 211-227.  pdf<br />
+8.  Costa G.*, K. Harrington*, H. Lovegrove*, D. Page, S. Chakravartula, K. Bentley, S. Herbert, (2016) "Asymmetric division coordinates collective cell migration in angiogenesis". In Nature Cell Biology, Vol. 18, pp. 1292&#x2013;1301.  <br />
+\* Joint primary authors<br />
+7.  Kur, E., Kim, J., Tata, A., Comin, C. H., Harrington, K. I., Costa, L, Bentley, K., Gu, C., (2016) "Temporal modulation of collective cell behavior controls vascular network topology". In eLife, Vol. 5, pp. e13212.  pdf<br />
+6.  Harrington, K. I. S., (2016) "A Circuit Basis for Morphogenesis". In Theoretical Computer Science, Vol. 633, pp. 28-36.  pdf<br />
+5.  Cussat-Blanc, S., K. Harrington, and J. Pollack, (2015) "Gene Regulatory Network Evolution Through Augmenting Topologies". In IEEE Transactions on Evolutionary Computation, pp. 823-837.  pdf<br />
+4.  Harrington, K., and Sanchez, A., (2014) "Eco-evolutionary dynamics of complex social strategies in microbial communities". In Communicative and Integrative Biology, Vol. 7,<br />
+pp. e28230.  pdf<br />
+3.  Shang, Y., P. Haynes, N. Pírez, K. Harrington, F. Guo, J. Pollack, P. Hong, L. Griffith, and M. Rosbash, (2011) "Imaging analysis of clock neurons: light buffers the wake-promoting effect of dopamine". In Nature Neuroscience, Vol. 14, no. 7, pp. 889-895.  pdf<br />
+2.  Olsen, M., K. Harrington, and H. Siegelmann, (2010) "Conspecific Emotional Cooperation Biases Population Dynamics: A Cellular Automata Approach". In International Journal of Natural Computing Research, Vol. 1, no. 3, pp. 51-65.  pdf<br />
+1.   Spector, L., J. Klein, and K. Harrington, (2005) "Selection Songs: Evolutionary Music Computation". In YLEM Journal, Vol. 25, no. 6 &amp; 8, pp. 24-26.  pdf<br />
+</p>
+</div>
+</div>
+
+<div id="outline-container-peer-reviewed-conference-and-workshop-papers" class="outline-2">
+<h2 id="peer-reviewed-conference-and-workshop-papers"><span class="section-number-2">3.</span> Peer-reviewed conference and workshop papers</h2>
+<div class="outline-text-2" id="text-peer-reviewed-conference-and-workshop-papers">
+<p>
+20.  Günther, U., Harrington, K. I., Dachselt, R., &amp; Sbalzarini, I. F. (2020, August). Bionic Tracking: Using Eye Tracking to Track Biological Cells in Virtual Reality. In European Conference on Computer Vision (pp. 280-297). Springer, Cham.<br />
+19.  Günther, U., and Harrington, K.I., 2020. Tales from the Trenches: Developing a new 3D viewer for the ImageJ community. In VisGap/Eurographics and Eurovis.<br />
+18.  Günther, U., Pietzsch, T., Gupta, A., Harrington, K.I., Tomancak, P., Gumhold, S. and<br />
+Sbalzarini, I.F., 2019. scenery&#x2013;Flexible Virtual Reality Visualisation on the Java VM. 2019 IEEE Visualization Conference (VIS), Vancouver, BC, Canada, 2019, pp. 1-5.<br />
+17.  Wilson, D. G., Harrington, K., Cussat-Blanc, S., and Luga, H. (2018). "Evolving Differentiable Gene Regulatory Networks". In Parallel Problem Solving from Nature: PPSN XV, Evolutionary Machine Learning workshop, arxiv.org/abs/1807.05948. pdf<br />
+16.  Harrington, K., and L. Magbunduku, (2017) "Competitive dynamics in eco-evolutionary genetically-regulated swarms". In Proceedings of the 14th European Conference on Artificial Life ECAL 2017, pp. 190-197.  pdf<br />
+15.  Cussat-Blanc, S. and K. Harrington, (2015) "Genetically-regulated Neuromodulation Facilitates Multi-Task Reinforcement Learning". In Proceedings of the Genetic and Evolutionary Computation Conference, pp. 551-558.  <br />
+14.  Lowell, J., K. Harrington, and J. Pollack, (2014) "The Resilience of a Swarm Ecosystem Under Environmental Variation". In Proceedings of Artificial Life XIV, pp. 827-834.  pdf 13.  Gold, J., A. Wang, and K. Harrington, (2014) "Feedback Control of Evolving Swarms". In Proceedings of Artificial Life XIV, pp. 884-891.  pdf<br />
+12.  Bentley, K., K. Harrington, and E. R. Regan, (2014) "Can active perception generate bistability? Heterogeneous collective dynamics and vascular patterning". In Proceedings of Artificial Life XIV, pp. 328-335.  pdf<br />
+11.  Harrington, K., J. Freeman, and J. Pollack, (2014) "Coevolution in Hide and Seek: Camouflage and Vision". In Proceedings of Artificial Life XIV, pp. 25-32.  pdf<br />
+10.  Harrington, K., E. Awa, S. Cussat-Blanc, and J. Pollack, (2013) "Robot Coverage Control by Evolved Neuromodulation". In Proceedings of the International Joint Conference on Neural Networks, pp. 543-550.  pdf<br />
+9.  Ozisik, A. P., Harrington, K. I., (2012) "The Effect of Tags on the Evolution of Honest Signaling". In Proceedings of the Genetic and Evolutionary Computation Conference Companion,<br />
+pp. 345-352.  pdf<br />
+8.  Harrington, K. I., L. Spector, J. B. Pollack, and U.M. O'Reilly, (2012) "Autoconstructive Evolution for Structural Problems". In Proceedings of the fourteenth international conference on<br />
+Genetic and evolutionary computation conference companion, pp. 75-82.  pdf<br />
+7.  Spector, L., K. Harrington, and T. Helmuth, (2012) "Tag-based Modularity in Tree-based Genetic Programming". In Proceedings of the Genetic and Evolutionary Computation Conference,<br />
+pp. 815-822.  pdf<br />
+6.  Harrington, K. I., A. P. Ozisik, and J. Pollack, (2012) "The Effects of Finite Populations and Selection on the Emergence of Signaling". In Proceedings of Artificial Life XIII, pp. 194-201.  pdf<br />
+5.  Harrington, K., E. Tosch, L. Spector, and J. Pollack, (2011) "Compositional Autoconstructive Dynamics". In Unifying Themes in Complex Systems Volume VIII: Proceedings of the Eighth International Conference on Complex Systems, pp. 856-870.  pdf<br />
+4.  Spector, L., B. Martin, K. Harrington, and T. Helmuth, (2011) "Tag-Based Modules in Genetic<br />
+Programming". In Proceedings of the Genetic and Evolutionary Computation Conference, pp. 1419-1426.  pdf<br />
+3.  Harrington, K., M. Olsen, and H. Siegelmann, (2011) "Communicated Somatic Markers Benefit the Individual and the Species". In Proceedings of the International Joint Conference on Neural Networks, pp. 3272-3278.  pdf<br />
+2.  Olsen, M., K. Harrington. and H. Siegelmann, (2011) "Computational Emotions in a Population<br />
+Dynamics Cellular Automata Encourage Collective Behavior". In Unifying Themes in Complex Systems Volume VIII: Proceedings of the Eighth International Conference on Complex Systems, pp. 196-210.  pdf<br />
+1.  Olsen, M., K. Harrington, and H. Siegelmann, (2008) "Emotions for Strategic Real-Time Systems". In AAAI Spring Symposium on Emotion, Personality, and Social Behavior, pp. 104-110.  pdf<br />
+</p>
+</div>
+</div>
+
+<div id="outline-container-preprints" class="outline-2">
+<h2 id="preprints"><span class="section-number-2">4.</span> Preprints</h2>
+<div class="outline-text-2" id="text-preprints">
+<p>
+1.  Wilson, D.G., Cussat-Blanc, S., Luga, H. and Harrington, K.,<br />
+"Neuromodulated Learning in Deep Neural Networks." arXiv preprint<br />
+arXiv:1812.03365. pdf<br />
+</p>
+</div>
+</div>
+
+<div id="outline-container-book-chapters" class="outline-2">
+<h2 id="book-chapters"><span class="section-number-2">5.</span> Book chapters</h2>
+<div class="outline-text-2" id="text-book-chapters">
+<p>
+3.  Spector, L., K. Harrington, B. Martin, and T. Helmuth, (2011) "What's in an Evolved Name? The Evolution of Modularity via Tag-Based Reference". In Genetic Programming Theory and Practice IX, edited by Riolo, R., E. Vladislavleva, and J.H. Moore, pp. 1-16.  pdf<br />
+2.  Harrington, K., and H. Siegelmann, (2007) "Adaptive Multi-modal Sensors". In 50 Years of Artificial Intelligence, edited by Lungarella, M., F. Iida, J. Bongard, and R. Pfeifer, pp. 164-173.  pdf<br />
+1.  Harrington, K., and G. Trajkovski, (2006) "On an Evolutionary Approach to Language". In An Imitation-Based Approach to Modeling Homogenous Agents Societies, edited by Trajkovski, G., pp. 212-229.  <br />
+</p>
+</div>
+</div>
+
+<div id="outline-container-short-papers-and-abstracts" class="outline-2">
+<h2 id="short-papers-and-abstracts"><span class="section-number-2">6.</span> Short papers and abstracts</h2>
+<div class="outline-text-2" id="text-short-papers-and-abstracts">
+<p>
+15.   Cahill, L. C., Rosen, M., Yoshitake, T., Harrington, K., Law, P. T., Fujimoto, J. G., Rosen, S., (2019) "Maximizing Data Retrieval From Renal Biopsy Tissue Using Nonlinear Microscopy: Examining the Paraffin Block After Processing". In Annual Meeting of United States and Canadian Academy of Pathology.<br />
+14.  Magbunduku, L., Harrington, K., (2017) "Dynamic Habitat Construction Through Evolving 3D Swarms". In Living Architectures Workshop at the European Conference on Artificial<br />
+Life,  doi<br />
+13.  Faulkner-Jones, B. E., Rosen, D., Rosen, S., Harrington, K., Law, C., (2016) "Maximizing Information from the Renal Biopsy: Computer-Generated Three-Dimensional Constructs". In Laboratory Investigation, pp. 405a.  <br />
+12.  Cussat-Blanc, S., K. Harrington, and J. Pollack, (2015) "Gene Regulatory Network Evolution Through Augmenting Topologies". In Proceedings of GECCO 2015, Hot-off-the-press., in<br />
+press.  <br />
+11.  Harrington, K I S, T. Stiles, L. Venkatraman, C. Prahst, K. Bentley, (2015) "Functional Image Processing in ImageJ/FIJI". In Proceedings of Bioimage Informatics, in press.  pdf 10.  Harrington, K I S, B. Faulkner-Jones, K. Bentley, S. Rosen, (2015) "Automated Quantification of Renal Microvascular Abnormalities: A Novel Computational Mapping Approach". In Proceedings of the American Society of Nephrology, in press.  <br />
+9.  Harrington, K I S, C. Prahst, C. Yoon, B. Lavina Siemsen, K. Bentley, (2015) "Quantitative Image Analysis Reveals Multiscale Patterns in Vascular Networks". In Gordon Research Conference<br />
+on Angiogenesis, pp. .  <br />
+8.  Gold, J., A. Wang, C. Girabawe, K. Harrington, and S. Fraden, (2014) "Modelling Nonlinear Chemical Oscillators with Inhibitory Coupling". In Proceedings of the Northeast Bioengineering Conference, pp. 1-2.  pdf<br />
+7.  Harrington, K. I., M. Olsen, and H. Siegelmann, (2012) "Computational Neuroecology of Communicated Somatic Markers". In Proceedings of Artificial Life XIII, pp. 555-556.  pdf<br />
+6.  Spector, L., T. Helmuth, and K. Harrington, (2011) "Fecundity and Selectivity in Evolutionary Computation". In Proceedings of the 13th annual conference companion on Genetic and evolutionary computation, pp. 129-130.  pdf<br />
+5.  Harrington, K. I., and J. B. Pollack, (2010) "Robot Phylogenetics". In Proceedings of the 12th annual conference companion on Genetic and evolutionary computation, pp. 2077-2078.  pdf<br />
+4.  Heymann, M., K. I. Harrington, J. Pollack, and S. Fraden, (2010) "En route to signal inversion in chemical computing". In Proceedings of Artificial Life XII, pp. 166-167.  pdf<br />
+3.  Harrington, K. I., (2007) "Predicting Reactions from Amino Acid Sequences in S. cerevisiae: an Evolutionary Computation Approach". In Proceedings of the 2007 GECCO conference companion on Genetic and evolutionary computation, pp. 2725-2728.  <br />
+2.  Harrington, K., and H. Siegelmann, (2006) "Adaptive Multi-modal Sensors". In Proceedings of the 50th Anniversary Summit of Artificial Intelligence, pp. 163-164.  <br />
+1.  Spector, L., J. Klein, K. Harrington, and R. Coppinger, (2005) "Teaching the Evolution of Behavior with SuperDuperWalker". In Proceedings of the 12th International Conference on Artificial Intelligence in Education, pp. 923-925.  pdf<br />
+</p>
+</div>
+</div>
+
+<div id="outline-container-other-publications" class="outline-2">
+<h2 id="other-publications"><span class="section-number-2">7.</span> Other publications</h2>
+<div class="outline-text-2" id="text-other-publications">
+<p>
+2.  Harrington, K. I. S, (2014) "Escalation of Coevolutionary Arms Races". In Department of Computer Science, Brandeis University.  pdf<br />
+1.  Harrington, K., and J. Pollack, (2011) "Zipper-based Meta-Genetic Programming". In Technical Report Brandeis University CS-11-275.  pdf<br />
+</p>
+</div>
+</div>
+
+<div id="outline-container-talks" class="outline-2">
+<h2 id="talks"><span class="section-number-2">8.</span> Talks</h2>
+<div class="outline-text-2" id="text-talks">
+<p>
+40.  Harrington, K I S, (2021) "Algorithms and computational tools for image data analysis across scales (keynote)". Ultrahigh Field Magnetic Resonance Symposium, Berlin, Germany  <br />
+39.  Harrington, K I S, (2021) "Image data solutions across biological scales". Max Delbrueck Center for Molecular Medicine, Berlin, Germany  <br />
+38.  Harrington, K I S, (2021) "Image Data Solutions for Systems Biology and Beyond (invited)". Center for Advanced Systems Understanding (CASUS), Goerliz, Germany  <br />
+37.  Harrington, K I S, (2020) "Emergence of animal conflict from neurodevelopmental wiring: an artificial life model". J-theory, Janelia Research Campus, Howard Hughes Medical Institute   36.  Harrington, K I S, (2019) "Multiscale modeling and visualization with biological images". Center for Cell Analysis and Modeling Seminar, UConn, Farmington, CT<br />
+35.  Harrington, K I S, (2019) "Modeling from Morphology to Molecules: Blood Vessels to Synaptic Plasticity". J-theory, Janelia Research Campus, Howard Hughes Medical Institute  <br />
+34.  Harrington, K I S, (2019) "The Artificial Life of Image-based Modeling for Morphogenesis". Image-based Modeling and Simulation 2019  <br />
+33.  Harrington, K I S, (2018) "Bringing biological images to life: modeling and visualization". Wisconsin Institute for Discovery  <br />
+32.  Harrington, K I S, (2018) "Evolution of genetically-regulated swarming strategies". HHMI Collective Computation Conference  <br />
+31.  Harrington, K I S, (2017) "Image-based Modeling". Data Science Day, Washington State University, Pullman, WA  <br />
+30.  Harrington, K I S, (2017) "Functional Scientific Programming: Bringing Images to Life". BosLab, Somerville, MA  <br />
+29.  Harrington, K I S, (2017) "Image-based Computational Biology". IBEST, UIdaho, Moscow, ID  <br />
+28.  Harrington, K I S, (2017) "Fishing is in the Blood: Modeling, Quantification and Visualization of Zebrafish Vascular Development". Max Planck Institute for Molecular Cell Biology and Genetics  <br />
+27.  Harrington, K I S, (2017) "Computational Modeling of Physical Systems: from Chemistries to<br />
+Organisms (invited)". IRIT Symposium, University of Toulouse  <br />
+26.  Harrington, K I S, (2017) "Machine Learning (invited)". 2IS Innovative Information Systems, University of Toulouse  <br />
+25.  Harrington, K I S, (2017) "Escalation of Complexity through Competition". BEACON Institute, Michigan State University, East Lansing, MI &amp; UIdaho, Moscow, ID  <br />
+24.  Harrington, K I S, (2017) "Image-based Modeling for Biological Systems (invited)". 2017 NIH IDeA Western Regional Conference  <br />
+23.  Harrington, K I S, (2017) "Biological Image Analysis using the ImageJ/Fiji Software Ecosystem". ImageXD, University of Washington, Seattle, WA<br />
+22.  Harrington, K I S, (2017) "Developing Computational Models with Biological Images". Mathematical Biology Seminar, Washington State University, Pullman, WA  <br />
+21.  Harrington, K I S, (2016) "Escalation in the Complexity of Cooperative Strategies".<br />
+University of Idaho, Institute for Bioinformatics and Evolutionary Studies, Moscow, ID  <br />
+20.  Harrington, K I S, (2016) "Virtual Morphogenesis: Toward Growing Models with Images". University of Wisconsin, Laboratory for Optical and Computational Instrumentation, Madison, WI  <br />
+19.  Harrington, K I S, (2016) "Virtual Morphogenesis: Directing Pattern Formation". University of Idaho, Center for Modeling Complex Interactions, Moscow, ID  <br />
+18.  Harrington, K I S, (2016) "Virtualization and Simulation for Biology and Evolution". Idaho EPSCoR Annual Meeting, Coeur d'Alene, ID  <br />
+17.  Harrington, K I S, (2015) "Scientific Computing in Clojure". Clojure/Conj 2015, Philadelphia, PA  <br />
+16.  Harrington, K I S, T. Stiles, L. Venkatraman, C. Prahst, K. Bentley, (2015) "Functional Image Processing in ImageJ/FIJI". Bioimage Informatics 2015, National Institute of Standards and Technology, Gaithersburg, MD  <br />
+15.  Harrington, K., (2014) "Evolution, the First Programmer". HHMI Interfaces Award Lecture Series, Waltham, MA  <br />
+14.  Harrington, K., A. Brilot, (2014) "Bridging Structure and Evolution". HHMI Interfaces Award Lecture Series, Waltham, MA  <br />
+13.  Harrington, K., J. Freeman, J. Pollack, (2014) "Coevolution in Hide and Seek: Camouflage and Vision". ALife 14, New York, NY  <br />
+12.  Harrington, K., E. Awa, S. Cussat-Blanc, J. Pollack, (2013) "Robot Coverage Control by Evolved Neuromodulation". IJCNN, Dallas, TX  <br />
+11.  Harrington, K., J. Chin, (2013) "Embracing the Inner Cyborg: the Computational Immunology of Organ Transplantation". Quantitative Biology Graduate Talks, Waltham, MA  <br />
+10.  Ozisik, A. P., Harrington, K. I., (2012) "The Effect of Tags on the Evolution of Honest Signaling". GECCO-2012, Philadelphia, PA  <br />
+9.  Harrington, K. I., L. Spector, J. B. Pollack, U.M. O'Reilly, (2012) "Autoconstructive Evolution for Structural Problems". GECCO-2012, Philadelphia, PA  <br />
+8.  Harrington, K., M. Olsen, H. Siegelmann, (2011) "Communicated Somatic Markers Benefit the Individual and the Species". IJCNN, San Jose, CA  <br />
+7.  Harrington, K., (2011) "Evolving Evolution". Quantitative Biology Graduate Talks, Waltham, MA  <br />
+6.  Harrington, K., (2011) "Evolving Evolution: part 1, Variation". ALFA Group, MIT, Cambridge, MA  <br />
+5.  Harrington, K., E. Tosch, L. Spector, J. Pollack, (2011) "Compositional Autoconstructive<br />
+Dynamics". ICCS, Quincy, MA  <br />
+4.  Harrington, K. I., J. B. Pollack, (2010) "Robot Phylogenetics". GECCO-2010, Portland, OR   3.  Harrington, K., (2010) "Attention to Details: from a Single-Cell to a Multi-cellular<br />
+Observer". Boston College, Boston, MA  <br />
+2.  Harrington, K., (2008) "Artificial Embryogenesis". Greythumb Artificial Life Group, Cambridge, MA  <br />
+1.  Harrington, K., (2007) "Predicting Reactions from Amino Acid<br />
+Sequences in S. cerevisiae: an Evolutionary Computation Approach".<br />
+GECCO-2007, London, UK  <br />
+</p>
+</div>
+</div>
+
+<div id="outline-container-posters" class="outline-2">
+<h2 id="posters"><span class="section-number-2">9.</span> Posters</h2>
+<div class="outline-text-2" id="text-posters">
+<p>
+12.  Harrington, K I S, B. E. Faulkner-Jones, K. Bentley, S. Rosen, (2015) "Automated quantification of renal microvascular abnormalities: A novel computational mapping approach". American Society of Nephrology 2015, San Diego, CA  <br />
+11.  Harrington, K I S, C. Prahst, C. Yoon, B. Lavina Siemsen, K. Bentley, (2015) "Quantitative Image Analysis Reveals Multiscale Patterns in Vascular Networks". Gordon Research Conference on<br />
+Angiogenesis  <br />
+10.  Lowell, J., K. Harrington, J. Pollack, (2014) "The Resilience of a Swarm Ecosystem Under Environmental Variation". ALife 14, New York, NY  <br />
+9.  Gold, J., A. Wang, C. Girabawe, K. Harrington, S. Fraden, (2014) "Modelling Nonlinear Chemical Oscillators with Inhibitory Coupling". Northeast Bioengineering Conference, Boston, MA  <br />
+8.  Gold, J., A. Wang, K. Harrington, (2014) "Feedback Control of Evolving Swarms". ALife 14, New York, NY   7.  Chin, J., K. Harrington, (2013) "Evolutionary Pressures of Dynamic Peptide Fragments on Immunological Selectivity". Brandeis Scifest, Waltham, MA  <br />
+6.  Harrington, K., (2013) "Brevis, a Functional Artificial Life Simulator". Volen Complex Systems Retreat, Provincetown, MA  <br />
+5.  Gold, J., A. Wang, K. Harrington, S. Fraden, J. Pollack, (2013) "Computing with Nonlinear Chemical Oscillators at the Microfluidic Scale". Brandeis Scifest, Waltham, MA  <br />
+4.  Bardasu, A., K. Harrington, (2013) "Coevolving Fitness Predictors for Pairwise Games". Brandeis Scifest, Waltham, MA  <br />
+3.  Harrington, K., M. Olsen, H. Siegelmann, (2012) "Computational Neuroecology of Communicated Somatic Markers". ALife 13, E. Lansing, MI  <br />
+2.  Harrington, K., A. P. Ozisik, J. Pollack, (2012) "The Effects of Finite Populations and Selection on the Emergence of Signaling". ALife 13, E. Lansing, MI  <br />
+1.  Harrington, K., H. Siegelmann, (2006) "Adaptive Multi-modal Sensors". Monte Verita, Switzerland  <br />
+</p>
+
+<p>
+<sup hidden><a id="fnr.1" class="footref" href="#fn.1" role="doc-backlink">1</a></sup><br />
+</p>
+</div>
+</div>
+<div id="Footnotes">
+<h2 class="footnotes"></h2>
+<div id="text-footnotes">
+
+<div class="footdef"><sup hidden><a id="fn.1" class="footnum" href="#fnr.1" role="doc-backlink">1</a></sup> <div class="footpara" role="doc-footnote"><p class="footpara"><a href="mailto:web@kyleharrington.com">email: web@kyleharrington.com</a> | <a href="https://github.com/kephale">github: kephale</a> | <a href="https://twitter.com/kisharrington">twitter: kisharrington</a> | <a href="./impressum.html">impressum</a> | <a href="./terms.html">terms and privacy policy</a></p></div></div>
+
+
+</div>
+</div></div>
+<div id="postamble" class="status">
+<p class="author">Author: Kyle IS Harrington</p>
+<p class="date">Created: 2021-11-13 Sat 17:00</p>
+<p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>
