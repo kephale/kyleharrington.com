@@ -1,0 +1,65 @@
+*** Current
+    :PROPERTIES:
+    :CUSTOM_ID: current
+    :END:
+[[https://profiles.ucsf.edu/amnon.sharir][Amnon Sharir (UCSF)]]
+[[https://klein.hms.harvard.edu/][Allon Klein (Harvard Mes)]] Alvaro
+Sanchez (Yale)\\
+Beverly Faulkner-Jones (Harvard Med/BIDMC)\\
+Curtis Rueden (UW-Madison)\\
+[[https://d9w.xyz/][Dennis Wilson (Toulouse)]]\\
+Florian Jug (CSBD/MPI-CBG)\\
+Ivo Sbalzarini (CSBD/TUDresden/MPI-CBG)\\
+Jacqui Tabler (MPI-CBG)\\
+Jan Huisken (Morgridge Institute)\\
+[[http://www.capsidaho.com/people.html][Jessica Smith (UIdaho)]]\\
+Jordan Pollack (Brandeis)\\
+Katie Bentley (Harvard Med/BIDMC)\\
+Kevin Eliceri (UW-Madison/Morgridge)\\
+[[https://morphogenetics.github.io/][Leo Epstein (UIdaho)]]\\
+[[http://www.capsidaho.com/people.html][Louise Magbunduku (UIdaho)]]\\
+Lakshmi Venkatraman (Harvard Med/BIDMC)\\
+[[http://ase.tufts.edu/biology/faculty/levin/][Michael Levin
+(Tufts/Allen Discovery)]]\\
+[[https://klein.ucsf.edu/][Ophir Klein (UCSF)]]\\
+Seymour Rosen (BIDMC)\\
+[[https://www.researchgate.net/profile/Stephan_Daetwyler][Stephan
+Daetwyler (UTSW Medical)]]\\
+Sylvain Cussat-Blanc (Toulouse)\\
+Ulrik Günther (CSBD/MPI-CBG)\\
+[[http://www.cse.msu.edu/~banzhafw/][Wolfgang Banzhaf (MSU)]]\\
+[[http://www.capsidaho.com/people.html][Zeth duBois (UIdaho)]]
+
+*** Previous
+    :PROPERTIES:
+    :CUSTOM_ID: previous
+    :END:
+A. Pinar Ozisik (Brandeis, now UMass)\\
+Adam Wang (Brandeis, now U of Chicago)\\
+Alex Bardasu (Brandeis, now Amazon)\\
+Brian Martin (UMass)\\
+Claudia Prahst (Harvard Med/BIDMC)\\
+Emma Tosch (Brandeis, now UMass)\\
+Emmanuel Awa (Brandeis, now Amadeus)\\
+Erzsébet Ravasz Regan (Harvard Med/BIDMC)\\
+Hava Sieglmann (UMass)\\
+Jacob Gold (Brandeis, now MIT)\\
+James Chin (Brandeis/Dartmouth, now JP Morgan)\\
+Jesse Freeman (Brandeis, now Athenahealth)\\
+Jessica Lowell (Brandeis)\\
+Jon Klein (Industry)\\
+Lee Spector (Hampshire)\\
+Leslie Griffith (Brandeis)\\
+Marc Eder (Boston University, now UNC)\\
+Megan Olsen (UMass, now Loyola)\\
+Michael Heymann (Brandeis, now Hamburg)\\
+Michael Rosbash (Brandeis)\\
+Nicolas Pirez (Brandeis)\\
+Pengyu Hong (Brandeis)\\
+Sara Amin (Tufts)\\
+Seth Fraden (Brandeis)\\
+Tim Stiles (Hampshire College)\\
+Tom Helmuth (UMass, now Hamilton College)\\
+Una-May O'Reilly (MIT)\\
+Yuhua Shang (Brandeis)\\
+Yuki Zaninovich (Tufts)

@@ -1,0 +1,19 @@
+#+SETUPFILE: theme/theme-bigblow-local.setup
+#+INCLUDE: "header.org"
+
+- [[https://album.solutions][album]]: album is a tool for sharing and creating polyglot, multi-tool scientific software solutions
+- [[https://github.com/morphonets/SNT][SNT]]: SNT is a semi-automated tracing, visualization, analysis, and modeling tool for neuronal analysis
+- [[http://sc.iview.sc][sciview]]: SciView is an ImageJ/FIJI plugin for visualization and interaction with 3D data
+- [[http://scenery.graphics][scenery]]: Realtime rendering with Virtual Reality, powered by Kotlin, OpenGL and Vulkan
+- [[https://atom.io/packages/atom-imagej-mode][atom-imagej-mode]]: Editing ImageJ scripts using the Atom editor
+- [[https://github.com/d9w/pyGRN][pyGRN]]: A Python library for modeling and evolving artificial gene-regulatory networks (GRNs)
+- [[https://github.com/morphonets/grneat][GRNEAT]]: An evolutionary algorithm designed for the optimization of artificial gene-regulatory networks (GRNs)\\
+- [[http://brevis.us][brevis]]: A functional artificial life simulator
+- [[https://github.com/kephale/fun.imagej][fun.imagej]]: Functional programming for scientific image processing
+- [[https://github.com/lspector/Clojush][Clojush]]: Contributor to Clojure implementation of the Push programming language.
+- [[https://github.com/kephale/breve][breve]]: Contributor to breve: a 3D multiagent and artificial life simulator. See Jon Klein's [[https://github.com/jonklein/breve][original implementation]]
+- [[https://github.com/kephale/Mush][Mush]]: Matlab implementation of the Push programming language
+- [[https://github.com/kephale/clj-qrun][clj-qrun]]: Open-source cluster parallelization software compatible with ROCKS and Pixar clusters
+
+  
+  #+INCLUDE: "footer.org"

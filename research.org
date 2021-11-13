@@ -1,0 +1,185 @@
+#+SETUPFILE: theme/theme-bigblow-local.setup
+#+INCLUDE: "header.org"
+
+** Indices and Databases
+   :PROPERTIES:
+   :CUSTOM_ID: indices-and-databases
+   :END:
+[[http://orcid.org/0000-0002-7237-1973][My ORCID]]\\
+[[https://scholar.google.com/citations?user=InE-jdsAAAAJ][My Google
+Scholar]]
+
+** Journal Articles
+   :PROPERTIES:
+   :CUSTOM_ID: journal-articles
+   :END:
+21.  Epstein, L., Dubois, Z., Smith, J., Lee, Y., & Harrington, K. (2021). Complex population dynamics in a spatial microbial ecosystem with Physarum polycephalum. BioSystems, 208, 104483.
+20.  Bahry, E., Breimann, L., Epstein, L., Kolyvanov, K., Harrington, K. I.*, Lionnet, T.*, and Preibisch, S.* (2021). RS-FISH: Precise, interactive and scalable smFISH spot detection using Radial Symmetry. bioRxiv.
+​* Co-corresponding authors
+19.  Arshadi, C., Günther, U., Eddison, M., Harrington, K. I., and Ferreira, T. A. (2021). SNT: a unifying toolbox for quantification of neuronal anatomy. Nature Methods, 18, 374--377.
+18.  Zakirov, B., Charalambous, G., Thuret, R., Aspalter, I. M., Van-Vuuren, K., Mead, T., Harrington, K., Regan, E., Herbert, S., and Bentley, K. (2021). Active perception during angiogenesis: filopodia speed up Notch selection of tip cells in silico and in vivo. Philosophical Transactions of the Royal Society B, 376(1821), 20190753.
+17.  Prahst, C., Ashrafzadeh, P., Mead, T., Figueiredo, A., Chang, K., Richardson, D., Venkaraman, L., Richards, M., Russo, A., Harrington, K., Ouarne, M., Pena, A., Chen, D., Claesson-Welsh, L., Cho, K., Franco, C., and Bentley, K. (2020). Mouse retinal cell behaviour in space and time using light sheet fluorescence microscopy. Elife, 9, e49779..
+16.  Sharir, A., Marangoni, P., Wan, M., Zilionis, R., Wald, T., Hu, J., Kawaguchi, K., Epstein, L., Harrington, K., Pagella, P., Mitsiadis, T., Siebel, C., Klein, A. M. and Klein, O, D., (2019) "A large pool of actively cycling progenitors orchestrates self-renewal and injury repair
+of an ectodermal appendage." In Nature Cell Biology.
+15.  Daetwyler, S., Günther, U., Modes, C.D., Harrington, K.* and Huisken, J.*, (2019). Multi-sample SPIM image acquisition, processing and analysis of vascular growth in zebrafish. In Development 146: dev173757. pdf
+​* Co-corresponding authors
+14.  Harrington, K., and Pollack, J., (2019) "Escalation of Memory Length in Finite Populations". In Artificial Life 25(1), pp. 22-32. (preprint bioRxiv 130583, pdf)
+13.  Crawford-Young, S., Dittapongpitch, S., Gordon, R., Harrington, K., (2018) "Acquisition
+and reconstruction of 4D surfaces of axolotl embryos with the flipping stage robotic microscope". In Biosystems, Vol. 173, pp. 214-220.
+12.  Cussat-Blanc, S., Harrington, K., and Banzhaf, W., (2018) "Artificial Gene Regulatory Networks---A Review". In Artificial Life 24(4), pp. 296-328.
+11.  Harrington, K., C. Rueden and K. Eliceiri, (2017) "FunImageJ: a Lisp framework for scientific image processing". In Bioinformatics, btx710.  pdf
+10.  Harrington, K. I. S, (2016) "Wolfgang Banzhaf and Lidia Yamamoto: Artificial Chemistries". In Genetic Programming and Evolvable Machines, Vol. 17, pp. 317-319.  pdf
+9.  Wang, A. L., J. M. Gold, N. Tompkins, M. Heymann, K. I. Harrington, and S. Fraden, (2016) "Configurable NOR Gate Arrays from Belousov-Zhabotinsky Micro-droplets". In European Physics Journal: Special Topics, Vol. 225, no. 1, pp. 211-227.  pdf
+8.  Costa G.*, K. Harrington*, H. Lovegrove*, D. Page, S. Chakravartula, K. Bentley, S. Herbert, (2016) "Asymmetric division coordinates collective cell migration in angiogenesis". In Nature Cell Biology, Vol. 18, pp. 1292--1301.  
+\* Joint primary authors
+7.  Kur, E., Kim, J., Tata, A., Comin, C. H., Harrington, K. I., Costa, L, Bentley, K., Gu, C., (2016) "Temporal modulation of collective cell behavior controls vascular network topology". In eLife, Vol. 5, pp. e13212.  pdf
+6.  Harrington, K. I. S., (2016) "A Circuit Basis for Morphogenesis". In Theoretical Computer Science, Vol. 633, pp. 28-36.  pdf
+5.  Cussat-Blanc, S., K. Harrington, and J. Pollack, (2015) "Gene Regulatory Network Evolution Through Augmenting Topologies". In IEEE Transactions on Evolutionary Computation, pp. 823-837.  pdf
+4.  Harrington, K., and Sanchez, A., (2014) "Eco-evolutionary dynamics of complex social strategies in microbial communities". In Communicative and Integrative Biology, Vol. 7,
+pp. e28230.  pdf
+3.  Shang, Y., P. Haynes, N. Pírez, K. Harrington, F. Guo, J. Pollack, P. Hong, L. Griffith, and M. Rosbash, (2011) "Imaging analysis of clock neurons: light buffers the wake-promoting effect of dopamine". In Nature Neuroscience, Vol. 14, no. 7, pp. 889-895.  pdf
+2.  Olsen, M., K. Harrington, and H. Siegelmann, (2010) "Conspecific Emotional Cooperation Biases Population Dynamics: A Cellular Automata Approach". In International Journal of Natural Computing Research, Vol. 1, no. 3, pp. 51-65.  pdf
+1.   Spector, L., J. Klein, and K. Harrington, (2005) "Selection Songs: Evolutionary Music Computation". In YLEM Journal, Vol. 25, no. 6 & 8, pp. 24-26.  pdf
+
+** Peer-reviewed conference and workshop papers
+   :PROPERTIES:
+   :CUSTOM_ID: peer-reviewed-conference-and-workshop-papers
+   :END:
+20.  Günther, U., Harrington, K. I., Dachselt, R., & Sbalzarini, I. F. (2020, August). Bionic Tracking: Using Eye Tracking to Track Biological Cells in Virtual Reality. In European Conference on Computer Vision (pp. 280-297). Springer, Cham.
+19.  Günther, U., and Harrington, K.I., 2020. Tales from the Trenches: Developing a new 3D viewer for the ImageJ community. In VisGap/Eurographics and Eurovis.
+18.  Günther, U., Pietzsch, T., Gupta, A., Harrington, K.I., Tomancak, P., Gumhold, S. and
+Sbalzarini, I.F., 2019. scenery--Flexible Virtual Reality Visualisation on the Java VM. 2019 IEEE Visualization Conference (VIS), Vancouver, BC, Canada, 2019, pp. 1-5.
+17.  Wilson, D. G., Harrington, K., Cussat-Blanc, S., and Luga, H. (2018). "Evolving Differentiable Gene Regulatory Networks". In Parallel Problem Solving from Nature: PPSN XV, Evolutionary Machine Learning workshop, arxiv.org/abs/1807.05948. pdf
+16.  Harrington, K., and L. Magbunduku, (2017) "Competitive dynamics in eco-evolutionary genetically-regulated swarms". In Proceedings of the 14th European Conference on Artificial Life ECAL 2017, pp. 190-197.  pdf
+15.  Cussat-Blanc, S. and K. Harrington, (2015) "Genetically-regulated Neuromodulation Facilitates Multi-Task Reinforcement Learning". In Proceedings of the Genetic and Evolutionary Computation Conference, pp. 551-558.  
+14.  Lowell, J., K. Harrington, and J. Pollack, (2014) "The Resilience of a Swarm Ecosystem Under Environmental Variation". In Proceedings of Artificial Life XIV, pp. 827-834.  pdf 13.  Gold, J., A. Wang, and K. Harrington, (2014) "Feedback Control of Evolving Swarms". In Proceedings of Artificial Life XIV, pp. 884-891.  pdf
+12.  Bentley, K., K. Harrington, and E. R. Regan, (2014) "Can active perception generate bistability? Heterogeneous collective dynamics and vascular patterning". In Proceedings of Artificial Life XIV, pp. 328-335.  pdf
+11.  Harrington, K., J. Freeman, and J. Pollack, (2014) "Coevolution in Hide and Seek: Camouflage and Vision". In Proceedings of Artificial Life XIV, pp. 25-32.  pdf
+10.  Harrington, K., E. Awa, S. Cussat-Blanc, and J. Pollack, (2013) "Robot Coverage Control by Evolved Neuromodulation". In Proceedings of the International Joint Conference on Neural Networks, pp. 543-550.  pdf
+9.  Ozisik, A. P., Harrington, K. I., (2012) "The Effect of Tags on the Evolution of Honest Signaling". In Proceedings of the Genetic and Evolutionary Computation Conference Companion,
+pp. 345-352.  pdf
+8.  Harrington, K. I., L. Spector, J. B. Pollack, and U.M. O'Reilly, (2012) "Autoconstructive Evolution for Structural Problems". In Proceedings of the fourteenth international conference on
+Genetic and evolutionary computation conference companion, pp. 75-82.  pdf
+7.  Spector, L., K. Harrington, and T. Helmuth, (2012) "Tag-based Modularity in Tree-based Genetic Programming". In Proceedings of the Genetic and Evolutionary Computation Conference,
+pp. 815-822.  pdf
+6.  Harrington, K. I., A. P. Ozisik, and J. Pollack, (2012) "The Effects of Finite Populations and Selection on the Emergence of Signaling". In Proceedings of Artificial Life XIII, pp. 194-201.  pdf
+5.  Harrington, K., E. Tosch, L. Spector, and J. Pollack, (2011) "Compositional Autoconstructive Dynamics". In Unifying Themes in Complex Systems Volume VIII: Proceedings of the Eighth International Conference on Complex Systems, pp. 856-870.  pdf
+4.  Spector, L., B. Martin, K. Harrington, and T. Helmuth, (2011) "Tag-Based Modules in Genetic
+Programming". In Proceedings of the Genetic and Evolutionary Computation Conference, pp. 1419-1426.  pdf
+3.  Harrington, K., M. Olsen, and H. Siegelmann, (2011) "Communicated Somatic Markers Benefit the Individual and the Species". In Proceedings of the International Joint Conference on Neural Networks, pp. 3272-3278.  pdf
+2.  Olsen, M., K. Harrington. and H. Siegelmann, (2011) "Computational Emotions in a Population
+Dynamics Cellular Automata Encourage Collective Behavior". In Unifying Themes in Complex Systems Volume VIII: Proceedings of the Eighth International Conference on Complex Systems, pp. 196-210.  pdf
+1.  Olsen, M., K. Harrington, and H. Siegelmann, (2008) "Emotions for Strategic Real-Time Systems". In AAAI Spring Symposium on Emotion, Personality, and Social Behavior, pp. 104-110.  pdf
+
+** Preprints
+   :PROPERTIES:
+   :CUSTOM_ID: preprints
+   :END:
+1.  Wilson, D.G., Cussat-Blanc, S., Luga, H. and Harrington, K.,
+"Neuromodulated Learning in Deep Neural Networks." arXiv preprint
+arXiv:1812.03365. pdf
+
+** Book chapters
+   :PROPERTIES:
+   :CUSTOM_ID: book-chapters
+   :END:
+3.  Spector, L., K. Harrington, B. Martin, and T. Helmuth, (2011) "What's in an Evolved Name? The Evolution of Modularity via Tag-Based Reference". In Genetic Programming Theory and Practice IX, edited by Riolo, R., E. Vladislavleva, and J.H. Moore, pp. 1-16.  pdf
+2.  Harrington, K., and H. Siegelmann, (2007) "Adaptive Multi-modal Sensors". In 50 Years of Artificial Intelligence, edited by Lungarella, M., F. Iida, J. Bongard, and R. Pfeifer, pp. 164-173.  pdf
+1.  Harrington, K., and G. Trajkovski, (2006) "On an Evolutionary Approach to Language". In An Imitation-Based Approach to Modeling Homogenous Agents Societies, edited by Trajkovski, G., pp. 212-229.  
+
+** Short papers and abstracts
+   :PROPERTIES:
+   :CUSTOM_ID: short-papers-and-abstracts
+   :END:
+15.   Cahill, L. C., Rosen, M., Yoshitake, T., Harrington, K., Law, P. T., Fujimoto, J. G., Rosen, S., (2019) "Maximizing Data Retrieval From Renal Biopsy Tissue Using Nonlinear Microscopy: Examining the Paraffin Block After Processing". In Annual Meeting of United States and Canadian Academy of Pathology.
+14.  Magbunduku, L., Harrington, K., (2017) "Dynamic Habitat Construction Through Evolving 3D Swarms". In Living Architectures Workshop at the European Conference on Artificial
+Life,  doi
+13.  Faulkner-Jones, B. E., Rosen, D., Rosen, S., Harrington, K., Law, C., (2016) "Maximizing Information from the Renal Biopsy: Computer-Generated Three-Dimensional Constructs". In Laboratory Investigation, pp. 405a.  
+12.  Cussat-Blanc, S., K. Harrington, and J. Pollack, (2015) "Gene Regulatory Network Evolution Through Augmenting Topologies". In Proceedings of GECCO 2015, Hot-off-the-press., in
+press.  
+11.  Harrington, K I S, T. Stiles, L. Venkatraman, C. Prahst, K. Bentley, (2015) "Functional Image Processing in ImageJ/FIJI". In Proceedings of Bioimage Informatics, in press.  pdf 10.  Harrington, K I S, B. Faulkner-Jones, K. Bentley, S. Rosen, (2015) "Automated Quantification of Renal Microvascular Abnormalities: A Novel Computational Mapping Approach". In Proceedings of the American Society of Nephrology, in press.  
+9.  Harrington, K I S, C. Prahst, C. Yoon, B. Lavina Siemsen, K. Bentley, (2015) "Quantitative Image Analysis Reveals Multiscale Patterns in Vascular Networks". In Gordon Research Conference
+on Angiogenesis, pp. .  
+8.  Gold, J., A. Wang, C. Girabawe, K. Harrington, and S. Fraden, (2014) "Modelling Nonlinear Chemical Oscillators with Inhibitory Coupling". In Proceedings of the Northeast Bioengineering Conference, pp. 1-2.  pdf
+7.  Harrington, K. I., M. Olsen, and H. Siegelmann, (2012) "Computational Neuroecology of Communicated Somatic Markers". In Proceedings of Artificial Life XIII, pp. 555-556.  pdf
+6.  Spector, L., T. Helmuth, and K. Harrington, (2011) "Fecundity and Selectivity in Evolutionary Computation". In Proceedings of the 13th annual conference companion on Genetic and evolutionary computation, pp. 129-130.  pdf
+5.  Harrington, K. I., and J. B. Pollack, (2010) "Robot Phylogenetics". In Proceedings of the 12th annual conference companion on Genetic and evolutionary computation, pp. 2077-2078.  pdf
+4.  Heymann, M., K. I. Harrington, J. Pollack, and S. Fraden, (2010) "En route to signal inversion in chemical computing". In Proceedings of Artificial Life XII, pp. 166-167.  pdf
+3.  Harrington, K. I., (2007) "Predicting Reactions from Amino Acid Sequences in S. cerevisiae: an Evolutionary Computation Approach". In Proceedings of the 2007 GECCO conference companion on Genetic and evolutionary computation, pp. 2725-2728.  
+2.  Harrington, K., and H. Siegelmann, (2006) "Adaptive Multi-modal Sensors". In Proceedings of the 50th Anniversary Summit of Artificial Intelligence, pp. 163-164.  
+1.  Spector, L., J. Klein, K. Harrington, and R. Coppinger, (2005) "Teaching the Evolution of Behavior with SuperDuperWalker". In Proceedings of the 12th International Conference on Artificial Intelligence in Education, pp. 923-925.  pdf
+
+** Other publications
+   :PROPERTIES:
+   :CUSTOM_ID: other-publications
+   :END:
+2.  Harrington, K. I. S, (2014) "Escalation of Coevolutionary Arms Races". In Department of Computer Science, Brandeis University.  pdf
+1.  Harrington, K., and J. Pollack, (2011) "Zipper-based Meta-Genetic Programming". In Technical Report Brandeis University CS-11-275.  pdf
+
+** Talks
+   :PROPERTIES:
+   :CUSTOM_ID: talks
+   :END:
+40.  Harrington, K I S, (2021) "Algorithms and computational tools for image data analysis across scales (keynote)". Ultrahigh Field Magnetic Resonance Symposium, Berlin, Germany  
+39.  Harrington, K I S, (2021) "Image data solutions across biological scales". Max Delbrueck Center for Molecular Medicine, Berlin, Germany  
+38.  Harrington, K I S, (2021) "Image Data Solutions for Systems Biology and Beyond (invited)". Center for Advanced Systems Understanding (CASUS), Goerliz, Germany  
+37.  Harrington, K I S, (2020) "Emergence of animal conflict from neurodevelopmental wiring: an artificial life model". J-theory, Janelia Research Campus, Howard Hughes Medical Institute   36.  Harrington, K I S, (2019) "Multiscale modeling and visualization with biological images". Center for Cell Analysis and Modeling Seminar, UConn, Farmington, CT
+35.  Harrington, K I S, (2019) "Modeling from Morphology to Molecules: Blood Vessels to Synaptic Plasticity". J-theory, Janelia Research Campus, Howard Hughes Medical Institute  
+34.  Harrington, K I S, (2019) "The Artificial Life of Image-based Modeling for Morphogenesis". Image-based Modeling and Simulation 2019  
+33.  Harrington, K I S, (2018) "Bringing biological images to life: modeling and visualization". Wisconsin Institute for Discovery  
+32.  Harrington, K I S, (2018) "Evolution of genetically-regulated swarming strategies". HHMI Collective Computation Conference  
+31.  Harrington, K I S, (2017) "Image-based Modeling". Data Science Day, Washington State University, Pullman, WA  
+30.  Harrington, K I S, (2017) "Functional Scientific Programming: Bringing Images to Life". BosLab, Somerville, MA  
+29.  Harrington, K I S, (2017) "Image-based Computational Biology". IBEST, UIdaho, Moscow, ID  
+28.  Harrington, K I S, (2017) "Fishing is in the Blood: Modeling, Quantification and Visualization of Zebrafish Vascular Development". Max Planck Institute for Molecular Cell Biology and Genetics  
+27.  Harrington, K I S, (2017) "Computational Modeling of Physical Systems: from Chemistries to
+Organisms (invited)". IRIT Symposium, University of Toulouse  
+26.  Harrington, K I S, (2017) "Machine Learning (invited)". 2IS Innovative Information Systems, University of Toulouse  
+25.  Harrington, K I S, (2017) "Escalation of Complexity through Competition". BEACON Institute, Michigan State University, East Lansing, MI & UIdaho, Moscow, ID  
+24.  Harrington, K I S, (2017) "Image-based Modeling for Biological Systems (invited)". 2017 NIH IDeA Western Regional Conference  
+23.  Harrington, K I S, (2017) "Biological Image Analysis using the ImageJ/Fiji Software Ecosystem". ImageXD, University of Washington, Seattle, WA
+22.  Harrington, K I S, (2017) "Developing Computational Models with Biological Images". Mathematical Biology Seminar, Washington State University, Pullman, WA  
+21.  Harrington, K I S, (2016) "Escalation in the Complexity of Cooperative Strategies".
+University of Idaho, Institute for Bioinformatics and Evolutionary Studies, Moscow, ID  
+20.  Harrington, K I S, (2016) "Virtual Morphogenesis: Toward Growing Models with Images". University of Wisconsin, Laboratory for Optical and Computational Instrumentation, Madison, WI  
+19.  Harrington, K I S, (2016) "Virtual Morphogenesis: Directing Pattern Formation". University of Idaho, Center for Modeling Complex Interactions, Moscow, ID  
+18.  Harrington, K I S, (2016) "Virtualization and Simulation for Biology and Evolution". Idaho EPSCoR Annual Meeting, Coeur d'Alene, ID  
+17.  Harrington, K I S, (2015) "Scientific Computing in Clojure". Clojure/Conj 2015, Philadelphia, PA  
+16.  Harrington, K I S, T. Stiles, L. Venkatraman, C. Prahst, K. Bentley, (2015) "Functional Image Processing in ImageJ/FIJI". Bioimage Informatics 2015, National Institute of Standards and Technology, Gaithersburg, MD  
+15.  Harrington, K., (2014) "Evolution, the First Programmer". HHMI Interfaces Award Lecture Series, Waltham, MA  
+14.  Harrington, K., A. Brilot, (2014) "Bridging Structure and Evolution". HHMI Interfaces Award Lecture Series, Waltham, MA  
+13.  Harrington, K., J. Freeman, J. Pollack, (2014) "Coevolution in Hide and Seek: Camouflage and Vision". ALife 14, New York, NY  
+12.  Harrington, K., E. Awa, S. Cussat-Blanc, J. Pollack, (2013) "Robot Coverage Control by Evolved Neuromodulation". IJCNN, Dallas, TX  
+11.  Harrington, K., J. Chin, (2013) "Embracing the Inner Cyborg: the Computational Immunology of Organ Transplantation". Quantitative Biology Graduate Talks, Waltham, MA  
+10.  Ozisik, A. P., Harrington, K. I., (2012) "The Effect of Tags on the Evolution of Honest Signaling". GECCO-2012, Philadelphia, PA  
+9.  Harrington, K. I., L. Spector, J. B. Pollack, U.M. O'Reilly, (2012) "Autoconstructive Evolution for Structural Problems". GECCO-2012, Philadelphia, PA  
+8.  Harrington, K., M. Olsen, H. Siegelmann, (2011) "Communicated Somatic Markers Benefit the Individual and the Species". IJCNN, San Jose, CA  
+7.  Harrington, K., (2011) "Evolving Evolution". Quantitative Biology Graduate Talks, Waltham, MA  
+6.  Harrington, K., (2011) "Evolving Evolution: part 1, Variation". ALFA Group, MIT, Cambridge, MA  
+5.  Harrington, K., E. Tosch, L. Spector, J. Pollack, (2011) "Compositional Autoconstructive
+Dynamics". ICCS, Quincy, MA  
+4.  Harrington, K. I., J. B. Pollack, (2010) "Robot Phylogenetics". GECCO-2010, Portland, OR   3.  Harrington, K., (2010) "Attention to Details: from a Single-Cell to a Multi-cellular
+Observer". Boston College, Boston, MA  
+2.  Harrington, K., (2008) "Artificial Embryogenesis". Greythumb Artificial Life Group, Cambridge, MA  
+1.  Harrington, K., (2007) "Predicting Reactions from Amino Acid
+Sequences in S. cerevisiae: an Evolutionary Computation Approach".
+GECCO-2007, London, UK  
+
+** Posters
+   :PROPERTIES:
+   :CUSTOM_ID: posters
+   :END:
+12.  Harrington, K I S, B. E. Faulkner-Jones, K. Bentley, S. Rosen, (2015) "Automated quantification of renal microvascular abnormalities: A novel computational mapping approach". American Society of Nephrology 2015, San Diego, CA  
+11.  Harrington, K I S, C. Prahst, C. Yoon, B. Lavina Siemsen, K. Bentley, (2015) "Quantitative Image Analysis Reveals Multiscale Patterns in Vascular Networks". Gordon Research Conference on
+Angiogenesis  
+10.  Lowell, J., K. Harrington, J. Pollack, (2014) "The Resilience of a Swarm Ecosystem Under Environmental Variation". ALife 14, New York, NY  
+9.  Gold, J., A. Wang, C. Girabawe, K. Harrington, S. Fraden, (2014) "Modelling Nonlinear Chemical Oscillators with Inhibitory Coupling". Northeast Bioengineering Conference, Boston, MA  
+8.  Gold, J., A. Wang, K. Harrington, (2014) "Feedback Control of Evolving Swarms". ALife 14, New York, NY   7.  Chin, J., K. Harrington, (2013) "Evolutionary Pressures of Dynamic Peptide Fragments on Immunological Selectivity". Brandeis Scifest, Waltham, MA  
+6.  Harrington, K., (2013) "Brevis, a Functional Artificial Life Simulator". Volen Complex Systems Retreat, Provincetown, MA  
+5.  Gold, J., A. Wang, K. Harrington, S. Fraden, J. Pollack, (2013) "Computing with Nonlinear Chemical Oscillators at the Microfluidic Scale". Brandeis Scifest, Waltham, MA  
+4.  Bardasu, A., K. Harrington, (2013) "Coevolving Fitness Predictors for Pairwise Games". Brandeis Scifest, Waltham, MA  
+3.  Harrington, K., M. Olsen, H. Siegelmann, (2012) "Computational Neuroecology of Communicated Somatic Markers". ALife 13, E. Lansing, MI  
+2.  Harrington, K., A. P. Ozisik, J. Pollack, (2012) "The Effects of Finite Populations and Selection on the Emergence of Signaling". ALife 13, E. Lansing, MI  
+1.  Harrington, K., H. Siegelmann, (2006) "Adaptive Multi-modal Sensors". Monte Verita, Switzerland  
+
+#+INCLUDE: "footer.org"

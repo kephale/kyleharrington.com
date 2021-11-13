@@ -1,0 +1,118 @@
+#+SETUPFILE: theme/theme-bigblow-local.setup
+#+INCLUDE: "header.org"
+
+** Current
+   :PROPERTIES:
+   :CUSTOM_ID: current
+   :END:
+
+- Group Leader,    
+  Image Data Analysis,    
+  Max Delbrueck Center for Molecular Medicine.
+- Team Leader,    
+  Helmholtz Imaging Platform,    
+  Max Delbrueck Center for Molecular Medicine.
+
+** Education
+   :PROPERTIES:
+   :CUSTOM_ID: education
+   :END:
+
+- Postdoctoral Fellow, Pathology,    
+  Harvard Medical School (2014-2016)
+- PhD, Computer Science,    
+  Brandeis University (2014)    
+  Supplemental PhD Specialization: Quantitative Biology,
+- M.A., Computer Science,    
+  Brandeis University (2010)
+- B.A., Artificial Life,    
+  Hampshire College (2007)
+
+** Positions
+   :PROPERTIES:
+   :CUSTOM_ID: positions
+   :END:
+
+- Group Leader, 2020 - present,    
+  Image Data Analysis,    
+  Max Delbrueck Center for Molecular Medicine.
+- Team Leader, 2020 - present,    
+  Helmholtz Imaging Platform,    
+  Max Delbrueck Center for Molecular Medicine.
+- Assistant Professor, 2016 - 2021,    
+  Virtual Technology and Design,    
+  University of Idaho, Moscow.
+- Computational Scientist Consultant, 2019 - 2020,    
+  Janelia Research Campus,    
+  Howard Hughes Medical Institute.\\
+- Visiting Scientist, 2018 - 2019,    
+  Janelia Research Campus,    
+  Howard Hughes Medical Institute.
+- Machine Learning Scientist, 2018 - 2019,    
+  DARPA/MTO & DARPA/I2O,    
+  ECS Federal, Arlington VA.
+- Visiting Professor, 2017,    
+  Computer Science,    
+  University of Toulouse, France.
+- Visiting Professor, 2017,    
+  Center for Systems Biology Dresden at 
+  Max Planck Institute for Cell Biology and Genetics,    
+  Max Planck Institute for Physical Complex Systems,    
+  Technical University of Dresden
+- Postdoctoral Fellow, 2014 - 2016,    
+  Bentley Group, Beth Israel Deaconess Medical Center,    
+  Harvard Medical School.
+- Lecturer, 2016,    
+  Department of Computer Science,    
+  Tufts University.
+- Visiting Scientist, 2014,    
+  Grigorieff Lab,     
+  Howard Hughes Medical Institute, Janelia Farm.
+- Graduate Research and Teaching Assistant, 2008 - 2014,    
+  DEMO Lab,    
+  Computer Science, Brandeis University.
+- Visiting Scholar, 2010 - 2012,    
+  BINDS Lab,    
+  University of Massachusetts, Amherst.
+- Instructor of Computer Science, 2007 - 2008,    
+  Hampshire College.
+
+** Funding
+   :PROPERTIES:
+   :CUSTOM_ID: funding
+   :END:
+
+- Max Delbrueck Center for Molecular Medicine (2020-present),
+  Funding awarded: €400,000.00 (PI) €47,900.00 (co-PI)    
+  Funding applied: €651,238.81 (PI) €447,900 (co-PI)
+- University of Idaho (2016-2021),    
+  Funding awarded: $289,345.00 (PI) $118,914.00 (co-PI)    
+  Funding applied: $2,192,129.4 (PI) $4,373,315.69 (co-PI)
+
+** Awards and Activities
+   :PROPERTIES:
+   :CUSTOM_ID: awards-and-activities
+   :END:
+
+- Associate Editor, Frontiers in Bioinformatics, Computational Bioimaging (2020 - present)
+- Member, Program Committee, Conference on Artificial Life, 2020-2021
+- Member, Program Committee for Evolutionary Machine Learning, GECCO, 2018-2019
+- Panelist, National Institutes of Health - 2019
+- Panelist, National Science Foundation - 2019
+- Visiting Researcher, Royal Veterinary College (Host: Doube; Sponsor: Royal Society) - 2018
+- Panelist, National Science Foundation - 2017
+- Mentor, ClojureBridge Boston: Programming Workshop for Underrepresented Groups - 2016-2017
+- Selected speaker (Scientific Computing in Clojure), Clojure/Conj - 2015
+- Discussion Leader, Gordon Research Seminar on Angiogenesis - 2015
+- BMC Ecology Competition Winner for Best Image from Theoretical Model - 2014
+- HHMI Interfaces Scholar Award - 2014
+- SIGEVO / ACM travel grant for GECCO-2012 - 2012
+- NSF travel grant for IJCNN-2011 - 2011
+
+** Reviewing
+   :PROPERTIES:
+   :CUSTOM_ID: reviewing
+   :END:
+Wellcome Open Research, JoVE, Frontiers in Cell and Developmental Biology, Artificial Life, Bioinformatics, Nature Communications, BMC Biotechnology, ACS Synthetic Biology, IEEE Trans. on Neural Networks and Learning Systems, Theoretical Computer Science, Physics Letters A, Sensors, Neural Networks, BioSystems, Biotechniques, Frontiers in Computational Neuroscience, IEEE Trans. on Neural Networks, IEEE Trans. on Autonomous Mental Development, Optimization Letters, Emotion Review, IEEE-RAS Int'l Conf. on Humanoid Robotics, IEEE Int'l Joint Conf. on Neural Networks, IEEE Sym. Series on Computational Intelligence, Genetic and Evolutionary Computation Conference
+
+#+INCLUDE: "footer.org"
