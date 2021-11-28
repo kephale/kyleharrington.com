@@ -1,3 +1,4 @@
+#+TITLE: Kyle Harrington
 #+SETUPFILE: theme/theme-bigblow-local.setup
 #+INCLUDE: "header.org"
 

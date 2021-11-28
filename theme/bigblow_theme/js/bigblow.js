@@ -53,10 +53,10 @@ function generateMiniToc(divId) {
                              + text + "</a>");
     });
     // Ensure that the target is expanded (hideShow)
-    $('#minitoc a[href^="#"]').click(function() {
-        var href = $(this).attr('href');
-        hsExpandAnchor(href);
-    });
+    // $('#minitoc a[href^="#"]').click(function() {
+    //     var href = $(this).attr('href');
+    //     hsExpandAnchor(href);
+    // });
 }
 
 // display tabs
@@ -95,12 +95,13 @@ function tabifySections() {
     }
 
     // insert tabs menu after title (`h1'), or at the beginning of the content
-    if($('.title').length !== 0) {
-        $('.title').after(tabs);
-    }
-    else {
-        $('#content').prepend(tabs);
-    }
+    // if($('.title').length !== 0) {
+    //     $('.title').after(tabs);
+    // }
+    // else {
+    //     $('#content').prepend(tabs);
+    // }
+    $('#content').prepend(tabs);
 
 }
 
@@ -184,7 +185,7 @@ $(document).ready(function() {
     });
 
     // Initialize hideShow
-    hsInit();
+    //hsInit();
 
     // add sticky headers to tables
     $('table').stickyTableHeaders();
