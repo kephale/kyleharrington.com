@@ -101,6 +101,7 @@ function tabifySections() {
     else {
         $('#content').prepend(tabs);
     }
+
 }
 
 function selectTabAndScroll(href) {

@@ -1,5 +1,10 @@
 # -*- mode: org; -*-
 
+#+HTML_HEAD: <title>Kyle Harrington</title>
+
+#+HTML_HEAD: <!-- Global site tag (gtag.js) - Google Analytics --><script async src="https://www.googletagmanager.com/gtag/js?id=UA-100347549-2"></script><script>  window.dataLayer = window.dataLayer || [];  function gtag(){dataLayer.push(arguments);}  gtag('js', new Date());  gtag('config', 'UA-100347549-2');</script>
+
+
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="theme/bigblow_theme/css/htmlize.css"/>
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="theme/bigblow_theme/css/bigblow.css"/>
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="theme/bigblow_theme/css/hideshow.css"/>
@@ -13,6 +18,8 @@
 #+HTML_HEAD: <script type="text/javascript" src="theme/bigblow_theme/js/bigblow.js"></script>
 #+HTML_HEAD: <script type="text/javascript" src="theme/bigblow_theme/js/hideshow.js"></script>
 #+HTML_HEAD: <script type="text/javascript" src="theme/lib/js/jquery.stickytableheaders.min.js"></script>
+
+
 
 #+BIND: org-html-footnotes-section:"<div id=\"%s\"><h2 class=\"footnotes\"></h2><div id=\"text-footnotes\">%s</div></div>"
 #+BIND: org-html-footnote-format:"<p hidden>%s</p>"
