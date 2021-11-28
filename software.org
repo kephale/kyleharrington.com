@@ -1,5 +1,8 @@
+#+TITLE: Kyle Harrington
 #+SETUPFILE: theme/theme-bigblow-local.setup
 #+INCLUDE: "header.org"
+
+[[https://github.com/kephale][On Github]] and [[https://gitlab.com/kharrington][on Gitlab]]
 
 - [[https://album.solutions][album]]: album is a tool for sharing and creating polyglot, multi-tool scientific software solutions
 - [[https://github.com/morphonets/SNT][SNT]]: SNT is a semi-automated tracing, visualization, analysis, and modeling tool for neuronal analysis
