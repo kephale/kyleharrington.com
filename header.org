@@ -9,9 +9,10 @@
   <td style="vertical-align:bottom"><a href="./software.html">software</a></td>
   <td style="vertical-align:bottom"><a href="./teaching.html">teaching</a></td>
   <td>
-    <table>
+    <table cellspacing="0" cellpadding="0">
     <tr>
-    <td><td style="vertical-align:bottom"><tiny>Kyle I. S. Harrington, Ph.D.,</td>
+    <td style="vertical-align:bottom"><tiny>Kyle I. S. Harrington, Ph.D.,</td>
+    <td></td>
     </tr><tr>
     <td>Senior Researcher,</td>
     <td>Group Leader,</br>
