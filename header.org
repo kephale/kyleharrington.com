@@ -9,7 +9,7 @@
   <td style="vertical-align:bottom"><a href="./software.html">software</a></td>
   <td style="vertical-align:bottom"><a href="./teaching.html">teaching</a></td>
   <td>
-    <table cellspacing="0" cellpadding="0">
+    <table cellspacing="0" cellpadding="0" style="padding: 0.5vw; border: none; max-width:100%; max-height:10%; background: transparent;">
     <tr>
     <td style="vertical-align:bottom"><tiny>Kyle I. S. Harrington, Ph.D.,</td>
     <td></td>
