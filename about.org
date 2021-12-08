@@ -7,10 +7,12 @@
    :CUSTOM_ID: current
    :END:
 
-- Group Leader,    
+- Senior Researcher,  
+  Oak Ridge National Laboratory,  
+  Oak Ridge, TN, USA  
+
+- Guest Group Leader,    
   Image Data Analysis,    
-  Max Delbrueck Center for Molecular Medicine.
-- Team Leader,    
   Helmholtz Imaging Platform,    
   Max Delbrueck Center for Molecular Medicine.
 
@@ -34,10 +36,15 @@
    :CUSTOM_ID: positions
    :END:
 
-- Group Leader, 2020 - present,    
+- Senior Researcher, 2021 - present,  
+  Oak Ridge National Laboratory,  
+  Oak Ridge, TN, USA  
+- Guest Group Leader, 2021 - present,    
   Image Data Analysis,    
+  Helmholtz Imaging Platform,    
   Max Delbrueck Center for Molecular Medicine.
-- Team Leader, 2020 - present,    
+- Group Leader, 2020 - 2021,    
+  Image Data Analysis,    
   Helmholtz Imaging Platform,    
   Max Delbrueck Center for Molecular Medicine.
 - Assistant Professor, 2016 - 2021,    
