@@ -22,4 +22,6 @@
 <td>Berlin, Germany</td>
 </tr>
 </table>
+</tr>
+</table>
 #+END_EXPORT
