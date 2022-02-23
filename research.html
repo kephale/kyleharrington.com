@@ -3,7 +3,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2021-11-28 Sun 14:45 -->
+<!-- 2022-02-23 Wed 13:16 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Kyle Harrington</title>
@@ -40,7 +40,7 @@
   }
   pre.src {
     position: relative;
-    overflow: visible;
+    overflow: auto;
     padding-top: 1.2em;
   }
   pre.src:before {
@@ -52,7 +52,7 @@
     padding: 3px;
     border: 1px solid black;
   }
-  pre.src:hover:before { display: inline;}
+  pre.src:hover:before { display: inline; margin-top: 14px;}
   /* Languages per Org manual */
   pre.src-asymptote:before { content: 'Asymptote'; }
   pre.src-awk:before { content: 'Awk'; }
@@ -207,50 +207,26 @@
 <script type="text/javascript" src="theme/bigblow_theme/js/hideshow.js"></script>
 <script type="text/javascript" src="theme/lib/js/jquery.stickytableheaders.min.js"></script>
 <script type="text/javascript">
-/*
-@licstart  The following is the entire license notice for the
-JavaScript code in this tag.
-
-Copyright (C) 2012-2020 Free Software Foundation, Inc.
-
-The JavaScript code in this tag is free software: you can
-redistribute it and/or modify it under the terms of the GNU
-General Public License (GNU GPL) as published by the Free Software
-Foundation, either version 3 of the License, or (at your option)
-any later version.  The code is distributed WITHOUT ANY WARRANTY;
-without even the implied warranty of MERCHANTABILITY or FITNESS
-FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
-
-As additional permission under GNU GPL version 3 section 7, you
-may distribute non-source (e.g., minimized or compacted) forms of
-that code without the copy of the GNU GPL normally required by
-section 4, provided you include this license notice and a URL
-through which recipients can access the Corresponding Source.
-
-
-@licend  The above is the entire license notice
-for the JavaScript code in this tag.
-*/
+// @license magnet:?xt=urn:btih:e95b018ef3580986a04669f1b5879592219e2a7a&dn=public-domain.txt Public Domain
 <!--/*--><![CDATA[/*><!--*/
- function CodeHighlightOn(elem, id)
- {
-   var target = document.getElementById(id);
-   if(null != target) {
-     elem.cacheClassElem = elem.className;
-     elem.cacheClassTarget = target.className;
-     target.className = "code-highlighted";
-     elem.className   = "code-highlighted";
-   }
- }
- function CodeHighlightOff(elem, id)
- {
-   var target = document.getElementById(id);
-   if(elem.cacheClassElem)
-     elem.className = elem.cacheClassElem;
-   if(elem.cacheClassTarget)
-     target.className = elem.cacheClassTarget;
- }
-/*]]>*///-->
+     function CodeHighlightOn(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.add("code-highlighted");
+         target.classList.add("code-highlighted");
+       }
+     }
+     function CodeHighlightOff(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.remove("code-highlighted");
+         target.classList.remove("code-highlighted");
+       }
+     }
+    /*]]>*///-->
+// @license-end
 </script>
 </head>
 <body>
@@ -258,20 +234,32 @@ for the JavaScript code in this tag.
 <h1 class="title">Kyle Harrington</h1>
 <table>
 <tr>
-<td><a href="https://kyleharrington.com" \><img src="./assets/header_logo_100.jpg"></a></td>
-<td style="vertical-align:bottom"><a href="./about.html">about</a></td>
-<td style="vertical-align:bottom"><a href="./research.html">research</a></td>
-<td style="vertical-align:bottom"><a href="./software.html">software</a></td>
-<td style="vertical-align:bottom"><a href="./teaching.html">teaching</a></td>
-<td style="vertical-align:bottom"><tiny>Kyle I. S. Harrington, Ph.D.,</br>
-Group Leader,</br>
-Image Data Analysis,</br>
-Max Delbrueck Center for Molecular Medicine in the Helmholtz Association,</br>
-Berlin, Germany</tiny></td>
+  <td><a href="https://kyleharrington.com" \><img src="./assets/header_logo_100.jpg"></a></td>
+  <td style="vertical-align:bottom"><a href="./about.html">about</a></td>
+  <td style="vertical-align:bottom"><a href="./research.html">research</a></td>
+  <td style="vertical-align:bottom"><a href="./software.html">software</a></td>
+  <td style="vertical-align:bottom"><a href="./teaching.html">teaching</a></td>
+  <td>
+    <table cellspacing="0" cellpadding="0" style="padding: 0.5vw; border: none; max-width:100%; max-height:10%; background: transparent;">
+    <tr>
+    <td style="vertical-align:bottom"><tiny>Kyle I. S. Harrington, Ph.D.,</td>
+    <td></td>
+    </tr><tr>
+    <td>Senior Researcher,</td>
+    <td>Group Leader (guest),</br>
+    </tr><tr>
+    <td>Oak Ridge National Laboratory,</td>
+    <td>Max Delbrueck Center for Molecular Medicine in the Helmholtz Association,</td>
+    </tr><tr>
+    <td>Oak Ridge, TN, USA</td>
+    <td>Berlin, Germany</td>
+    </tr>
+    </table>
+  </td>
 </tr>
 </table>
 
-<div id="outline-container-org5bd12d6" class="outline-2">
+<div id="outline-container-indices-and-databases" class="outline-2">
 <h2 id="indices-and-databases"><span class="section-number-2">1</span> Indices and Databases</h2>
 <div class="outline-text-2" id="text-indices-and-databases">
 <p>
@@ -283,7 +271,7 @@ Berlin, Germany</tiny></td>
 
 
 
-<div id="outline-container-org72b93ef" class="outline-2">
+<div id="outline-container-journal-articles" class="outline-2">
 <h2 id="journal-articles"><span class="section-number-2">2</span> Journal Articles</h2>
 <div class="outline-text-2" id="text-journal-articles">
 <p>
@@ -318,7 +306,7 @@ pp. e28230.  pdf<br />
 </div>
 </div>
 
-<div id="outline-container-org4574c44" class="outline-2">
+<div id="outline-container-peer-reviewed-conference-and-workshop-papers" class="outline-2">
 <h2 id="peer-reviewed-conference-and-workshop-papers"><span class="section-number-2">3</span> Peer-reviewed conference and workshop papers</h2>
 <div class="outline-text-2" id="text-peer-reviewed-conference-and-workshop-papers">
 <p>
@@ -351,7 +339,7 @@ Dynamics Cellular Automata Encourage Collective Behavior". In Unifying Themes in
 </div>
 </div>
 
-<div id="outline-container-org06ed2a6" class="outline-2">
+<div id="outline-container-preprints" class="outline-2">
 <h2 id="preprints"><span class="section-number-2">4</span> Preprints</h2>
 <div class="outline-text-2" id="text-preprints">
 <p>
@@ -362,7 +350,7 @@ arXiv:1812.03365. pdf<br />
 </div>
 </div>
 
-<div id="outline-container-org0d7f3ff" class="outline-2">
+<div id="outline-container-book-chapters" class="outline-2">
 <h2 id="book-chapters"><span class="section-number-2">5</span> Book chapters</h2>
 <div class="outline-text-2" id="text-book-chapters">
 <p>
@@ -373,7 +361,7 @@ arXiv:1812.03365. pdf<br />
 </div>
 </div>
 
-<div id="outline-container-org8df4c2d" class="outline-2">
+<div id="outline-container-short-papers-and-abstracts" class="outline-2">
 <h2 id="short-papers-and-abstracts"><span class="section-number-2">6</span> Short papers and abstracts</h2>
 <div class="outline-text-2" id="text-short-papers-and-abstracts">
 <p>
@@ -398,7 +386,7 @@ on Angiogenesis, pp. .  <br />
 </div>
 </div>
 
-<div id="outline-container-org3fff255" class="outline-2">
+<div id="outline-container-other-publications" class="outline-2">
 <h2 id="other-publications"><span class="section-number-2">7</span> Other publications</h2>
 <div class="outline-text-2" id="text-other-publications">
 <p>
@@ -408,15 +396,16 @@ on Angiogenesis, pp. .  <br />
 </div>
 </div>
 
-<div id="outline-container-org9ec46f1" class="outline-2">
+<div id="outline-container-talks" class="outline-2">
 <h2 id="talks"><span class="section-number-2">8</span> Talks</h2>
 <div class="outline-text-2" id="text-talks">
 <p>
 41.  Harrington, K I S, (2021) "Algorithms and computational tools for image data analysis across scales". iNAMES Graduate Program, Max Delbrueck Center for Molecular Medicine, Berlin, Germany  <br />
 40.  Harrington, K I S, (2021) "Algorithms and computational tools for image data analysis across scales (keynote)". Ultrahigh Field Magnetic Resonance Symposium, Berlin, Germany  <br />
 39.  Harrington, K I S, (2021) "Image data solutions across biological scales". Max Delbrueck Center for Molecular Medicine, Berlin, Germany  <br />
-38.  Harrington, K I S, (2021) "Image Data Solutions for Systems Biology and Beyond (invited)". Center for Advanced Systems Understanding (CASUS), Goerliz, Germany  <br />
-37.  Harrington, K I S, (2020) "Emergence of animal conflict from neurodevelopmental wiring: an artificial life model". J-theory, Janelia Research Campus, Howard Hughes Medical Institute   36.  Harrington, K I S, (2019) "Multiscale modeling and visualization with biological images". Center for Cell Analysis and Modeling Seminar, UConn, Farmington, CT<br />
+38.  Harrington, K I S, (2021) "Image Data Solutions for Systems Biology and Beyond (invited)". Center for Advanced Systems Understanding (CASUS), Goerlitz, Germany  <br />
+37.  Harrington, K I S, (2020) "Emergence of animal conflict from neurodevelopmental wiring: an artificial life model". J-theory, Janelia Research Campus, Howard Hughes Medical Institute  <br />
+36.  Harrington, K I S, (2019) "Multiscale modeling and visualization with biological images". Center for Cell Analysis and Modeling Seminar, UConn, Farmington, CT<br />
 35.  Harrington, K I S, (2019) "Modeling from Morphology to Molecules: Blood Vessels to Synaptic Plasticity". J-theory, Janelia Research Campus, Howard Hughes Medical Institute  <br />
 34.  Harrington, K I S, (2019) "The Artificial Life of Image-based Modeling for Morphogenesis". Image-based Modeling and Simulation 2019  <br />
 33.  Harrington, K I S, (2018) "Bringing biological images to life: modeling and visualization". Wisconsin Institute for Discovery  <br />
@@ -461,7 +450,7 @@ GECCO-2007, London, UK  <br />
 </div>
 </div>
 
-<div id="outline-container-org0e45b9f" class="outline-2">
+<div id="outline-container-posters" class="outline-2">
 <h2 id="posters"><span class="section-number-2">9</span> Posters</h2>
 <div class="outline-text-2" id="text-posters">
 <p>
@@ -495,8 +484,8 @@ Angiogenesis  <br />
 </div></div>
 <div id="postamble" class="status">
 <p class="author">Author: Harrington</p>
-<p class="date">Created: 2021-11-28 Sun 14:45</p>
-<p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
+<p class="date">Created: 2022-02-23 Wed 13:16</p>
+<p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>
 </html>

@@ -15,7 +15,7 @@
     <td></td>
     </tr><tr>
     <td>Senior Researcher,</td>
-    <td>Group Leader,</br>
+    <td>Group Leader (guest),</br>
     </tr><tr>
     <td>Oak Ridge National Laboratory,</td>
     <td>Max Delbrueck Center for Molecular Medicine in the Helmholtz Association,</td>
