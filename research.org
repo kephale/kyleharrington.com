@@ -93,8 +93,8 @@ arXiv:1812.03365. pdf
    :PROPERTIES:
    :CUSTOM_ID: short-papers-and-abstracts
    :END:
-17.   Harrington, K., Hinkle, J., Ferreira, T., Wolf, M., Xu, W., Geveci, B., Lee, Y., (2022) "Interactive Visualization Solutions for Large-scale Complex Image Data". In ASCR Workshop on Visualization for Scientific Discovery, Decision-Making, & Communication.
-16.   Harrington, K., (2021) "Quantitative methods for research software community management". In Workshop on the Science of Scientific-Software Development and Use.
+17.   Harrington, K., Hinkle, J., Ferreira, T., Wolf, M., Xu, W., Geveci, B., Lee, Y., (2022) "Interactive Visualization Solutions for Large-scale Complex Image Data". In ASCR Workshop on Visualization for Scientific Discovery, Decision-Making, & Communication. [[https://kyleharrington.com/HarringtonK_InteractiveVisualizationSolutionsForLargeScaleComplexImageData.pdf][pdf]]
+16.   Harrington, K., (2021) "Quantitative methods for research software community management". In Workshop on the Science of Scientific-Software Development and Use. [[https://kyleharrington.com/HarringtonK_QuantitativeMethodsForResearchSoftwareCommunityManagement.pdf][pdf]]
 15.   Cahill, L. C., Rosen, M., Yoshitake, T., Harrington, K., Law, P. T., Fujimoto, J. G., Rosen, S., (2019) "Maximizing Data Retrieval From Renal Biopsy Tissue Using Nonlinear Microscopy: Examining the Paraffin Block After Processing". In Annual Meeting of United States and Canadian Academy of Pathology.
 14.  Magbunduku, L., Harrington, K., (2017) "Dynamic Habitat Construction Through Evolving 3D Swarms". In Living Architectures Workshop at the European Conference on Artificial
 Life,  doi
