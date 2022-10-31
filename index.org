@@ -2,7 +2,7 @@
 #+SETUPFILE: theme/theme-bigblow-local.setup
 #+INCLUDE: "header.org"
 
-I am a Senior Researcher at Oak Ridge National Lab in Oak Ridge, TN, USA, and a Guest Group Leader of Image Data Analysis and Team Leader for the [[https://www.helmholtz-imaging.de/][Helmholtz Imaging Platform]] at the [[https://www.mdc-berlin.de/][Max Delbrueck Center for Molecular Medicine]] in Berlin, Germany.
+I am a Senior Software Engineer on the Chan Zuckerberg Initiative, Science, Imaging team.
 
 *Research:* computational methods in the study of biological and physical processes  
 *Context:* scientific computing, artificial life, and computational/theoretical biology  
