@@ -31,6 +31,9 @@
    :CUSTOM_ID: positions
    :END:
 
+- Senior Software Engineer, 2022 - present,
+  Chan Zuckerberg Initiative,  
+  Alexandria, VA, USA     
 - Senior Researcher, 2021 - 2022,  
   Oak Ridge National Laboratory,  
   Oak Ridge, TN, USA  
