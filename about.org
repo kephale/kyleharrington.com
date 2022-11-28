@@ -7,14 +7,9 @@
    :CUSTOM_ID: current
    :END:
 
-- Senior Researcher,  
-  Oak Ridge National Laboratory,  
-  Oak Ridge, TN, USA  
-
-- Guest Group Leader,    
-  Image Data Analysis,    
-  Helmholtz Imaging Platform,    
-  Max Delbrueck Center for Molecular Medicine.
+- Senior Software Engineer,  
+  Chan Zuckerberg Initiative,  
+  Alexandria, VA, USA  
 
 ** Education
    :PROPERTIES:
@@ -36,10 +31,10 @@
    :CUSTOM_ID: positions
    :END:
 
-- Senior Researcher, 2021 - present,  
+- Senior Researcher, 2021 - 2022,  
   Oak Ridge National Laboratory,  
   Oak Ridge, TN, USA  
-- Guest Group Leader, 2021 - present,    
+- Guest Group Leader, 2021 - 2022,    
   Image Data Analysis,    
   Helmholtz Imaging Platform,    
   Max Delbrueck Center for Molecular Medicine.
@@ -90,7 +85,7 @@
    :CUSTOM_ID: funding
    :END:
 
-- Max Delbrueck Center for Molecular Medicine (2020-present),
+- Max Delbrueck Center for Molecular Medicine (2020-2022),
   Funding awarded: €400,000.00 (PI) €47,900.00 (co-PI)    
   Funding applied: €651,238.81 (PI) €447,900 (co-PI)
 - University of Idaho (2016-2021),    

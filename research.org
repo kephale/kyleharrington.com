@@ -22,7 +22,7 @@
    :END:
 
 21.  Epstein, L., Dubois, Z., Smith, J., Lee, Y., & Harrington, K. (2021). Complex population dynamics in a spatial microbial ecosystem with Physarum polycephalum. BioSystems, 208, 104483.
-20.  Bahry, E., Breimann, L., Epstein, L., Kolyvanov, K., Harrington, K. I.*, Lionnet, T.*, and Preibisch, S.* (2021). RS-FISH: Precise, interactive and scalable smFISH spot detection using Radial Symmetry. bioRxiv.
+20.  Bahry, E., Breimann, L., Zouinkhi, M., Epstein, L., Kolyvanov, K., Mamrak, N., King, B., Harrington, K. I.*, Lionnet, T.*, and Preibisch, S.* (2022). RS-FISH: Precise, interactive and scalable smFISH spot detection using Radial Symmetry. Nature Methods.
 ​* Co-corresponding authors
 19.  Arshadi, C., Günther, U., Eddison, M., Harrington, K. I., and Ferreira, T. A. (2021). SNT: a unifying toolbox for quantification of neuronal anatomy. Nature Methods, 18, 374--377.
 18.  Zakirov, B., Charalambous, G., Thuret, R., Aspalter, I. M., Van-Vuuren, K., Mead, T., Harrington, K., Regan, E., Herbert, S., and Bentley, K. (2021). Active perception during angiogenesis: filopodia speed up Notch selection of tip cells in silico and in vivo. Philosophical Transactions of the Royal Society B, 376(1821), 20190753.
