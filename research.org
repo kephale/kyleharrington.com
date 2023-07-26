@@ -131,6 +131,7 @@ on Angiogenesis, pp. .  
    :PROPERTIES:
    :CUSTOM_ID: talks
    :END:
+42.  Harrington, K I S, (2023) "State of the Art in Machine Learning for Bioimage Analysis (invited)". Microscopy and Microanalysis 2023, Minneapolis, MN USA   
 41.  Harrington, K I S, (2021) "Algorithms and computational tools for image data analysis across scales". iNAMES Graduate Program, Max Delbrueck Center for Molecular Medicine, Berlin, Germany  
 40.  Harrington, K I S, (2021) "Algorithms and computational tools for image data analysis across scales (keynote)". Ultrahigh Field Magnetic Resonance Symposium, Berlin, Germany  
 39.  Harrington, K I S, (2021) "Image data solutions across biological scales". Max Delbrueck Center for Molecular Medicine, Berlin, Germany  
