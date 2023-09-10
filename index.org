@@ -2,7 +2,7 @@
 #+SETUPFILE: theme/theme-bigblow-local.setup
 #+INCLUDE: "header.org"
 
-I am a Senior Software Engineer on the Chan Zuckerberg Initiative, Imaging, Science team.
+I am a Staff Software Engineer on the Chan Zuckerberg Initiative, Science, Imaging team.
 
 *Research:* computational methods in the study of biological and physical processes  
 *Context:* scientific computing, artificial life, and computational/theoretical biology  
