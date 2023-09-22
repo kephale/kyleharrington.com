@@ -14,7 +14,7 @@
     <td style="vertical-align:bottom"><tiny>Kyle I. S. Harrington, Ph.D.,</td>
     <td></td>
     </tr><tr>
-    <td>Senior Software Engineer,</td>
+    <td>Staff Software Engineer,</td>
     </tr><tr>
     <td>Chan Zuckerberg Initiative,</td>
     </tr><tr>
