@@ -3,7 +3,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2023-09-22 Fri 07:42 -->
+<!-- 2023-10-27 Fri 21:20 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Kyle Harrington</title>
@@ -370,61 +370,6 @@ Wellcome Open Research, JoVE, Frontiers in Cell and Developmental Biology, Artif
 <p>
 <sup><a id="fnr.1" class="footref" href="#fn.1" role="doc-backlink">1</a></sup><br />
 </p>
-
-<div class="org-src-container">
-<pre class="src src-ipython">import pandas as pd
-import matplotlib.pyplot as plt
-import matplotlib.dates as mdates
-
-positions = [
-    ("Senior Software Engineer, Chan Zuckerberg Initiative", "2022", "present"),
-    ("Senior Researcher, Oak Ridge National Laboratory", "2021", "2022"),
-    ("Guest Group Leader, Image Data Analysis, Helmholtz Imaging Platform", "2021", "2022"),
-    ("Group Leader, Image Data Analysis, Helmholtz Imaging Platform", "2020", "2021"),
-    ("Assistant Professor, Virtual Technology and Design, University of Idaho", "2016", "2021"),
-    ("Computational Scientist Consultant, Janelia Research Campus", "2019", "2020"),
-    ("Visiting Scientist, Janelia Research Campus", "2018", "2019"),
-    ("Machine Learning Scientist, DARPA/MTO &amp; DARPA/I2O", "2018", "2019"),
-    ("Visiting Professor, Computer Science, University of Toulouse", "2017", "2017"),
-    ("Visiting Professor, Center for Systems Biology Dresden", "2017", "2017"),
-    ("Postdoctoral Fellow, Bentley Group, Beth Israel Deaconess Medical Center", "2014", "2016"),
-    ("Lecturer, Department of Computer Science, Tufts University", "2016", "2016"),
-    ("Visiting Scientist, Grigorieff Lab", "2014", "2014"),
-    ("Graduate Research and Teaching Assistant, DEMO Lab, Computer Science, Brandeis University", "2008", "2014"),
-    ("Visiting Scholar, BINDS Lab, University of Massachusetts", "2010", "2012"),
-    ("Instructor of Computer Science, Hampshire College", "2007", "2008")
-]
-
-df = pd.DataFrame(positions, columns=["Position", "Start", "End"])
-
-# Replace "present" with current year for ongoing positions
-df["End"] = df["End"].replace("present", "2023")
-
-# Convert years to datetime
-df["Start"] = pd.to_datetime(df["Start"])
-df["End"] = pd.to_datetime(df["End"])
-
-# Create a color iterator
-colors = iter(plt.get_cmap("tab20").colors)
-
-fig, ax = plt.subplots(figsize=(10, 8))
-
-# Plot each position
-for _, row in df.iterrows():
-    ax.plot([row["Start"], row["End"]], [row["Position"], row["Position"]], color=next(colors), linewidth=4)
-
-# Improve formatting
-ax.get_xaxis().set_major_locator(mdates.YearLocator())
-ax.get_xaxis().set_minor_locator(mdates.YearLocator())
-ax.get_xaxis().set_major_formatter(mdates.DateFormatter("%Y"))
-ax.set_xlabel("Year")
-ax.set_ylabel("Position")
-ax.set_title("Career Timeline")
-plt.tight_layout()
-
-plt.savefig("career_timeline.svg")
-</pre>
-</div>
 </div>
 </div>
 <div id="footnotes">
@@ -438,7 +383,7 @@ plt.savefig("career_timeline.svg")
 </div></div>
 <div id="postamble" class="status">
 <p class="author">Author: Kyle Harrington</p>
-<p class="date">Created: 2023-09-22 Fri 07:42</p>
+<p class="date">Created: 2023-10-27 Fri 21:20</p>
 <p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>

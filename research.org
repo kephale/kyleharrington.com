@@ -1,7 +1,7 @@
 #+TITLE: Kyle Harrington
 #+SETUPFILE: theme/theme-bigblow-local.setup
 #+INCLUDE: "header.org"
-#+bibliography: /home/vkh/org/bibliography.bib
+#+bibliography: ~/org/bibliography.bib
 #+LaTeX_HEADER: \bibliography{$HOME/org/bibliography.bib}
 
 ** Indices and Databases
