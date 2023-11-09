@@ -21,7 +21,7 @@
    :CUSTOM_ID: journal-articles
    :END:
 
-27.  Finotto, L., Cole, B., Giese, W., Baumann, E., Claeys, A., Vanmechelen, M., Decraene, B., Derweduwe, M., Dubroja Lakic, N., Shankar, G. and Nagathihalli Kantharaju, M., 2023. Single-cell profiling and zebrafish avatars reveal LGALS1 as immunomodulating target in glioblastoma. EMBO Mol Med, 15, e18144.
+27.  Finotto, L., Cole, B., Giese, W., Baumann, E., Claeys, A., Vanmechelen, M., Decraene, B., Derweduwe, M., Dubroja Lakic, N., Shankar, G., Nagathihalli Kantharaju, M., Albrecht, J. P., Geudens, I, Stanchi, F., Ligon, K. L., Boeckx, B., Lambrechts, D., Harrington, K., Van Den Bosch, L, De Vleeschouwer, S., De Smet, F., Gerhardt, H., 2023. Single-cell profiling and zebrafish avatars reveal LGALS1 as immunomodulating target in glioblastoma. EMBO Mol Med, 15, e18144.
 26.  Selzer, G.J., Rueden, C.T., Hiner, M.C., Evans III, E.L., Harrington, K.I. and Eliceiri, K.W., 2023. napari-imagej: ImageJ ecosystem access from napari. Nature Methods, pp.1-2.   
 25.  Fan, K., Dhammapala, R., Harrington, K., Lamb, B. and Lee, Y., 2023. Machine learning-based ozone and PM2. 5 forecasting: Application to multiple AQS sites in the Pacific Northwest. Frontiers in big Data, 6, p.1124148.   
 24.  Barbara, R., Nagathihalli Kantharaju, M., Haruvi, R., Harrington, K. and Kawashima, T., 2022. PyZebraScope: an open-source platform for brain-wide neural activity imaging in zebrafish. Frontiers in cell and developmental biology, 10, p.875044.   
