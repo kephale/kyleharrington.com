@@ -21,12 +21,12 @@
    :CUSTOM_ID: journal-articles
    :END:
 
-27.  Finotto, L., Cole, B., Giese, W., Baumann, E., Claeys, A., Vanmechelen, M., Decraene, B., Derweduwe, M., Dubroja Lakic, N., Shankar, G. and Nagathihalli Kantharaju, M., 2023. Single-cell profiling and zebrafish avatars reveal LGALS1 as immunomodulating target in glioblastoma. EMBO Mol Med, 15, e18144.
-26.  Selzer, G.J., Rueden, C.T., Hiner, M.C., Evans III, E.L., Harrington, K.I. and Eliceiri, K.W., 2023. napari-imagej: ImageJ ecosystem access from napari. Nature Methods, pp.1-2.   
-25.  Fan, K., Dhammapala, R., Harrington, K., Lamb, B. and Lee, Y., 2023. Machine learning-based ozone and PM2. 5 forecasting: Application to multiple AQS sites in the Pacific Northwest. Frontiers in big Data, 6, p.1124148.   
-24.  Barbara, R., Nagathihalli Kantharaju, M., Haruvi, R., Harrington, K. and Kawashima, T., 2022. PyZebraScope: an open-source platform for brain-wide neural activity imaging in zebrafish. Frontiers in cell and developmental biology, 10, p.875044.   
-23.  Wiese, R., Harrington, K., Hartmann, K., Hethke, M., von Rintelen, T., Zhang, H., Zhang, L.J. and Riedel, F., 2022. Can fractal dimensions objectivize gastropod shell morphometrics? A case study from Lake Lugu (SW China). Ecology and Evolution, 12(3), p.e8622.   
-22.  Fan, K., Dhammapala, R., Harrington, K., Lamastro, R., Lamb, B. and Lee, Y., 2022. Development of a machine learning approach for local-scale ozone forecasting: application to Kennewick, WA. Frontiers in big Data, 5, p.781309.   
+27.  Finotto, L., Cole, B., Giese, W., Baumann, E., Claeys, A., Vanmechelen, M., Decraene, B., Derweduwe, M., Dubroja Lakic, N., Shankar, G. and Nagathihalli Kantharaju, M., 2023. Single-cell profiling and zebrafish avatars reveal LGALS1 as immunomodulating target in glioblastoma. EMBO Mol Med, 15, e18144.
+26.  Selzer, G.J., Rueden, C.T., Hiner, M.C., Evans III, E.L., Harrington, K.I. and Eliceiri, K.W., 2023. napari-imagej: ImageJ ecosystem access from napari. Nature Methods, pp.1-2.   
+25.  Fan, K., Dhammapala, R., Harrington, K., Lamb, B. and Lee, Y., 2023. Machine learning-based ozone and PM2. 5 forecasting: Application to multiple AQS sites in the Pacific Northwest. Frontiers in big Data, 6, p.1124148.   
+24.  Barbara, R., Nagathihalli Kantharaju, M., Haruvi, R., Harrington, K. and Kawashima, T., 2022. PyZebraScope: an open-source platform for brain-wide neural activity imaging in zebrafish. Frontiers in cell and developmental biology, 10, p.875044.   
+23.  Wiese, R., Harrington, K., Hartmann, K., Hethke, M., von Rintelen, T., Zhang, H., Zhang, L.J. and Riedel, F., 2022. Can fractal dimensions objectivize gastropod shell morphometrics? A case study from Lake Lugu (SW China). Ecology and Evolution, 12(3), p.e8622.   
+22.  Fan, K., Dhammapala, R., Harrington, K., Lamastro, R., Lamb, B. and Lee, Y., 2022. Development of a machine learning approach for local-scale ozone forecasting: application to Kennewick, WA. Frontiers in big Data, 5, p.781309.   
 21.  Bahry, E., Breimann, L., Zouinkhi, M., Epstein, L., Kolyvanov, K., Mamrak, N., King, B., Harrington, K. I.*, Lionnet, T.*, and Preibisch, S.* (2022). RS-FISH: Precise, interactive and scalable smFISH spot detection using Radial Symmetry. Nature Methods.
 ​* Co-corresponding authors   
 20.  Epstein, L., Dubois, Z., Smith, J., Lee, Y., & Harrington, K. (2021). Complex population dynamics in a spatial microbial ecosystem with Physarum polycephalum. BioSystems, 208, 104483.
