@@ -2,7 +2,7 @@
 #+SETUPFILE: theme/theme-bigblow-local.setup
 #+INCLUDE: "header.org"
 
-I am a Staff Software Engineer at the Chan Zuckerberg Initiative, Science, Imaging.
+I am the Team Lead for Machine Learning at the Chan Zuckerberg Institute for Advanced Biological Imaging.
 
 *Research:* computational methods in the study of biological and physical processes  
 *Context:* scientific computing, artificial life, and computational/theoretical biology  
