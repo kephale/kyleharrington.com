@@ -7,9 +7,9 @@
    :CUSTOM_ID: current
    :END:
 
-- Staff Software Engineer,  
-  Chan Zuckerberg Initiative,  
-  Alexandria, VA, USA  
+- Team Lead for Machine Learning
+  Chan Zuckerberg Institute for Advanced Biological Imaging
+  Redwood City, CA, USA
 
 ** Education
    :PROPERTIES:
@@ -31,7 +31,10 @@
    :CUSTOM_ID: positions
    :END:
 
-- Staff Software Engineer, 2023 - present,
+- Team Lead for Machine Learning, 2023 - Present,
+  Chan Zuckerberg Institute for Advanced Biological Imaging
+  Redwood City, CA, USA   
+- Staff Software Engineer, 2023 - 2024,
   Chan Zuckerberg Initiative,  
   Alexandria, VA, USA        
 - Senior Software Engineer, 2022 - 2023,

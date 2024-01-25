@@ -14,11 +14,11 @@
     <td style="vertical-align:bottom"><tiny>Kyle I. S. Harrington, Ph.D.,</td>
     <td></td>
     </tr><tr>
-    <td>Staff Software Engineer,</td>
+    <td>Team Lead, Machine Learning,</td>
     </tr><tr>
-    <td>Chan Zuckerberg Initiative,</td>
+    <td>Chan Zuckerberg Institute for Advanced Biological Imaging,</td>
     </tr><tr>
-    <td>Alexandria, VA, USA</td>
+    <td>Redwood City, CA, USA</td>
     </tr>
     </table>
   </td>
